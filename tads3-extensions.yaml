@@ -1,0 +1,13 @@
+schema-version: 1
+extensions:
+- name: se-tads3
+  author: Tomas Öberg
+  desc: '----'
+  homepage: git@github.com:toerob/se-tads3.git
+  versions:
+  - last-modified: 2026-05-11
+    type:
+    - adv3
+    version: 0.9.3-beta
+    url: git@github.com:toerob/se-tads3.git
+    branch: main
