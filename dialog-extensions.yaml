@@ -11,7 +11,7 @@ extensions:
         ext: zip
   - name: Dialog-German-Library
     desc: German Library Extension for Dialog Language
-    author: Howard M. Lewis Ship
+    author: Mikawa
     versions:
       - version: 1.0.0
         last-modified: "2022-09-13"
