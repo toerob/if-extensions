@@ -1,0 +1,17 @@
+schema-version: 2
+maintainer: Emily Short
+channel: stable
+compatibility:
+  inform:
+    constraint: '>=9.3 <10'
+source:
+  url: https://github.com/i7/extensions/blob/9.3/Emily%20Short/Glulx%20Entry%20Points.i7x
+  format: i7x
+build:
+  private:
+  - type: extension
+    path: Glulx Entry Points.i7x
+description: Provides hooks to allow the author to write specialized multimedia behavior
+  that would normally go through HandleGlkEvent. This is a rather dull utility library
+  that will be of most use to authors wanting to write Glulx extensions compatible
+  with other Glulx extensions already in use.

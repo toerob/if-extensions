@@ -1,0 +1,6 @@
+schema-version: 1
+id: autosave
+name: Autosave
+author: Daniel Stelzer
+description: Allows the programmer to save and restore from an autosave file without
+  the user being aware of it.

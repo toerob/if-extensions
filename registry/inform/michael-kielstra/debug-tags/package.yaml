@@ -1,0 +1,6 @@
+schema-version: 1
+id: debug-tags
+name: Debug Tags
+author: Michael Kielstra
+description: 'Take quick notes about what needs doing: bugs, ideas, et cetera.  Helpful
+  for debugging.'

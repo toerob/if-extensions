@@ -1,0 +1,6 @@
+schema-version: 1
+id: extended-grammar
+name: Extended Grammar
+author: Aaron Reed
+description: Adds some of the most commonly attempted verb synonyms and alternate
+  grammar lines. Based on the Inform 6 extension ExpertGrammar.h by Emily Short.

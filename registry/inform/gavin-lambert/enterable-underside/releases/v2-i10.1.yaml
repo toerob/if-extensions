@@ -1,0 +1,15 @@
+schema-version: 2
+maintainer: Gavin Lambert
+channel: stable
+compatibility:
+  inform:
+    constraint: '>=10.1'
+source:
+  url: https://github.com/i7/extensions/blob/10.1/Gavin%20Lambert/Enterable%20Underside-v2.i7x
+  format: i7x
+build:
+  private:
+  - type: extension
+    path: Enterable Underside-v2.i7x
+description: Adds the ability to enter 'under' some object, such as hiding under a
+  bed.

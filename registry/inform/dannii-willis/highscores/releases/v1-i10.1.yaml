@@ -1,0 +1,14 @@
+schema-version: 2
+maintainer: Dannii Willis
+channel: stable
+compatibility:
+  inform:
+    constraint: '>=10.1'
+source:
+  url: https://github.com/i7/extensions/blob/10.1/Dannii%20Willis/Highscores-v1.i7x
+  format: i7x
+build:
+  private:
+  - type: extension
+    path: Highscores-v1.i7x
+description: Record and review highscores to an external file

@@ -1,0 +1,16 @@
+schema-version: 2
+maintainer: Emily Short
+channel: stable
+compatibility:
+  inform:
+    constraint: '>=10.1'
+source:
+  url: https://github.com/i7/extensions/blob/10.1/Emily%20Short/Single%20Paragraph%20Description-v7.i7x
+  format: i7x
+build:
+  private:
+  - type: extension
+    path: Single Paragraph Description-v7.i7x
+description: A room description extension based on Room Description Control (which
+  is required). All contents of a room are summarized in a single paragraph, starting
+  with the regular room description.

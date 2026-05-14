@@ -1,0 +1,16 @@
+schema-version: 2
+maintainer: Erik Temple
+channel: stable
+compatibility:
+  inform:
+    constraint: '>=9.3 <10'
+source:
+  url: https://github.com/i7/extensions/blob/9.3/Erik%20Temple/Inline%20Hyperlinks.i7x
+  format: i7x
+build:
+  private:
+  - type: extension
+    path: Inline Hyperlinks.i7x
+description: Provides a simple, HTML-inspired syntax for adding hyperlinks within
+  say phrases. No manual management of hyperlinks required. Requires Text Capture
+  by Eric Eve. Works seamlessly with, but does not require, Flexible Windows.

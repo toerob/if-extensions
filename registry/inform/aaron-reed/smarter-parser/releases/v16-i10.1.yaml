@@ -1,0 +1,15 @@
+schema-version: 2
+maintainer: Aaron Reed
+channel: stable
+compatibility:
+  inform:
+    constraint: '>=10.1'
+source:
+  url: https://github.com/i7/extensions/blob/10.1/Aaron%20Reed/Smarter%20Parser-v16.i7x
+  format: i7x
+build:
+  private:
+  - type: extension
+    path: Smarter Parser-v16.i7x
+description: Understands a broader range of input than the standard parser, and can
+  direct new players towards proper syntax.

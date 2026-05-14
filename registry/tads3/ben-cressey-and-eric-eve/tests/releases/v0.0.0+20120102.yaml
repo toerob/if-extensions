@@ -1,0 +1,10 @@
+schema-version: 2
+maintainer: Ben Cressey and Eric Eve
+date: '2012-01-02'
+source:
+  url: https://www.ifarchive.org/if-archive/programming/tads3/library/contributions/tests.t
+  format: t
+build:
+  exports:
+  - type: source
+    path: tests

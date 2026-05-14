@@ -1,0 +1,5 @@
+schema-version: 1
+id: assorted-text-generation
+name: Assorted Text Generation
+author: Emily Short
+description: 'BUG: author has misdefined sets'

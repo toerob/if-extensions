@@ -1,0 +1,16 @@
+schema-version: 2
+maintainer: Erik Temple
+channel: stable
+compatibility:
+  inform:
+    constraint: '>=9.3 <10'
+source:
+  url: https://github.com/i7/extensions/blob/9.3/Erik%20Temple/Glimmr%20Drawing%20Commands.i7x
+  format: i7x
+build:
+  private:
+  - type: extension
+    path: Glimmr Drawing Commands.i7x
+description: Provides commands for displaying images, shape primitives (such as rectangles,
+  boxes, and lines), user-specified bitmap drawings, image maps, and for text-painting
+  using 'fonts' with glyphs composed of either bitmaps or image files.

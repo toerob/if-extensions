@@ -1,0 +1,10 @@
+schema-version: 2
+maintainer: Steve Breslin
+date: '2004-09-19'
+source:
+  url: https://www.ifarchive.org/if-archive/programming/tads3/library/contributions/OccludingConnector.t
+  format: t
+build:
+  exports:
+  - type: source
+    path: OccludingConnector

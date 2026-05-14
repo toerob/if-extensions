@@ -1,0 +1,5 @@
+schema-version: 1
+id: custom-banner-and-version
+name: Custom Banner and Version
+author: Zed Lopez
+description: A framework for customizing banner and version output. For 6M62.

@@ -1,0 +1,6 @@
+schema-version: 1
+id: directional-disambiguation
+name: Directional Disambiguation
+author: Xavid
+description: When a player types a standard direction in response to a disambiguation
+  question, assume they meant to go that direction, not answer the question.

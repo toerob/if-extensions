@@ -1,0 +1,7 @@
+schema-version: 1
+id: command-prompt-on-cue
+name: Command Prompt on Cue
+author: Ron Newcomb
+description: Creates a situation without a command prompt where the player may simply
+  press space or enter to WAIT.  But if the player instead begins to type a command,
+  the command prompt will then appear.

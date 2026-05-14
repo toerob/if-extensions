@@ -1,0 +1,18 @@
+schema-version: 2
+maintainer: Eric Eve
+channel: stable
+compatibility:
+  inform:
+    constraint: '>=11.0'
+source:
+  url: https://github.com/i7/extensions/tree/11.0/Eric%20Eve/Underside-v6_1_1.i7xd
+  format: i7xd
+build:
+  private:
+  - type: extension
+    path: Underside-v6_1_1.i7xd
+description: Allows objects to be put under other objects. An underside usually starts
+  out closed so that its contents are hidden from view. Requires Version 7 (or later)
+  of Bulk Limiter; the space under objects is limited by bulk. Underside is compatible
+  with Version 10 or later of Implicit Actions, but does not require it. Version 5
+  of Underside avoids features deprecated in Version 6E59 of Inform.

@@ -1,0 +1,17 @@
+schema-version: 2
+maintainer: Emily Short
+channel: stable
+compatibility:
+  inform:
+    constraint: '>=11.0'
+source:
+  url: https://github.com/i7/extensions/tree/11.0/Emily%20Short/Measured%20Liquid-v6_3_1.i7xd
+  format: i7xd
+build:
+  private:
+  - type: extension
+    path: Measured Liquid-v6_3_1.i7xd
+description: Measured Liquid provides a concept of volume, together with the ability
+  to fill containers, pour measured amounts of liquid, and drink from containers.
+  It handles mixtures as well, if desired. It is compatible with, but does not require,
+  the Metric Units extension by Graham Nelson.

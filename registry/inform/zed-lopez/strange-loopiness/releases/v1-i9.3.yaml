@@ -1,0 +1,20 @@
+schema-version: 2
+maintainer: Zed Lopez
+channel: stable
+compatibility:
+  inform:
+    constraint: '>=9.3 <10'
+source:
+  url: https://github.com/i7/extensions/blob/9.3/Zed%20Lopez/Strange%20Loopiness.i7x
+  format: i7x
+build:
+  private:
+  - type: extension
+    path: Strange Loopiness.i7x
+description: 'Repeat variants for: until loop; loop counting down over a numeric or
+
+  enumerated value range; loop n times. For any loop, optionally assign a loop
+
+  counter variable; for looping through tables optionally assign a row number
+
+  variable. Allows more flexible syntax for the existing repeat loops. For 6M62.'

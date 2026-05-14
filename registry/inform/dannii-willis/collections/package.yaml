@@ -1,0 +1,5 @@
+schema-version: 1
+id: collections
+name: Collections
+author: Dannii Willis
+description: Provides support for array and map data structures

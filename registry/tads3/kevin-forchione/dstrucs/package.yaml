@@ -1,0 +1,7 @@
+schema-version: 1
+id: dstrucs
+name: Dstrucs
+author: Kevin Forchione
+description: 'A module that implements a number of low-level data structures: nodes,
+  single- and double-linked lists, circular single- and double-linked lists, stacks,
+  and queues. Version 2.0.1, by Kevin Forchione.'

@@ -1,0 +1,16 @@
+schema-version: 1
+id: mini-map
+name: Mini-Map
+author: Drew Cook
+description: 'Prints a mini-map of the player''s current location, with the player
+  at the map''s center. Since this is integrated with mathbrush''s ''Bisquixe'' interpreter,
+  various rooms are displayed as hyperlinks. Other than including the needed extensions,
+  this should work automatically. As rooms are added to the project, the mini-map
+  should display the relevant information.
+
+
+  Mini-Map does not require a Bisquixe interpreter. It should function in most interpreters.
+  It nevertheless does require Simple Multimedia Effects for v10.
+
+
+  Mini-Map has only been tested with Inform 10.1.2'

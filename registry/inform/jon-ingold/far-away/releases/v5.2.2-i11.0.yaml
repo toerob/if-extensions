@@ -1,0 +1,14 @@
+schema-version: 2
+maintainer: Jon Ingold
+channel: stable
+compatibility:
+  inform:
+    constraint: '>=11.0'
+source:
+  url: https://github.com/i7/extensions/tree/11.0/Jon%20Ingold/Far%20Away-v5_2_2.i7xd
+  format: i7xd
+build:
+  private:
+  - type: extension
+    path: Far Away-v5_2_2.i7xd
+description: Creates an adjective for far-off items which cannot be touched.

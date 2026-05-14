@@ -1,0 +1,23 @@
+schema-version: 2
+maintainer: Zed Lopez
+channel: stable
+compatibility:
+  inform:
+    constraint: '>=9.3 <10'
+source:
+  url: https://github.com/i7/extensions/blob/9.3/Zed%20Lopez/Verbal%20Commands.i7x
+  format: i7x
+build:
+  private:
+  - type: extension
+    path: Verbal Commands.i7x
+description: 'Provides a ''verbs'' command to output known verbs, a ''conjugate''
+  command
+
+  to demonstrate the conjugation of a given verb, and a ''meaning'' command
+
+  to report whether a verb is for saying only, means a property or what
+
+  relationship it means if it means a relationship. The whole extension
+
+  is marked Not for Release. For 6M62.'

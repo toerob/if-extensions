@@ -1,0 +1,7 @@
+schema-version: 2
+maintainer: Th3OneAndOnly
+date: '2020-08-14'
+source:
+  url: https://github.com/Th3OneAndOnly/AdventEX.git
+  format: git
+  branch: master

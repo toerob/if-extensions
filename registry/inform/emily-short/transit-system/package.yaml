@@ -1,0 +1,6 @@
+schema-version: 1
+id: transit-system
+name: Transit System
+author: Emily Short
+description: Transit System provides a train-car kind which follows a schedule around
+  the map, allowing the player or other characters to get on or off.

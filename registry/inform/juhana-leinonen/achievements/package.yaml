@@ -1,0 +1,6 @@
+schema-version: 1
+id: achievements
+name: Achievements
+author: Juhana Leinonen
+description: A simple but flexible rule-based achievement system. Awarded achievements
+  can optionally persist in external files after a restart.

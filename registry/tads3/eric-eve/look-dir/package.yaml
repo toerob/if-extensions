@@ -1,0 +1,6 @@
+schema-version: 1
+id: look-dir
+name: LookDir
+author: Eric Eve
+description: A module that implements >LOOK [direction] commands (e.g. "LOOK NORTH").
+  Version 4, by Eric Eve.

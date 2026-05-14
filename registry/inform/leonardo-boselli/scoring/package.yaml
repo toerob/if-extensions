@@ -1,0 +1,5 @@
+schema-version: 1
+id: scoring
+name: Scoring
+author: Leonardo Boselli
+description: About the score.

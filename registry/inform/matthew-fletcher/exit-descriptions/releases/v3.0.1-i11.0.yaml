@@ -1,0 +1,15 @@
+schema-version: 2
+maintainer: Matthew Fletcher
+channel: stable
+compatibility:
+  inform:
+    constraint: '>=11.0'
+source:
+  url: https://github.com/i7/extensions/tree/11.0/Matthew%20Fletcher/Exit%20Descriptions-v3_0_1.i7xd
+  format: i7xd
+build:
+  private:
+  - type: extension
+    path: Exit Descriptions-v3_0_1.i7xd
+description: Appends a list of exit directions and names any previously visited rooms
+  at the end of a room description.

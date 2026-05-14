@@ -1,0 +1,5 @@
+schema-version: 1
+id: dynamic-objects
+name: Dynamic Objects
+author: Tara McGrew
+description: Provides the ability to create new objects during game play.

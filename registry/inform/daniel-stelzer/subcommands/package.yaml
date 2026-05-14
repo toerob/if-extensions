@@ -1,0 +1,5 @@
+schema-version: 1
+id: subcommands
+name: Subcommands
+author: Daniel Stelzer
+description: Exposes the snippets referring to each noun.

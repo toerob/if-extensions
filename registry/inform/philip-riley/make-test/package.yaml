@@ -1,0 +1,5 @@
+schema-version: 1
+id: make-test
+name: Make Test
+author: Philip Riley
+description: Allows automatic creation of 'test' phrases

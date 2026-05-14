@@ -1,0 +1,14 @@
+schema-version: 2
+maintainer: Zed Lopez
+channel: stable
+compatibility:
+  inform:
+    constraint: '>=9.3 <10'
+source:
+  url: https://github.com/i7/extensions/blob/9.3/Zed%20Lopez/Custom%20Banner%20and%20Version.i7x
+  format: i7x
+build:
+  private:
+  - type: extension
+    path: Custom Banner and Version.i7x
+description: A framework for customizing banner and version output. For 6M62.

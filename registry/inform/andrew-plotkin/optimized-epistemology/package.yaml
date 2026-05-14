@@ -1,0 +1,5 @@
+schema-version: 1
+id: optimized-epistemology
+name: Optimized Epistemology
+author: Andrew Plotkin
+description: Keeping track of what the player character knows and sees.

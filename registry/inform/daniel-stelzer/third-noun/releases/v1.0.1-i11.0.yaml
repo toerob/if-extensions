@@ -1,0 +1,17 @@
+schema-version: 2
+maintainer: Daniel Stelzer
+channel: stable
+compatibility:
+  inform:
+    constraint: '>=11.0'
+source:
+  url: https://github.com/i7/extensions/tree/11.0/Daniel%20Stelzer/Third%20Noun-v1_0_1.i7xd
+  format: i7xd
+build:
+  private:
+  - type: extension
+    path: Third Noun-v1_0_1.i7xd
+description: '.
+
+
+  The understand token third something translates into I6 as '

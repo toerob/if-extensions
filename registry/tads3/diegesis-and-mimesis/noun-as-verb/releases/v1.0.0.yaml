@@ -1,0 +1,11 @@
+schema-version: 2
+maintainer: Diegesis & Mimesis
+date: '2023-04-25'
+source:
+  url: https://github.com/diegesisandmimesis/nounAsVerb.git
+  format: git
+  branch: master
+build:
+  exports:
+  - type: lib
+    path: nounAsVerb/nounAsVerb

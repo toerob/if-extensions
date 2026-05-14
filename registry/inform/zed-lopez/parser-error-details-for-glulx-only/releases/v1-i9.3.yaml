@@ -1,0 +1,15 @@
+schema-version: 2
+maintainer: Zed Lopez
+channel: stable
+compatibility:
+  inform:
+    constraint: '>=9.3 <10'
+source:
+  url: https://github.com/i7/extensions/blob/9.3/Zed%20Lopez/Parser%20Error%20Details.i7x
+  format: i7x
+build:
+  private:
+  - type: extension
+    path: Parser Error Details.i7x
+description: "Says where the parser ceased understanding a command, and describes\n\
+  \ ways the dictionary does know how to use that verb. Tested on 6M62."

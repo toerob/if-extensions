@@ -1,0 +1,19 @@
+schema-version: 2
+maintainer: Nathanael Nerode
+channel: stable
+compatibility:
+  inform:
+    constraint: '>=9.3 <10'
+source:
+  url: https://github.com/i7/extensions/blob/9.3/Nathanael%20Nerode/Compliant%20Characters.i7x
+  format: i7x
+build:
+  private:
+  - type: extension
+    path: Compliant Characters.i7x
+description: Report parsing errors to the player when ordering other characters to
+  do things.  Inform 7 normally redirects these errors to 'answer <topic>' so that
+  the character can respond to arbitrary statements.  But in an story with compliant
+  characters who the player orders around routinely, that is frustrating to a player
+  who has made a typo; this helps out the player.  Requires Parser Error Number Bugfix
+  and version 4 of Neutral Standard Responses.  Tested with Inform 6M62.

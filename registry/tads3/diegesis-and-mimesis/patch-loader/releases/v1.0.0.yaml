@@ -1,0 +1,11 @@
+schema-version: 2
+maintainer: Diegesis & Mimesis
+date: '2023-01-31'
+source:
+  url: https://github.com/diegesisandmimesis/patchLoader.git
+  format: git
+  branch: master
+build:
+  exports:
+  - type: lib
+    path: patchLoader/patchLoader

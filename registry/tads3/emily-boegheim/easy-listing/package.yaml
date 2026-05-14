@@ -1,0 +1,7 @@
+schema-version: 1
+id: easy-listing
+name: easyListing
+author: Emily Boegheim
+description: An extension making it quicker and easier to print simple lists, including
+  offering message parameter substitutions for lists (e.g. "{the/list yourList}").
+  Version 0.3, by Emily Boegheim.

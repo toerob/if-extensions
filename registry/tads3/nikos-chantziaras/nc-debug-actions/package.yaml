@@ -1,0 +1,8 @@
+schema-version: 1
+id: nc-debug-actions
+name: ncDebugActions
+author: Nikos Chantziaras
+description: Debugging verbs for testing a game. The verbs are modelled after those
+  in the TADS 2 module wizard.t. Version 1.1, by Nikos Chantziaras.
+tags:
+- debug

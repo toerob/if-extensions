@@ -1,0 +1,5 @@
+schema-version: 1
+id: notepad
+name: Notepad
+author: Jim Aikin
+description: A system for creating an in-game notepad that the player can write on.

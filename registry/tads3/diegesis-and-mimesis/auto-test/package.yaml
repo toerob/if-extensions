@@ -1,0 +1,6 @@
+schema-version: 1
+id: auto-test
+name: autoTest
+author: Diegesis & Mimesis
+description: A TADS3 module that assists implementing automated testing without the
+  use of a command file,

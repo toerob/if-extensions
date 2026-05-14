@@ -1,0 +1,15 @@
+schema-version: 2
+maintainer: Gavin Lambert
+channel: stable
+compatibility:
+  inform:
+    constraint: '>=9.3 <10'
+source:
+  url: https://github.com/i7/extensions/blob/9.3/Gavin%20Lambert/Glk%20Input%20Suspending.i7x
+  format: i7x
+build:
+  private:
+  - type: extension
+    path: Glk Input Suspending.i7x
+description: Provides a mechanism to 'suspend' line and character inputs in progress
+  to allow something to be printed, and then input resumed afterwards.

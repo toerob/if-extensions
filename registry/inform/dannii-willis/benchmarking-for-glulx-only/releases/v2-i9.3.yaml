@@ -1,0 +1,15 @@
+schema-version: 2
+maintainer: Dannii Willis
+channel: stable
+compatibility:
+  inform:
+    constraint: '>=9.3 <10'
+source:
+  url: https://github.com/i7/extensions/blob/9.3/Dannii%20Willis/Benchmarking.i7x
+  format: i7x
+build:
+  private:
+  - type: extension
+    path: Benchmarking.i7x
+description: A general purpose benchmarking test framework that produces statistically
+  significant results. Version 2 works with 6M62.

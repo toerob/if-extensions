@@ -1,0 +1,6 @@
+schema-version: 1
+id: snippetage
+name: Snippetage
+author: Dave Robinson
+description: Some functions for setting and use of snippets (parts of the player's
+  command).

@@ -1,0 +1,16 @@
+schema-version: 2
+maintainer: Massimo Stella
+channel: stable
+compatibility:
+  inform:
+    constraint: '>=9.3 <10'
+source:
+  url: https://github.com/i7/extensions/blob/9.3/Massimo%20Stella/Italian%20Language.i7x
+  format: i7x
+build:
+  private:
+  - type: extension
+    path: Italian Language.i7x
+description: To make Italian the language of play. Heavily based on code written by
+  Massimo Stella. Now maintained by Leonardo Boselli. Requires 'Text Capture' by Eric
+  Eve.

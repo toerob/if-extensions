@@ -1,0 +1,6 @@
+schema-version: 2
+maintainer: Krister Fundin
+date: '2006-11-14'
+source:
+  url: https://www.ifarchive.org/if-archive/programming/tads3/library/contributions/tips.zip
+  format: zip

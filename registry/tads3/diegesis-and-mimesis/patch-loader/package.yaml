@@ -1,0 +1,6 @@
+schema-version: 1
+id: patch-loader
+name: patchLoader
+author: Diegesis & Mimesis
+description: This module implements a mechanism for post-release patching of TADS3
+  games

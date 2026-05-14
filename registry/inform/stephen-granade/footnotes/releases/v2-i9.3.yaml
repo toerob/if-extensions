@@ -1,0 +1,15 @@
+schema-version: 2
+maintainer: Stephen Granade
+channel: stable
+compatibility:
+  inform:
+    constraint: '>=9.3 <10'
+source:
+  url: https://github.com/i7/extensions/blob/9.3/Stephen%20Granade/Footnotes.i7x
+  format: i7x
+build:
+  private:
+  - type: extension
+    path: Footnotes.i7x
+description: Provides a framework for organizing and displaying footnotes in a game.
+  Version 2 makes Footnotes responsive and 6L38-compatible.

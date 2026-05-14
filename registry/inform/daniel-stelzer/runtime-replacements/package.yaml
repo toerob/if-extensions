@@ -1,0 +1,6 @@
+schema-version: 1
+id: runtime-replacements
+name: Runtime Replacements
+author: Daniel Stelzer
+description: ". [The replacement machinery doesn't seem to work on local variables.]\n\
+  \nAfter reading a command:\n\tif word number 1 in the player's command is "

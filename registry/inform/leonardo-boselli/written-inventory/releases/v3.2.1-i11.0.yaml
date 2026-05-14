@@ -1,0 +1,17 @@
+schema-version: 2
+maintainer: Leonardo Boselli
+channel: stable
+compatibility:
+  inform:
+    constraint: '>=11.0'
+source:
+  url: https://github.com/i7/extensions/tree/11.0/Leonardo%20Boselli/Written%20Inventory-v3_2_1.i7xd
+  format: i7xd
+build:
+  private:
+  - type: extension
+    path: Written Inventory-v3_2_1.i7xd
+description: Just Version 3 of Written Inventory by Jon Ingold made adaptive. Provides
+  a framework for listing inventories in natural sentences. Separates carried and
+  worn objects, followed by objects that contains other objects. What's listed in
+  the third section is customisable via a rulebook.

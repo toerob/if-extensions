@@ -1,0 +1,6 @@
+schema-version: 1
+id: distantly-visible-things
+name: Distantly Visible Things
+author: Marc von der Heiden
+description: Provides flexible handling of things that can be seen in multiple rooms,
+  but - unlike backdrops - still have one distinct location.

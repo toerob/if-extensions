@@ -1,0 +1,5 @@
+schema-version: 1
+id: alternative-startup-rules-for-glulx-only
+name: Alternative Startup Rules (for Glulx only)
+author: Dannii Willis
+description: Refactors the Startup Rules so that it can be more easily altered

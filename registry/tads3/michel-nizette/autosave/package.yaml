@@ -1,0 +1,8 @@
+schema-version: 1
+id: autosave
+name: autosave
+author: Michel Nizette
+description: An extension that allows the player to restore the game to an earlier
+  state determined by the game itself, like "undo", except that the story is brought
+  back to a specific point rather than one turn backwards. Version November 23, 2008,
+  by Michel Nizette.

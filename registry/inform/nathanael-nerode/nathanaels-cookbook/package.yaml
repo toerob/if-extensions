@@ -1,0 +1,7 @@
+schema-version: 1
+id: nathanaels-cookbook
+name: Nathanael's Cookbook
+author: Nathanael Nerode
+description: This is just a collection of documentation and worked examples illustrating
+  various features of Inform.  There isn't much in the extension per se, but the examples
+  in the documentation can be click-pasted in the Inform IDE for convenience.

@@ -1,0 +1,6 @@
+schema-version: 1
+id: after-not-doing-something
+name: After Not Doing Something
+author: Ron Newcomb
+description: Allows us to write rules that happen after an action fails, such as 'After
+  not examining or searching something'

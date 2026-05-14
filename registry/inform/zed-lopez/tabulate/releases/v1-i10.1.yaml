@@ -1,0 +1,16 @@
+schema-version: 2
+maintainer: Zed Lopez
+channel: stable
+compatibility:
+  inform:
+    constraint: '>=10.1'
+source:
+  url: https://github.com/i7/extensions/blob/10.1/Zed%20Lopez/Tabulate-v1.i7x
+  format: i7x
+build:
+  private:
+  - type: extension
+    path: Tabulate-v1.i7x
+description: 'Provides a phrase to go from a text to a table name, and a not-for-release
+
+  tabulate action to show the contents of a table.'

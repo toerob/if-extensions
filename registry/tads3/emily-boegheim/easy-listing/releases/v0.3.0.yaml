@@ -1,0 +1,6 @@
+schema-version: 2
+maintainer: Emily Boegheim
+date: '2016-04-04'
+source:
+  url: https://www.ifarchive.org/if-archive/programming/tads3/library/contributions/easyListing.t
+  format: t

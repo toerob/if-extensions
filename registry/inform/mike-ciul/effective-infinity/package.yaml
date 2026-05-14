@@ -1,0 +1,6 @@
+schema-version: 1
+id: effective-infinity
+name: Effective Infinity
+author: Mike Ciul
+description: Provides a system of counting numbers which never go below 0 or above
+  a specified maximum value. Any numbers above the maximum are considered infinite.

@@ -1,0 +1,6 @@
+schema-version: 2
+maintainer: Kevin Forchione
+date: '2009-02-04'
+source:
+  url: https://www.ifarchive.org/if-archive/programming/tads3/library/contributions/imm.t
+  format: t

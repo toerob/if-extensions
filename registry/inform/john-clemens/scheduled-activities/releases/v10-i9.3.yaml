@@ -1,0 +1,14 @@
+schema-version: 2
+maintainer: John Clemens
+channel: stable
+compatibility:
+  inform:
+    constraint: '>=9.3 <10'
+source:
+  url: https://github.com/i7/extensions/blob/9.3/John%20Clemens/Scheduled%20Activities.i7x
+  format: i7x
+build:
+  private:
+  - type: extension
+    path: Scheduled Activities.i7x
+description: An extension to allow scheduling of activities. For 6M62

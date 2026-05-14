@@ -1,0 +1,6 @@
+schema-version: 1
+id: imm
+name: imm
+author: Kevin Forchione
+description: An implementation of an "inherited" multi-method mechanism for TADS 3
+  multi-methods, by Kevin Forchione.

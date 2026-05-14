@@ -1,0 +1,15 @@
+schema-version: 2
+maintainer: Dannii Willis
+channel: stable
+compatibility:
+  inform:
+    constraint: '>=9.3 <10'
+source:
+  url: https://github.com/i7/extensions/blob/9.3/Dannii%20Willis/Xorshift.i7x
+  format: i7x
+build:
+  private:
+  - type: extension
+    path: Xorshift.i7x
+description: Allows Inform 7's random number generator to be replaced with one that
+  is consistent across all interpreters

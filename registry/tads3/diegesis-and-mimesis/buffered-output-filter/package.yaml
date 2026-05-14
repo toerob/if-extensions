@@ -1,0 +1,6 @@
+schema-version: 1
+id: buffered-output-filter
+name: bufferedOutputFilter
+author: Diegesis & Mimesis
+description: A TADS3 module implementing simple buffered output filters for purely
+  typographic formatting using HTML/XML-ish tags

@@ -1,0 +1,6 @@
+schema-version: 1
+id: interpreter-sniffing-for-glulx-only
+name: Interpreter Sniffing (for Glulx only)
+author: Friends of I7
+description: Phrases for testing, as far as is possible, which interpreter the story
+  is running under.

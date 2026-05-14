@@ -1,0 +1,16 @@
+schema-version: 2
+maintainer: Emily Short
+channel: stable
+compatibility:
+  inform:
+    constraint: '>=11.0'
+source:
+  url: https://github.com/i7/extensions/tree/11.0/Emily%20Short/Recorded%20Endings-v5_0_1.i7xd
+  format: i7xd
+build:
+  private:
+  - type: extension
+    path: Recorded Endings-v5_0_1.i7xd
+description: Records the endings the player encounters in multiple play-throughs to
+  an external file; then adds an ENDINGS option to the final question to allow the
+  player to review which endings he has seen so far.

@@ -1,0 +1,19 @@
+schema-version: 2
+maintainer: Taryn Michelle
+channel: stable
+compatibility:
+  inform:
+    constraint: '>=11.0'
+source:
+  url: https://github.com/i7/extensions/tree/11.0/Taryn%20Michelle/Print%20Stage%20Detection-v2_1.i7xd
+  format: i7xd
+build:
+  private:
+  - type: extension
+    path: Print Stage Detection-v2_1.i7xd
+description: '''Printing the name'' rules make TWO passes over the same object when
+  Inform needs to determine the appropriate article to print. This is a non-issue
+  for many rules, but ''printing the name'' rules with side effects may need to know
+  which stage is currently being processed (article-choosing or name-printing), so
+  that they can avoid double-execution of any side effects.  Updated for compatability
+  with Inform version 10.1.2'

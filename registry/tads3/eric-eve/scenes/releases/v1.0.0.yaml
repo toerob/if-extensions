@@ -1,0 +1,6 @@
+schema-version: 2
+maintainer: Eric Eve
+date: '2009-07-12'
+source:
+  url: https://www.ifarchive.org/if-archive/programming/tads3/library/contributions/scenes.t
+  format: t

@@ -1,0 +1,10 @@
+schema-version: 2
+maintainer: Krister Fundin
+date: '2007-04-28'
+source:
+  url: https://www.ifarchive.org/if-archive/programming/tads3/library/contributions/megatads.zip
+  format: zip
+build:
+  exports:
+  - type: lib
+    path: megatads/megatads

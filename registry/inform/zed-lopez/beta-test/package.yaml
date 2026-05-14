@@ -1,0 +1,6 @@
+schema-version: 1
+id: beta-test
+name: Beta Test
+author: Zed Lopez
+description: "Automatically start transcript at beginning of game; accept comments\
+  \ with '*'\n without error messages."

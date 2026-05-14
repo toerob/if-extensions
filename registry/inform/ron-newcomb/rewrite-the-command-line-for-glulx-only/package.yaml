@@ -1,0 +1,5 @@
+schema-version: 1
+id: rewrite-the-command-line-for-glulx-only
+name: Rewrite the Command Line (for Glulx only)
+author: Ron Newcomb
+description: Allows us to erase then rewrite the commands our player types in.

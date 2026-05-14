@@ -1,0 +1,5 @@
+schema-version: 1
+id: simple-graph
+name: simpleGraph
+author: Diegesis & Mimesis
+description: A TADS3 module for handling simple undirected graphs

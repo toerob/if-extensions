@@ -1,0 +1,5 @@
+schema-version: 1
+id: rideable-vehicles
+name: Rideable Vehicles
+author: Gavin Lambert
+description: Improves how rideable vehicles and animals interact with other supporters.

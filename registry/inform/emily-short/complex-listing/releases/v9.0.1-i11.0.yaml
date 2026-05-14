@@ -1,0 +1,16 @@
+schema-version: 2
+maintainer: Emily Short
+channel: stable
+compatibility:
+  inform:
+    constraint: '>=11.0'
+source:
+  url: https://github.com/i7/extensions/tree/11.0/Emily%20Short/Complex%20Listing-v9_0_1.i7xd
+  format: i7xd
+build:
+  private:
+  - type: extension
+    path: Complex Listing-v9_0_1.i7xd
+description: 'Complex Listing provides more sophisticated listing options: the ability
+  to impose special ordering instructions on a list, and also the ability to change
+  the delimiters of the list to produce different styles and effects.'

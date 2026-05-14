@@ -1,0 +1,20 @@
+schema-version: 2
+maintainer: Wade Clarke
+channel: stable
+compatibility:
+  inform:
+    constraint: '>=9.3 <10'
+source:
+  url: https://github.com/i7/extensions/blob/9.3/Wade%20Clarke/Menus.i7x
+  format: i7x
+build:
+  private:
+  - type: extension
+    path: Menus.i7x
+description: Lets you include a menu system of help, hints and/or other information
+  in your Glulx or Z-Code project for Inform 6M62 or later. This upgrade of Emily
+  Short's classic Menus extension features user-friendly single keypress controls,
+  a more sophisticated UI, compatibility with screen readers and portable devices,
+  an optional book mode with automatic pagination, and isolated message content to
+  make translations easier. Classic Menus tables can be reformatted for this extension
+  with a little work.

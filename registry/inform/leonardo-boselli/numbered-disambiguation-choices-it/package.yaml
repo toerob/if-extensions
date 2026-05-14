@@ -1,0 +1,7 @@
+schema-version: 1
+id: numbered-disambiguation-choices-it
+name: Numbered Disambiguation Choices IT
+author: Leonardo Boselli
+description: Numbers the options in disambiguation questions, to help new players
+  and solve the 'disambiguation loop' problem caused by indistinguishable objects.
+  Semplicemente tradotto in italiano.

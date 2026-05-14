@@ -1,0 +1,7 @@
+schema-version: 1
+id: exit-lister
+name: Exit Lister
+author: Eric Eve
+description: A status line exit-lister and an EXITS command, with optional colouring
+  of unvisited exits. Selected rooms and doors can be optionally be excluded from
+  the list of exits.

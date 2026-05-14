@@ -1,0 +1,11 @@
+schema-version: 1
+id: variable-time-control
+name: Variable Time Control
+author: Nathanael Nerode
+description: 'Tracks time so that most actions can take specific amounts of time specified
+  by the game author.
+
+  Failed/rejected actions take no time by default.  Allows tracking time separately
+  in different scenes
+
+  to allow for time travel scenarios.  Not currently fully functional.'

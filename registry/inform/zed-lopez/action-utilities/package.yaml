@@ -1,0 +1,5 @@
+schema-version: 1
+id: action-utilities
+name: Action Utilities
+author: Zed Lopez
+description: Get metadata for actions and action names

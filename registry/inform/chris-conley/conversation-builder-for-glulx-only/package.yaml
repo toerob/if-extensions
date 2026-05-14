@@ -1,0 +1,5 @@
+schema-version: 1
+id: conversation-builder-for-glulx-only
+name: Conversation Builder (for glulx only)
+author: Chris Conley
+description: An interactive question-and-answer system for building conversations.

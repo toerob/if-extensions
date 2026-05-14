@@ -1,0 +1,11 @@
+schema-version: 1
+id: supercredits
+name: Supercredits
+author: Zed Lopez
+description: 'Provides the Supercredits command to list the complete list of extension
+
+  credits (i.e., including those that use authorial modesty) alphabetized by
+
+  author name then extension name, and formatted nicely. The whole extension
+
+  is marked Not for Release. For 6M62.'

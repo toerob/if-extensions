@@ -1,0 +1,15 @@
+schema-version: 2
+maintainer: Jeff Nyman
+channel: stable
+compatibility:
+  inform:
+    constraint: '>=11.0'
+source:
+  url: https://github.com/i7/extensions/tree/11.0/Jeff%20Nyman/Description%20Decay-v1_3_1.i7xd
+  format: i7xd
+build:
+  private:
+  - type: extension
+    path: Description Decay-v1_3_1.i7xd
+description: Provides a mechanism for allowing description levels to change based
+  on number of visits

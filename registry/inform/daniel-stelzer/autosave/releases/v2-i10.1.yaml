@@ -1,0 +1,15 @@
+schema-version: 2
+maintainer: Daniel Stelzer
+channel: stable
+compatibility:
+  inform:
+    constraint: '>=10.1'
+source:
+  url: https://github.com/i7/extensions/blob/10.1/Daniel%20Stelzer/Autosave-v2.i7x
+  format: i7x
+build:
+  private:
+  - type: extension
+    path: Autosave-v2.i7x
+description: Allows the programmer to save and restore from an autosave file without
+  the user being aware of it.

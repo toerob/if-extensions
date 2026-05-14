@@ -1,0 +1,7 @@
+schema-version: 1
+id: remembering
+name: Remembering
+author: Aaron Reed
+description: Replaces 'You can't see any such thing' for a seen but out-of-scope noun
+  with a message acknowledging that the parser recognizes the object. With Glulx,
+  also keeps track of where the player last saw that object.

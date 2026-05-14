@@ -1,0 +1,15 @@
+schema-version: 2
+maintainer: Taryn Michelle
+channel: stable
+compatibility:
+  inform:
+    constraint: '>=11.0'
+source:
+  url: https://github.com/i7/extensions/tree/11.0/Taryn%20Michelle/Nested%20Text%20Capture-v1_2.i7xd
+  format: i7xd
+build:
+  private:
+  - type: extension
+    path: Nested Text Capture-v1_2.i7xd
+description: Builds on Eric Eve's text capture extension (with contributions from
+  Dannii Willis) to allow for re-entrance.

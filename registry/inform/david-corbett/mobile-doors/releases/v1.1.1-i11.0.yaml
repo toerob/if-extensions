@@ -1,0 +1,13 @@
+schema-version: 2
+maintainer: David Corbett
+channel: stable
+compatibility:
+  inform:
+    constraint: '>=11.0'
+source:
+  url: https://github.com/i7/extensions/tree/11.0/David%20Corbett/Mobile%20Doors-v1_1_1.i7xd
+  format: i7xd
+build:
+  private:
+  - type: extension
+    path: Mobile Doors-v1_1_1.i7xd

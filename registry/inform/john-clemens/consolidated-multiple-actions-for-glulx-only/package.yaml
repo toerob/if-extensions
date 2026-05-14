@@ -1,0 +1,7 @@
+schema-version: 1
+id: consolidated-multiple-actions-for-glulx-only
+name: Consolidated Multiple Actions (for Glulx only)
+author: John Clemens
+description: An extension to consolidate action reports when performing an action
+  on multiple objects, such as with 'take all'. Requires Hypothetical Questions by
+  Jesse McGrew. Version 3 updated by Emily Short for 6L38 compatibility.

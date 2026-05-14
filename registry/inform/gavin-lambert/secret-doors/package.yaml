@@ -1,0 +1,5 @@
+schema-version: 1
+id: secret-doors
+name: Secret Doors
+author: Gavin Lambert
+description: Doors and switches that cannot be acted upon until they are discovered.

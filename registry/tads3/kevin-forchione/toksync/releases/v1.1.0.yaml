@@ -1,0 +1,6 @@
+schema-version: 2
+maintainer: Kevin Forchione
+date: '2004-11-14'
+source:
+  url: https://www.ifarchive.org/if-archive/programming/tads3/library/contributions/toksync.zip
+  format: zip

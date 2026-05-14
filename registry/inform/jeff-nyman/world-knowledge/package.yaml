@@ -1,0 +1,6 @@
+schema-version: 1
+id: world-knowledge
+name: World Knowledge
+author: Jeff Nyman
+description: Mechanics to represent the player's knowledge and understanding about
+  the world.

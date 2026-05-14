@@ -1,0 +1,14 @@
+schema-version: 2
+maintainer: Aaron Reed
+channel: stable
+compatibility:
+  inform:
+    constraint: '>=10.1'
+source:
+  url: https://github.com/i7/extensions/blob/10.1/Aaron%20Reed/Response%20Assistant-v1.i7x
+  format: i7x
+build:
+  private:
+  - type: extension
+    path: Response Assistant-v1.i7x
+description: Adds some helpful testing commands for changing default responses.

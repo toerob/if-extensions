@@ -1,0 +1,18 @@
+schema-version: 2
+maintainer: Emily Short
+channel: stable
+compatibility:
+  inform:
+    constraint: '>=9.3 <10'
+source:
+  url: https://github.com/i7/extensions/blob/9.3/Emily%20Short/Approaches.i7x
+  format: i7x
+build:
+  private:
+  - type: extension
+    path: Approaches.i7x
+description: Approaches provides a GO TO place action which allows the player to move
+  through visited rooms to a new location. It also allows other characters to traverse
+  the map to named locations. It is designed to work with Locksmith by Emily Short.
+  Version 7 drops the erroneous requirement of the Plurality extension, which was
+  still mentioned in Version 6.

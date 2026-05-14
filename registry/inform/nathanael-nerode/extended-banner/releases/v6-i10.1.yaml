@@ -1,0 +1,15 @@
+schema-version: 2
+maintainer: Nathanael Nerode
+channel: stable
+compatibility:
+  inform:
+    constraint: '>=10.1'
+source:
+  url: https://github.com/i7/extensions/blob/10.1/Nathanael%20Nerode/Extended%20Banner-v6.i7x
+  format: i7x
+build:
+  private:
+  - type: extension
+    path: Extended Banner-v6.i7x
+description: More control over what is printed in a banner, including an easily-included
+  copyright line.

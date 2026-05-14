@@ -1,0 +1,5 @@
+schema-version: 1
+id: not-really-random
+name: notReallyRandom
+author: Diegesis & Mimesis
+description: A TADS3 module providing instanceable PRNGs

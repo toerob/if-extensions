@@ -1,0 +1,15 @@
+schema-version: 2
+maintainer: Juhana Leinonen
+channel: stable
+compatibility:
+  inform:
+    constraint: '>=11.0'
+source:
+  url: https://github.com/i7/extensions/tree/11.0/Juhana%20Leinonen/Debug%20Files-v2_0_1.i7xd
+  format: i7xd
+build:
+  private:
+  - type: extension
+    path: Debug Files-v2_0_1.i7xd
+description: A development tool for saving debugging information to an external text
+  file during beta testing.

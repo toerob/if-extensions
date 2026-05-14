@@ -1,0 +1,7 @@
+schema-version: 1
+id: hiding-under
+name: Hiding Under
+author: Eric Eve
+description: Allows things to be hidden under other things, using a many-to-one underconcealment
+  relation. Can be used either standalone (with basic functionality) or in conjunction
+  with Underside (to add fuller functionality to both extensions).

@@ -1,0 +1,8 @@
+schema-version: 1
+id: modified-exit
+name: Modified Exit
+author: Emily Short
+description: Changes the handling of the EXIT action, allowing commands such as EXIT
+  PLATFORM and GET OUT OF CHAIR, making characters leave enterable objects before
+  traveling, and altering the default interpretation of >OUT when the player is neither
+  inside an object nor in a room with an outside exit. Updated for adaptive text.

@@ -1,0 +1,6 @@
+schema-version: 1
+id: exit-lister
+name: Exit Lister
+author: Gavin Lambert
+description: Automatic listing of available exits, with a reasonable dose of customisation
+  built in.

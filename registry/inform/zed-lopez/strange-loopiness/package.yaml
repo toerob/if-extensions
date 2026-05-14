@@ -1,0 +1,11 @@
+schema-version: 1
+id: strange-loopiness
+name: Strange Loopiness
+author: Zed Lopez
+description: 'Repeat variants for: until loop; loop counting down over a numeric or
+
+  enumerated value range; loop n times. For any loop, optionally assign a loop
+
+  counter variable; for looping through tables optionally assign a row number
+
+  variable. Allows more flexible syntax for the existing repeat loops. For 6M62.'

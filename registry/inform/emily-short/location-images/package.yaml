@@ -1,0 +1,6 @@
+schema-version: 1
+id: location-images
+name: Location Images
+author: Emily Short
+description: Allows the author to set per-room images and show these as the player
+  moves from room to room. Requires Simple Graphical Window by Emily Short.

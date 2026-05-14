@@ -1,0 +1,15 @@
+schema-version: 2
+maintainer: Erik Temple
+channel: stable
+compatibility:
+  inform:
+    constraint: '>=9.3 <10'
+source:
+  url: https://github.com/i7/extensions/blob/9.3/Erik%20Temple/Real-Time%20Delays.i7x
+  format: i7x
+build:
+  private:
+  - type: extension
+    path: Real-Time Delays.i7x
+description: Allows the author to specify a delay of a given number of seconds/milliseconds
+  before continuing the action.

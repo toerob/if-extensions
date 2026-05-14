@@ -1,0 +1,6 @@
+schema-version: 2
+maintainer: Soren Lovborg
+date: '2003-07-05'
+source:
+  url: https://www.ifarchive.org/if-archive/programming/tads3/library/contributions/timepasses.t
+  format: t

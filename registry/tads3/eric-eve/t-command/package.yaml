@@ -1,0 +1,7 @@
+schema-version: 1
+id: t-command
+name: TCommand
+author: Eric Eve
+description: TCommand version 3, by Eric Eve. An extension of the CommandTopic class
+  (For example, to allow matches on the direct or indirect object of the command as
+  well as the command action).

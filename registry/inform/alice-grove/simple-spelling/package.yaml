@@ -1,0 +1,8 @@
+schema-version: 1
+id: simple-spelling
+name: Simple Spelling
+author: Alice Grove
+description: 'Simple Spelling aims to make stories more screen-reader-friendly by
+  allowing players to request the spelling of any visible thing. This extension adds
+  two actions: ''listing visible items for spelling'' and ''spelling the numbered
+  word.'''

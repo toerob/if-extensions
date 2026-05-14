@@ -1,0 +1,7 @@
+schema-version: 1
+id: msg-custom
+name: msg_custom
+author: Greg Boettcher
+description: An extension that allows authors to customize the standard TADS 3 messages,
+  changing them with regard to smart/curly quotes, contractions, formal versus casual
+  language, etc. Version 2.2, by Greg Boettcher.

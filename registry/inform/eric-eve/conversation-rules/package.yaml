@@ -1,0 +1,7 @@
+schema-version: 1
+id: conversation-rules
+name: Conversation Rules
+author: Eric Eve
+description: A way of controlling conversations using rules and tables. Also implements
+  topic suggestions and Conversation nodes. Requires Plurality by Emily Short and
+  Conversation Framework, Epistemology and List Control by Eric Eve.

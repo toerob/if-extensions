@@ -1,0 +1,15 @@
+schema-version: 2
+maintainer: Daniel Stelzer
+channel: stable
+compatibility:
+  inform:
+    constraint: '>=10.1'
+source:
+  url: https://github.com/i7/extensions/blob/10.1/Daniel%20Stelzer/Modified%20Timekeeping-v1.i7x
+  format: i7x
+build:
+  private:
+  - type: extension
+    path: Modified Timekeeping-v1.i7x
+description: Changes the one-minute-per-turn rule to account for failed and implicit
+  actions.

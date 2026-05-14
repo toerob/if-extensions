@@ -1,0 +1,6 @@
+schema-version: 1
+id: glk-object-recovery-for-glulx-only
+name: Glk Object Recovery (for Glulx only)
+author: Dannii Willis
+description: A low level utility library for managing Glk references after restarting
+  or restoring

@@ -1,0 +1,8 @@
+schema-version: 1
+id: scope-control
+name: Scope Control
+author: Ron Newcomb
+description: Allows us to ask why the Deciding the Scope For Something activity is
+  running, so we can modify the scope only when we absolutely need to.  Highly useful
+  for giving NPCs commands over telephones or while in darkness, creating 'can hear'
+  relations, or modifying how Inform parses the command line.

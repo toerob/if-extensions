@@ -1,0 +1,6 @@
+schema-version: 1
+id: footnotes
+name: Footnotes
+author: Stephen Granade
+description: Provides a framework for organizing and displaying footnotes in a game.
+  Version 2 makes Footnotes responsive and 6L38-compatible.

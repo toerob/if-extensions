@@ -1,0 +1,14 @@
+schema-version: 2
+maintainer: Friends of I7
+channel: stable
+compatibility:
+  inform:
+    constraint: '>=9.3 <10'
+source:
+  url: https://github.com/i7/extensions/blob/9.3/Friends%20of%20I7/6M62%20Patches.i7x
+  format: i7x
+build:
+  private:
+  - type: extension
+    path: 6M62 Patches.i7x
+description: "; x=1; }\n\t\t\tprint "

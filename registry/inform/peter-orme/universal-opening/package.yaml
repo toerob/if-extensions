@@ -1,0 +1,7 @@
+schema-version: 1
+id: universal-opening
+name: Universal Opening
+author: Peter Orme
+description: " as universal door opening\n\ncarry out universal door opening (this\
+  \ is the universal door opening rule):\n\trepeat with chosen door running through\
+  \ every door:\n\t\tif the chosen door is closed:\n\t\t\tsay "

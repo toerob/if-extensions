@@ -1,0 +1,6 @@
+schema-version: 1
+id: contaction
+name: contaction
+author: Kevin Forchione
+description: ContAction, a library extension that provides an abstract mechanism for
+  implementing continuous actions. Version 2.6, by Kevin Forchione.

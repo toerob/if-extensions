@@ -1,0 +1,7 @@
+schema-version: 1
+id: glimmr-canvas-based-drawing-for-glulx-only
+name: Glimmr Canvas-Based Drawing (for Glulx only)
+author: Erik Temple
+description: A framework for drawing graphics of various types--from sprite images
+  to painted text--to a Glulx graphics window. Takes an object-oriented approach,
+  with graphic elements represented as individual objects.

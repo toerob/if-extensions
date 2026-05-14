@@ -1,0 +1,15 @@
+schema-version: 2
+maintainer: Zed Lopez
+channel: stable
+compatibility:
+  inform:
+    constraint: '>=9.3 <10'
+source:
+  url: https://github.com/i7/extensions/blob/9.3/Zed%20Lopez/Screenreader.i7x
+  format: i7x
+build:
+  private:
+  - type: extension
+    path: Screenreader.i7x
+description: "On startup, asks user 'Are you using a screenreader?' and sets\n a global\
+  \ that can subsequently be tested. For 6M62."

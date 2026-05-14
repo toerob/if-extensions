@@ -1,0 +1,6 @@
+schema-version: 1
+id: vorple-notifications-for-glulx-only
+name: Vorple Notifications (for Glulx only)
+author: Juhana Leinonen
+description: Notifications that display a short message on the screen and disappear
+  after a few seconds.

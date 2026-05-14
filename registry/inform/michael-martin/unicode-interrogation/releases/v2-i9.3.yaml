@@ -1,0 +1,15 @@
+schema-version: 2
+maintainer: Michael Martin
+channel: stable
+compatibility:
+  inform:
+    constraint: '>=9.3 <10'
+source:
+  url: https://github.com/i7/extensions/blob/9.3/Michael%20Martin/Unicode%20Interrogation.i7x
+  format: i7x
+build:
+  private:
+  - type: extension
+    path: Unicode Interrogation.i7x
+description: Allows an author to verify that an interpreter can support specific Unicode
+  effects.

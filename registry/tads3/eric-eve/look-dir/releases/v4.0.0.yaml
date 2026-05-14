@@ -1,0 +1,10 @@
+schema-version: 2
+maintainer: Eric Eve
+date: '2005-10-16'
+source:
+  url: https://www.ifarchive.org/if-archive/programming/tads3/library/contributions/LookDir.zip
+  format: zip
+build:
+  exports:
+  - type: source
+    path: lookDir

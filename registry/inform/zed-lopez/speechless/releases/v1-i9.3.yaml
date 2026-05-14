@@ -1,0 +1,16 @@
+schema-version: 2
+maintainer: Zed Lopez
+channel: stable
+compatibility:
+  inform:
+    constraint: '>=9.3 <10'
+source:
+  url: https://github.com/i7/extensions/blob/9.3/Zed%20Lopez/Speechless.i7x
+  format: i7x
+build:
+  private:
+  - type: extension
+    path: Speechless.i7x
+description: 'Make the player unable to speak or interact with others by speech,
+
+  and block references to the player being able to speak.'

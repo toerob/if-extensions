@@ -1,0 +1,17 @@
+schema-version: 2
+maintainer: Erik Temple
+channel: stable
+compatibility:
+  inform:
+    constraint: '>=11.0'
+source:
+  url: https://github.com/i7/extensions/tree/11.0/Erik%20Temple/Extended%20Debugging-v2_2_1.i7xd
+  format: i7xd
+build:
+  private:
+  - type: extension
+    path: Extended Debugging-v2_2_1.i7xd
+description: Provides a way for the author to release a build of a game while retaining
+  both custom and built-in debugging commands. Also wraps Inform's debug tracing routines
+  in phrases that authors can use to trigger rule-tracing from the source text rather
+  than from the command prompt and provides other debugging features.

@@ -1,0 +1,6 @@
+schema-version: 2
+maintainer: M.D. Dollahite and Steve Breslin
+date: '2004-12-29'
+source:
+  url: https://www.ifarchive.org/if-archive/programming/tads3/library/contributions/csc.zip
+  format: zip

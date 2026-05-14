@@ -1,0 +1,15 @@
+schema-version: 2
+maintainer: Mike Ciul
+channel: stable
+compatibility:
+  inform:
+    constraint: '>=10.1'
+source:
+  url: https://github.com/i7/extensions/blob/10.1/Mike%20Ciul/Effective%20Infinity-v1.i7x
+  format: i7x
+build:
+  private:
+  - type: extension
+    path: Effective Infinity-v1.i7x
+description: Provides a system of counting numbers which never go below 0 or above
+  a specified maximum value. Any numbers above the maximum are considered infinite.

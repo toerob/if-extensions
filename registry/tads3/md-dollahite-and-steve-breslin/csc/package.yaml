@@ -1,0 +1,7 @@
+schema-version: 1
+id: csc
+name: csc
+author: M.D. Dollahite and Steve Breslin
+description: The TADS 3 Complex Sense Connector library, an extension to provide a
+  more versatile approach to sense connectors. Version 1.2, by M.D. Dollahite and
+  Steve Breslin.

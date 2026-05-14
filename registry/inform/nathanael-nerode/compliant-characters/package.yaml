@@ -1,0 +1,10 @@
+schema-version: 1
+id: compliant-characters
+name: Compliant Characters
+author: Nathanael Nerode
+description: Report parsing errors to the player when ordering other characters to
+  do things.  Inform 7 normally redirects these errors to 'answer <topic>' so that
+  the character can respond to arbitrary statements.  But in an story with compliant
+  characters who the player orders around routinely, that is frustrating to a player
+  who has made a typo; this helps out the player.  Requires version 5 of Neutral Standard
+  Responses.  Tested with Inform 10.1.0.

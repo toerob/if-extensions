@@ -1,0 +1,5 @@
+schema-version: 1
+id: indefinite-article-substitution-fix-for-glulx-only
+name: Indefinite Article Substitution Fix (for Glulx only)
+author: Matt Weiner
+description: ";\n\t\telse\n\t\t\tprint (string) artval, "

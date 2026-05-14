@@ -1,0 +1,6 @@
+schema-version: 1
+id: t3-rap
+name: t3RAP
+author: Nate Cull. Updated TADS 3 version 1.2 by Steve Breslin
+description: The TADS 3 Reactive Agent Planner, which automates complex NPC behavior.
+  Original TADS 2 module by Nate Cull. Updated TADS 3 version 1.2 by Steve Breslin.

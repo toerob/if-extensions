@@ -1,0 +1,6 @@
+schema-version: 1
+id: megatads
+name: megatads
+author: Krister Fundin
+description: A collection of extensions and patches for the standard TADS 3 library.
+  Version 1, by Krister Fundin.

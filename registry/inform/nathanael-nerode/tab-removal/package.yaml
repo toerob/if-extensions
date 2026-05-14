@@ -1,0 +1,7 @@
+schema-version: 1
+id: tab-removal
+name: Tab Removal
+author: Nathanael Nerode
+description: For commands with tabs in them, replaces tabs with spaces before passing
+  them on to the game.  Prevents all kinds of confusing weirdness when the player
+  types tabs.

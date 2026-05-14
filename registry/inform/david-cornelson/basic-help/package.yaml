@@ -1,0 +1,5 @@
+schema-version: 1
+id: basic-help
+name: Basic Help
+author: David Cornelson
+description: help [any help command]

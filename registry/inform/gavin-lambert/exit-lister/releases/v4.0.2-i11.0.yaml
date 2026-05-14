@@ -1,0 +1,15 @@
+schema-version: 2
+maintainer: Gavin Lambert
+channel: stable
+compatibility:
+  inform:
+    constraint: '>=11.0'
+source:
+  url: https://github.com/i7/extensions/tree/11.0/Gavin%20Lambert/Exit%20Lister-v4_0_2.i7xd
+  format: i7xd
+build:
+  private:
+  - type: extension
+    path: Exit Lister-v4_0_2.i7xd
+description: Automatic listing of available exits, with a reasonable dose of customisation
+  built in.

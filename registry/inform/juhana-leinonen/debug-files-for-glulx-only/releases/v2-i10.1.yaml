@@ -1,0 +1,15 @@
+schema-version: 2
+maintainer: Juhana Leinonen
+channel: stable
+compatibility:
+  inform:
+    constraint: '>=10.1'
+source:
+  url: https://github.com/i7/extensions/blob/10.1/Juhana%20Leinonen/Debug%20Files-v2.i7x
+  format: i7x
+build:
+  private:
+  - type: extension
+    path: Debug Files-v2.i7x
+description: A development tool for saving debugging information to an external text
+  file during beta testing.

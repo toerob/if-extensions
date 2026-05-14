@@ -1,0 +1,6 @@
+schema-version: 1
+id: neutral-standard-responses
+name: Neutral Standard Responses
+author: Nathanael Nerode
+description: Replaces misleading, vague, and narratively-voiced parser messages with
+  instructive, clarifying, and neutral versions, respectively.  For Inform 10.1.0.

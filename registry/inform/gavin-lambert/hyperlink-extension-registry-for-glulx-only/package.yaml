@@ -1,0 +1,6 @@
+schema-version: 1
+id: hyperlink-extension-registry-for-glulx-only
+name: Hyperlink Extension Registry (for Glulx only)
+author: Gavin Lambert
+description: Provides a framework to allow multiple hyperlink-processing extensions
+  to co-exist without stepping on each others' toes.

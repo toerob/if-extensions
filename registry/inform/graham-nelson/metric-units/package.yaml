@@ -1,0 +1,5 @@
+schema-version: 1
+id: metric-units
+name: Metric Units
+author: Graham Nelson
+description: Scientific kinds of value for simulations.

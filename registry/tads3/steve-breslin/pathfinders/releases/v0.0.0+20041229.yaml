@@ -1,0 +1,6 @@
+schema-version: 2
+maintainer: Steve Breslin
+date: '2004-12-29'
+source:
+  url: https://www.ifarchive.org/if-archive/programming/tads3/library/contributions/Pathfinders.zip
+  format: zip

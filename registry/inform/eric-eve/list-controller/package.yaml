@@ -1,0 +1,7 @@
+schema-version: 1
+id: list-controller
+name: List Controller
+author: Eric Eve
+description: Provides a means of using tables as shuffled, cyclic or stoping lists.
+  This is an alternative to List Control that uses list controller objects instead
+  of a Table of Table Types.

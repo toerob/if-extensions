@@ -1,0 +1,6 @@
+schema-version: 1
+id: autoundo-for-object-response-tests
+name: Autoundo For Object Response Tests
+author: Mike Ciul
+description: Tests objects just like Juhana Leinonen's extension, but does an UNDO
+  after each test.

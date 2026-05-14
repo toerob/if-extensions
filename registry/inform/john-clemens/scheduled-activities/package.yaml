@@ -1,0 +1,5 @@
+schema-version: 1
+id: scheduled-activities
+name: Scheduled Activities
+author: John Clemens
+description: An extension to allow scheduling of activities.

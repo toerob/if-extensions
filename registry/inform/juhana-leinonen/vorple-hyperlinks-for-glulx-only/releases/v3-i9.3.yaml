@@ -1,0 +1,15 @@
+schema-version: 2
+maintainer: Juhana Leinonen
+channel: stable
+compatibility:
+  inform:
+    constraint: '>=9.3 <10'
+source:
+  url: https://github.com/i7/extensions/blob/9.3/Juhana%20Leinonen/Vorple%20Hyperlinks.i7x
+  format: i7x
+build:
+  private:
+  - type: extension
+    path: Vorple Hyperlinks.i7x
+description: Hyperlinks that either open a web site, execute a parser command or evaluate
+  JavaScript code.

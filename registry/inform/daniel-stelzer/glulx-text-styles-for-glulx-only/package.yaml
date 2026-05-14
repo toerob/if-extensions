@@ -1,0 +1,6 @@
+schema-version: 1
+id: glulx-text-styles-for-glulx-only
+name: Glulx Text Styles (for Glulx only)
+author: Daniel Stelzer
+description: Glulx Text Styles provides a more powerful way to set up special text
+  effects for Glulx.

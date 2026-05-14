@@ -1,0 +1,15 @@
+schema-version: 2
+maintainer: Mike Ciul
+channel: stable
+compatibility:
+  inform:
+    constraint: '>=10.1'
+source:
+  url: https://github.com/i7/extensions/blob/10.1/Mike%20Ciul/Flexible%20Action%20Requirements-v1.i7x
+  format: i7x
+build:
+  private:
+  - type: extension
+    path: Flexible Action Requirements-v1.i7x
+description: Overrides carrying requirements for specific actions, and provides more
+  nuanced carrying and touchability requirements when needed.

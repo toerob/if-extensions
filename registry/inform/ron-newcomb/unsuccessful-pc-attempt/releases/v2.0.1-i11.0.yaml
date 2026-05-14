@@ -1,0 +1,15 @@
+schema-version: 2
+maintainer: Ron Newcomb
+channel: stable
+compatibility:
+  inform:
+    constraint: '>=11.0'
+source:
+  url: https://github.com/i7/extensions/tree/11.0/Ron%20Newcomb/Unsuccessful%20PC%20Attempt-v2_0_1.i7xd
+  format: i7xd
+build:
+  private:
+  - type: extension
+    path: Unsuccessful PC Attempt-v2_0_1.i7xd
+description: Will run the Unsuccessful Attempt By rules for all characters, including
+  the player.  Also silences the library messages printed by the built-in Check rules.

@@ -1,0 +1,6 @@
+schema-version: 1
+id: basic-help-menu-it
+name: Basic Help Menu IT
+author: Leonardo Boselli
+description: Fornisce un comando AIUTO che mostra un menù con istruzioni standard.
+  Semplicemente tradotto in italiano.

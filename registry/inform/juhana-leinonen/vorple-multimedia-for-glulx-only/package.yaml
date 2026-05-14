@@ -1,0 +1,5 @@
+schema-version: 1
+id: vorple-multimedia-for-glulx-only
+name: Vorple Multimedia (for Glulx only)
+author: Juhana Leinonen
+description: Displaying images and playing sounds and music.

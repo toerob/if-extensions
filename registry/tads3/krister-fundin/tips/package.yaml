@@ -1,0 +1,6 @@
+schema-version: 1
+id: tips
+name: tips
+author: Krister Fundin
+description: An extension for displaying tips directed at inexperienced players. Version
+  1, by Krister Fundin.

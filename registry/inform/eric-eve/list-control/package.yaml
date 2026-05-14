@@ -1,0 +1,5 @@
+schema-version: 1
+id: list-control
+name: List Control
+author: Eric Eve
+description: Provides a means of using tables as shuffled, cyclic or stop lists.

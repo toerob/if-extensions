@@ -1,0 +1,14 @@
+schema-version: 2
+maintainer: Leonardo Boselli
+channel: stable
+compatibility:
+  inform:
+    constraint: '>=11.0'
+source:
+  url: https://github.com/i7/extensions/tree/11.0/Leonardo%20Boselli/Questions%20IT-v4_0_1.i7xd
+  format: i7xd
+build:
+  private:
+  - type: extension
+    path: Questions IT-v4_0_1.i7xd
+description: Basato su Version 4 of Questions by Michael Callaghan.

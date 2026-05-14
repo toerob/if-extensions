@@ -1,0 +1,20 @@
+schema-version: 2
+maintainer: Erik Temple
+channel: stable
+compatibility:
+  inform:
+    constraint: '>=9.3 <10'
+source:
+  url: https://github.com/i7/extensions/blob/9.3/Erik%20Temple/Undo%20Output%20Control.i7x
+  format: i7x
+build:
+  private:
+  - type: extension
+    path: Undo Output Control.i7x
+description: In addition to allowing control over UNDO default messages, provides
+  hooks into UNDO processing, including multiple ways to suspend UNDO temporarily,
+  to place limitations on UNDO (such as allowing only one UNDO in a row), to undo
+  the current turn from code, and to control when the game state is saved. Using the
+  latter, we can effectively control which turn UNDO returns us to.  Also allows changing
+  the words which invoke UNDO and OOPS.  Also allows the story to edit a blank command
+  before analyzing it.  Updated to Inform 6M62.

@@ -1,0 +1,9 @@
+schema-version: 1
+id: phrases-for-tables-with-topics
+name: Phrases For Tables With Topics
+author: Ron Newcomb
+description: 'This grants five new phrases regarding the player''s command, the matched
+  text, and the topic understood: if one is a topic listed in a table, if one includes
+  or matches a topic listed in a table, what corresponds to one within a table, and
+  the last phrase corrects a bug so the topic understood may be used within an understand-as-mistake
+  line.'

@@ -1,0 +1,7 @@
+schema-version: 1
+id: title-page-it
+name: Title Page IT
+author: Leonardo Boselli
+description: Fornisce un pannello introduttivo al gioco, con un menù, la possibilità
+  di caricare e ricominciare, una citazione e (in Glulx) una figura. Semplicemente
+  tradotto dall'originale.

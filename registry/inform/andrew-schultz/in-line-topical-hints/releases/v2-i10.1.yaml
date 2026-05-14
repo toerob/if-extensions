@@ -1,0 +1,15 @@
+schema-version: 2
+maintainer: Andrew Schultz
+channel: stable
+compatibility:
+  inform:
+    constraint: '>=10.1'
+source:
+  url: https://github.com/i7/extensions/blob/10.1/Andrew%20Schultz/In-Line%20Topical%20Hints-v2.i7x
+  format: i7x
+build:
+  private:
+  - type: extension
+    path: In-Line Topical Hints-v2.i7x
+description: Lets the author offer the player in-line hints, with options for presentation.
+  This extension requires Inform 6M62 or higher to run.

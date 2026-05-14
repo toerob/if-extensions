@@ -1,0 +1,15 @@
+schema-version: 2
+maintainer: Brent Worthington
+channel: stable
+compatibility:
+  inform:
+    constraint: '>=10.1'
+source:
+  url: https://github.com/i7/extensions/blob/10.1/Brent%20Worthington/Excess%20Word%20Stripping-v2.i7x
+  format: i7x
+build:
+  private:
+  - type: extension
+    path: Excess Word Stripping-v2.i7x
+description: Allows commands that are only partly understood to be reparsed after
+  trimming off the bits not understood.

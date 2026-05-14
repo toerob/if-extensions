@@ -1,0 +1,6 @@
+schema-version: 1
+id: helpful-functions
+name: Helpful Functions
+author: Daniel Stelzer
+description: A set of functions I have often found useful, with checks to prevent
+  conflicts with extensions.

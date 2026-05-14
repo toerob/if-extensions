@@ -1,0 +1,15 @@
+schema-version: 2
+maintainer: Daniel Stelzer
+channel: stable
+compatibility:
+  inform:
+    constraint: '>=10.1'
+source:
+  url: https://github.com/i7/extensions/blob/10.1/Daniel%20Stelzer/Before%20Processing%20a%20Command-v2.i7x
+  format: i7x
+build:
+  private:
+  - type: extension
+    path: Before Processing a Command-v2.i7x
+description: " from the again buffer,\n            ! in which we have just realised\
+  \ that it must occur:\n            ! prevents an infinite loop on "

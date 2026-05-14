@@ -1,0 +1,15 @@
+schema-version: 2
+maintainer: Graham Nelson
+channel: stable
+compatibility:
+  inform:
+    constraint: '>=11.0'
+source:
+  url: https://github.com/i7/extensions/tree/11.0/Graham%20Nelson/Approximate%20Metric%20Units-v1_0_1.i7xd
+  format: i7xd
+build:
+  private:
+  - type: extension
+    path: Approximate Metric Units-v1_0_1.i7xd
+description: Scientific kinds of value for simulations. Use Metric Units instead for
+  better accuracy.

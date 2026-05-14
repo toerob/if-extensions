@@ -1,0 +1,5 @@
+schema-version: 1
+id: clues-and-conversation
+name: Clues And Conversation
+author: Brian Rushton
+description: A simple system for building conversations.

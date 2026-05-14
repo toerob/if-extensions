@@ -1,0 +1,16 @@
+schema-version: 2
+maintainer: Aaron Reed
+channel: stable
+compatibility:
+  inform:
+    constraint: '>=11.0'
+source:
+  url: https://github.com/i7/extensions/tree/11.0/Aaron%20Reed/Remembering-v10_1.i7xd
+  format: i7xd
+build:
+  private:
+  - type: extension
+    path: Remembering-v10_1.i7xd
+description: Replaces 'You can't see any such thing' for a seen but out-of-scope noun
+  with a message acknowledging that the parser recognizes the object. With Glulx,
+  also keeps track of where the player last saw that object.

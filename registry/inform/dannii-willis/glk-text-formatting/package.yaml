@@ -1,0 +1,6 @@
+schema-version: 1
+id: glk-text-formatting
+name: Glk Text Formatting
+author: Dannii Willis
+description: Provides functions for controlling colours and reverse styling at character
+  granularity

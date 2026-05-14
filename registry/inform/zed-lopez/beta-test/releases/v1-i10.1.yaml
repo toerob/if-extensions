@@ -1,0 +1,15 @@
+schema-version: 2
+maintainer: Zed Lopez
+channel: stable
+compatibility:
+  inform:
+    constraint: '>=10.1'
+source:
+  url: https://github.com/i7/extensions/blob/10.1/Zed%20Lopez/Beta%20Test-v1.i7x
+  format: i7x
+build:
+  private:
+  - type: extension
+    path: Beta Test-v1.i7x
+description: "Automatically start transcript at beginning of game; accept comments\
+  \ with '*'\n without error messages."

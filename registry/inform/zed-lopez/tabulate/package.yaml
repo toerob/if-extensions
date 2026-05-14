@@ -1,0 +1,7 @@
+schema-version: 1
+id: tabulate
+name: Tabulate
+author: Zed Lopez
+description: 'Provides a phrase to go from a text to a table name, and a not-for-release
+
+  tabulate action to show the contents of a table.'

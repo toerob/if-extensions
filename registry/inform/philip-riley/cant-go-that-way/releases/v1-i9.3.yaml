@@ -1,0 +1,14 @@
+schema-version: 2
+maintainer: Philip Riley
+channel: stable
+compatibility:
+  inform:
+    constraint: '>=9.3 <10'
+source:
+  url: https://github.com/i7/extensions/blob/9.3/Philip%20Riley/Can%27t%20Go%20That%20Way.i7x
+  format: i7x
+build:
+  private:
+  - type: extension
+    path: Can't Go That Way.i7x
+description: '[We] [can] neither climb walls nor fly.'

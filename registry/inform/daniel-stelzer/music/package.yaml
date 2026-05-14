@@ -1,0 +1,6 @@
+schema-version: 1
+id: music
+name: Music
+author: Daniel Stelzer
+description: A music-focused sound extension, which allows authors to loop sounds
+  on different channels and fade between them.

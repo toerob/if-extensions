@@ -1,0 +1,15 @@
+schema-version: 2
+maintainer: Nathanael Nerode
+channel: stable
+compatibility:
+  inform:
+    constraint: '>=9.3 <10'
+source:
+  url: https://github.com/i7/extensions/blob/9.3/Nathanael%20Nerode/Neutral%20Standard%20Responses.i7x
+  format: i7x
+build:
+  private:
+  - type: extension
+    path: Neutral Standard Responses.i7x
+description: Replaces misleading, vague, and narratively-voiced parser messages with
+  instructive, clarifying, and neutral versions, respectively.  For Inform 6M62.

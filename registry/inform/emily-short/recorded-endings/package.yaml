@@ -1,0 +1,7 @@
+schema-version: 1
+id: recorded-endings
+name: Recorded Endings
+author: Emily Short
+description: Records the endings the player encounters in multiple play-throughs to
+  an external file; then adds an ENDINGS option to the final question to allow the
+  player to review which endings he has seen so far.

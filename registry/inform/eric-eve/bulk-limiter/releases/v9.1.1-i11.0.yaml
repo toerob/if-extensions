@@ -1,0 +1,14 @@
+schema-version: 2
+maintainer: Eric Eve
+channel: stable
+compatibility:
+  inform:
+    constraint: '>=11.0'
+source:
+  url: https://github.com/i7/extensions/tree/11.0/Eric%20Eve/Bulk%20Limiter-v9_1_1.i7xd
+  format: i7xd
+build:
+  private:
+  - type: extension
+    path: Bulk Limiter-v9_1_1.i7xd
+description: Containers and actors that limit their contents by bulk

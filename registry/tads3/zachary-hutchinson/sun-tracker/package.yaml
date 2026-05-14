@@ -1,0 +1,6 @@
+schema-version: 1
+id: sun-tracker
+name: SunTracker
+author: Zachary Hutchinson
+description: A module to provide tracking of the sun, using the TimeSys module. Written
+  by Zachary Hutchinson.

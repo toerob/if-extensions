@@ -1,0 +1,5 @@
+schema-version: 1
+id: command-modification
+name: Command Modification
+author: Daniel Stelzer
+description: '[command prompt][run paragraph on]'

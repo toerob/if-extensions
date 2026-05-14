@@ -1,0 +1,6 @@
+schema-version: 1
+id: property-checking
+name: Property Checking
+author: Emily Short
+description: A light testing extension to identify rooms and game items that may still
+  be lacking descriptions or other properties.

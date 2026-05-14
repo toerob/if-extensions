@@ -1,0 +1,17 @@
+schema-version: 2
+maintainer: Erik Temple
+channel: stable
+compatibility:
+  inform:
+    constraint: '>=9.3 <10'
+source:
+  url: https://github.com/i7/extensions/blob/9.3/Erik%20Temple/Glimmr%20Graphic%20Hyperlinks.i7x
+  format: i7x
+build:
+  private:
+  - type: extension
+    path: Glimmr Graphic Hyperlinks.i7x
+description: Allows us to identify any number of rectangular areas of a Glulx graphic
+  window as 'hotlinked'. When the player clicks within one of these zones, a command
+  will be entered on behalf of the player, or we can specify some appropriate response
+  of our own.

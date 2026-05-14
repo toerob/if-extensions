@@ -1,0 +1,15 @@
+schema-version: 2
+maintainer: Emily Short
+channel: stable
+compatibility:
+  inform:
+    constraint: '>=9.3 <10'
+source:
+  url: https://github.com/i7/extensions/blob/9.3/Emily%20Short/Location%20Images.i7x
+  format: i7x
+build:
+  private:
+  - type: extension
+    path: Location Images.i7x
+description: Allows the author to set per-room images and show these as the player
+  moves from room to room. Requires Simple Graphical Window by Emily Short.

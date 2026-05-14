@@ -1,0 +1,6 @@
+schema-version: 1
+id: reactable-quips
+name: Reactable Quips
+author: Michael Martin
+description: A table-based approach to NPC conversation chains, as well as allowing
+  rules to fire on lines of conversation.

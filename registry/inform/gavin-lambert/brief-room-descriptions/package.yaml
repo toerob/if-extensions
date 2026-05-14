@@ -1,0 +1,5 @@
+schema-version: 1
+id: brief-room-descriptions
+name: Brief Room Descriptions
+author: Gavin Lambert
+description: Alters BRIEF mode to display a room's brief description instead of nothing.

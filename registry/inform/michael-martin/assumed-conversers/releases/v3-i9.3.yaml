@@ -1,0 +1,15 @@
+schema-version: 2
+maintainer: Michael Martin
+channel: stable
+compatibility:
+  inform:
+    constraint: '>=9.3 <10'
+source:
+  url: https://github.com/i7/extensions/blob/9.3/Michael%20Martin/Assumed%20Conversers.i7x
+  format: i7x
+build:
+  private:
+  - type: extension
+    path: Assumed Conversers.i7x
+description: A minimal extension that makes the NPC optional in ASK NPC ABOUT TOPIC
+  and TELL NPC ABOUT TOPIC commands.

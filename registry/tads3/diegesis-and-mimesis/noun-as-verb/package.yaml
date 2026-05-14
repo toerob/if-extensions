@@ -1,0 +1,6 @@
+schema-version: 1
+id: noun-as-verb
+name: nounAsVerb
+author: Diegesis & Mimesis
+description: A TADS3 module for implementing actions that are invoked by bare noun
+  phrases typed on the command line

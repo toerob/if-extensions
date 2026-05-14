@@ -1,0 +1,14 @@
+schema-version: 2
+maintainer: Tara McGrew
+channel: stable
+compatibility:
+  inform:
+    constraint: '>=11.0'
+source:
+  url: https://github.com/i7/extensions/tree/11.0/Tara%20McGrew/Dynamic%20Objects-v10_0_0.i7xd
+  format: i7xd
+build:
+  private:
+  - type: extension
+    path: Dynamic Objects-v10_0_0.i7xd
+description: Provides the ability to create new objects during game play.

@@ -1,0 +1,6 @@
+schema-version: 1
+id: dice
+name: Dice
+author: David A Wheeler
+description: Support conventional X d Y dice notation, e.g., 3 d 6 totals 3 six-sided
+  dice.

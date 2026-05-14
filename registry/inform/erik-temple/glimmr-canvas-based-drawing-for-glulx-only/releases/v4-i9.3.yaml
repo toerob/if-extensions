@@ -1,0 +1,16 @@
+schema-version: 2
+maintainer: Erik Temple
+channel: stable
+compatibility:
+  inform:
+    constraint: '>=9.3 <10'
+source:
+  url: https://github.com/i7/extensions/blob/9.3/Erik%20Temple/Glimmr%20Canvas-Based%20Drawing.i7x
+  format: i7x
+build:
+  private:
+  - type: extension
+    path: Glimmr Canvas-Based Drawing.i7x
+description: A framework for drawing graphics of various types--from sprite images
+  to painted text--to a Glulx graphics window. Takes an object-oriented approach,
+  with graphic elements represented as individual objects.

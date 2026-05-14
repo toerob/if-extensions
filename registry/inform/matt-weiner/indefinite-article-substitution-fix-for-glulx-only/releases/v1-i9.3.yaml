@@ -1,0 +1,14 @@
+schema-version: 2
+maintainer: Matt Weiner
+channel: stable
+compatibility:
+  inform:
+    constraint: '>=9.3 <10'
+source:
+  url: https://github.com/i7/extensions/blob/9.3/Matt%20Weiner/Indefinite%20Article%20Substitution%20Fix.i7x
+  format: i7x
+build:
+  private:
+  - type: extension
+    path: Indefinite Article Substitution Fix.i7x
+description: ";\n\t\telse\n\t\t\tprint (string) artval, "

@@ -1,0 +1,6 @@
+schema-version: 1
+id: hidden-prompt
+name: Hidden Prompt
+author: Daniel Stelzer
+description: Provides a simple way to hide the command prompt during long stretches
+  of text.

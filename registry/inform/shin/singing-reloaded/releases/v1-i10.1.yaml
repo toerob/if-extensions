@@ -1,0 +1,15 @@
+schema-version: 2
+maintainer: Shin
+channel: stable
+compatibility:
+  inform:
+    constraint: '>=10.1'
+source:
+  url: https://github.com/i7/extensions/blob/10.1/Shin/Singing%20Reloaded-v1.i7x
+  format: i7x
+build:
+  private:
+  - type: extension
+    path: Singing Reloaded-v1.i7x
+description: Singing as defined in Version 2/090402 of the Standard Rules by Graham
+  Nelson.

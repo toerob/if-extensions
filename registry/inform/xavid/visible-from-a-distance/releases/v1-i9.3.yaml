@@ -1,0 +1,14 @@
+schema-version: 2
+maintainer: Xavid
+channel: stable
+compatibility:
+  inform:
+    constraint: '>=9.3 <10'
+source:
+  url: https://github.com/i7/extensions/blob/9.3/Xavid/Visible%20from%20a%20Distance.i7x
+  format: i7x
+build:
+  private:
+  - type: extension
+    path: Visible from a Distance.i7x
+description: Allow certain things in adjacent rooms to be examined.

@@ -1,0 +1,15 @@
+schema-version: 2
+maintainer: Mikael Segercrantz
+channel: stable
+compatibility:
+  inform:
+    constraint: '>=10.1'
+source:
+  url: https://github.com/i7/extensions/blob/10.1/Mikael%20Segercrantz/Atmospheric%20Effects-v6.i7x
+  format: i7x
+build:
+  private:
+  - type: extension
+    path: Atmospheric Effects-v6.i7x
+description: A table-based way to add atmospheric effects to rooms, regions, things
+  and scenes.

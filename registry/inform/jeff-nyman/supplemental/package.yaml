@@ -1,0 +1,5 @@
+schema-version: 1
+id: supplemental
+name: Supplemental
+author: Jeff Nyman
+description: Personal extension to keep the main source text clean.

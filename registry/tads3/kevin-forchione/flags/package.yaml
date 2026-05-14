@@ -1,0 +1,7 @@
+schema-version: 1
+id: flags
+name: flags
+author: Kevin Forchione
+description: A module that supports bit flags and bitwise operators that are larger
+  than those supported by the internal 32-bit infrastructure of TADS 3. Version 2.0,
+  by Kevin Forchione.

@@ -1,0 +1,6 @@
+schema-version: 1
+id: enterable-underside
+name: Enterable Underside
+author: Gavin Lambert
+description: Adds the ability to enter 'under' some object, such as hiding under a
+  bed.

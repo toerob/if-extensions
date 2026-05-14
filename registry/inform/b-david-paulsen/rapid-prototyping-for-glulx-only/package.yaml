@@ -1,0 +1,6 @@
+schema-version: 1
+id: rapid-prototyping-for-glulx-only
+name: Rapid Prototyping (for Glulx only)
+author: B David Paulsen
+description: A way to create and extend a game world on the fly during testing via
+  a REPL idiom.

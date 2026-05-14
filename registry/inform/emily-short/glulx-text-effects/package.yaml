@@ -1,0 +1,5 @@
+schema-version: 1
+id: glulx-text-effects
+name: Glulx Text Effects
+author: Emily Short
+description: Gives control over text formatting in Glulx.

@@ -1,0 +1,7 @@
+schema-version: 1
+id: poor-mans-mistype
+name: Poor Man's Mistype
+author: Aaron Reed
+description: Adds basic typo correction by checking the first few letters of misunderstood
+  input against the printed names of nearby objects. Requires version 15 of Smarter
+  Parser by Aaron Reed. Supports Scope Caching by Mike Ciul for faster performance.

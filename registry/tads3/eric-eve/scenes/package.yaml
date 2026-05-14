@@ -1,0 +1,7 @@
+schema-version: 1
+id: scenes
+name: scenes
+author: Eric Eve
+description: An extension that provides a means of defining and manipulating scenes
+  in a way similar to the scenes mechanism available in Inform 7. Version 1.0, by
+  Eric Eve.

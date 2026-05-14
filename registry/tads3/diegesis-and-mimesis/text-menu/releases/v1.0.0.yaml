@@ -1,0 +1,11 @@
+schema-version: 2
+maintainer: Diegesis & Mimesis
+date: '2022-10-25'
+source:
+  url: https://github.com/diegesisandmimesis/textMenu.git
+  format: git
+  branch: master
+build:
+  exports:
+  - type: lib
+    path: textMenu/textMenu

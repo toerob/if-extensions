@@ -1,0 +1,6 @@
+schema-version: 1
+id: nathanaels-debug-tools
+name: Nathanael's Debug Tools
+author: Nathanael Nerode
+description: Miscellaneous stuff I like to have built in when debugging and programming,
+  but would never want to relase.

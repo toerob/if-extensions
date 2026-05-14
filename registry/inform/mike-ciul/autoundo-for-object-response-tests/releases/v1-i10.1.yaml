@@ -1,0 +1,15 @@
+schema-version: 2
+maintainer: Mike Ciul
+channel: stable
+compatibility:
+  inform:
+    constraint: '>=10.1'
+source:
+  url: https://github.com/i7/extensions/blob/10.1/Mike%20Ciul/Autoundo%20for%20Object%20Response%20Tests-v1.i7x
+  format: i7x
+build:
+  private:
+  - type: extension
+    path: Autoundo for Object Response Tests-v1.i7x
+description: Tests objects just like Juhana Leinonen's extension, but does an UNDO
+  after each test.

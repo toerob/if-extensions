@@ -1,0 +1,6 @@
+schema-version: 1
+id: vorple-command-prompt-control-for-glulx-only
+name: Vorple Command Prompt Control (for Glulx only)
+author: Juhana Leinonen
+description: Manually triggering parser commands, changing the contents of the command
+  prompt and manipulating the command history.

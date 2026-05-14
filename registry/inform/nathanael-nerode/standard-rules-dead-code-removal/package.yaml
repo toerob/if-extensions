@@ -1,0 +1,6 @@
+schema-version: 1
+id: standard-rules-dead-code-removal
+name: Standard Rules Dead Code Removal
+author: Nathanael Nerode
+description: Reduce the size of games using Room Description Control by removing unused
+  Standard Rules material.  This version tested with Inform v10.1.

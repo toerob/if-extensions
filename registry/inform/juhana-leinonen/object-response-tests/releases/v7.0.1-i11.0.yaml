@@ -1,0 +1,15 @@
+schema-version: 2
+maintainer: Juhana Leinonen
+channel: stable
+compatibility:
+  inform:
+    constraint: '>=11.0'
+source:
+  url: https://github.com/i7/extensions/tree/11.0/Juhana%20Leinonen/Object%20Response%20Tests-v7_0_1.i7xd
+  format: i7xd
+build:
+  private:
+  - type: extension
+    path: Object Response Tests-v7_0_1.i7xd
+description: A development tool for testing all actions on any given object - or one
+  action on all objects - at once to see whether the game's responses are sensible.

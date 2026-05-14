@@ -1,0 +1,19 @@
+schema-version: 2
+maintainer: Ron Newcomb
+channel: stable
+compatibility:
+  inform:
+    constraint: '>=9.3 <10'
+source:
+  url: https://github.com/i7/extensions/blob/9.3/Ron%20Newcomb/Phrases%20for%20Adaptive%20Pacing.i7x
+  format: i7x
+build:
+  private:
+  - type: extension
+    path: Phrases for Adaptive Pacing.i7x
+description: We may ask the time when (a description of scenes) began/ended; the number
+  of turns since (a description of scenes) began/ended; if (a future event) is soon;
+  the time/turns until (a future event); the time/turns when (a future event). We
+  may also un-schedule a future event with 'never shall'; begin or end a scene on
+  an event; say a time 'as a time period'; repeat through future events; and change
+  the turns-to-minutes ratio with 'per'.

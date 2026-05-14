@@ -1,0 +1,14 @@
+schema-version: 2
+maintainer: Zed Lopez
+channel: stable
+compatibility:
+  inform:
+    constraint: '>=11.0'
+source:
+  url: https://github.com/i7/extensions/tree/11.0/Zed%20Lopez/Bit%20Ops-v2_0_1.i7xd
+  format: i7xd
+build:
+  private:
+  - type: extension
+    path: Bit Ops-v2_0_1.i7xd
+description: Routines to access bitwise operators.

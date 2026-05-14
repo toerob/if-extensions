@@ -1,0 +1,7 @@
+schema-version: 1
+id: achievement
+name: achievement
+author: Greg Boettcher
+description: For implementing and locally storing Steam-style achievements. Also for
+  storing information that needs to persist across multiple playthroughs. Version
+  1.0, by Greg Boettcher.

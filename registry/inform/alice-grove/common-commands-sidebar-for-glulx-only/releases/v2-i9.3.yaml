@@ -1,0 +1,17 @@
+schema-version: 2
+maintainer: Alice Grove
+channel: stable
+compatibility:
+  inform:
+    constraint: '>=9.3 <10'
+source:
+  url: https://github.com/i7/extensions/blob/9.3/Alice%20Grove/Common%20Commands%20Sidebar.i7x
+  format: i7x
+build:
+  private:
+  - type: extension
+    path: Common Commands Sidebar.i7x
+description: Displays a list of common parser commands in a sidebar as a reference
+  for novice players. Includes actions to turn the sidebar off and on. Story author
+  can tailor the command list and the appearance of the sidebar, or just plug and
+  play. For version 6L or 6M of Inform 7.

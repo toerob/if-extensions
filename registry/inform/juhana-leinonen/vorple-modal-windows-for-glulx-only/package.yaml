@@ -1,0 +1,6 @@
+schema-version: 1
+id: vorple-modal-windows-for-glulx-only
+name: Vorple Modal Windows (for Glulx only)
+author: Juhana Leinonen
+description: Modal windows are dialog prompts or other information windows that pop
+  up on top of the play area and require user action to dismiss.

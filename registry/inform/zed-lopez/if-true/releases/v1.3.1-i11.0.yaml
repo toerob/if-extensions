@@ -1,0 +1,18 @@
+schema-version: 2
+maintainer: Zed Lopez
+channel: stable
+compatibility:
+  inform:
+    constraint: '>=11.0'
+source:
+  url: https://github.com/i7/extensions/tree/11.0/Zed%20Lopez/If%20True-v1_3_1.i7xd
+  format: i7xd
+build:
+  private:
+  - type: extension
+    path: If True-v1_3_1.i7xd
+description: 'Allow if/unless and while to accept plain truth states instead of
+
+  a full conditional. If Strange Loopiness is included, extend that
+
+  to until loops.'

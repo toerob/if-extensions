@@ -1,0 +1,5 @@
+schema-version: 1
+id: story-substrate
+name: Story Substrate
+author: Jeff Nyman
+description: Provides information about the substrate that a story is executing on.

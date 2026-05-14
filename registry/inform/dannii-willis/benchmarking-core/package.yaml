@@ -1,0 +1,6 @@
+schema-version: 1
+id: benchmarking-core
+name: Benchmarking Core
+author: Dannii Willis
+description: A general purpose benchmarking test framework that produces statistically
+  significant results.

@@ -1,0 +1,6 @@
+schema-version: 1
+id: facing
+name: Facing
+author: Emily Short
+description: Provides actions to face a direction, look toward a named room, or look
+  through a named door.

@@ -1,0 +1,8 @@
+schema-version: 1
+id: rideable-vehicles
+name: Rideable Vehicles
+author: Graham Nelson
+description: 'Vehicles which one sits on top of, rather than inside, such as elephants
+  or
+
+  motorcycles.'

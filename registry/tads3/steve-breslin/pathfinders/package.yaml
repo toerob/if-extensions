@@ -1,0 +1,7 @@
+schema-version: 1
+id: pathfinders
+name: Pathfinders
+author: Steve Breslin
+description: 'A collection of the following pathfinding algorithms, for searching
+  any kind of graph or tree: breadth-first, double-breadth (bi-directional), Floyd,
+  Dijkstra and `A*`. Written by Steve Breslin.'

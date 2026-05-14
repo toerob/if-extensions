@@ -1,0 +1,20 @@
+schema-version: 2
+maintainer: Nate Cull. Updated TADS 3 version 1.2 by Steve Breslin
+date: '2004-09-19'
+source:
+  url: https://www.ifarchive.org/if-archive/programming/tads3/library/contributions/t3RAP.zip
+  format: zip
+build:
+  exports:
+  - type: lib
+    path: t3RAP/t3rapKer
+  - type: lib
+    path: t3RAP/t3rapPlan
+  - type: lib
+    path: t3RAP/t3rapTest
+  - type: lib
+    path: t3RAP/t3rapOrder
+  - type: lib
+    path: t3RAP/t3rapGoto
+  - type: lib
+    path: t3RAP/t3rapKnowledge

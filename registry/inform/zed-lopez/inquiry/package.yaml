@@ -1,0 +1,6 @@
+schema-version: 1
+id: inquiry
+name: Inquiry
+author: Zed Lopez
+description: "A framework for defining Y/N, multiple choice, or free-form\n questions\
+  \ to be asked immediately on game startup or subsequently."

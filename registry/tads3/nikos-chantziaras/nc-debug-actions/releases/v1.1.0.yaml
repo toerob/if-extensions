@@ -1,0 +1,10 @@
+schema-version: 2
+maintainer: Nikos Chantziaras
+date: '2004-07-10'
+source:
+  url: https://www.ifarchive.org/if-archive/programming/tads3/library/contributions/ncDebugActions.t
+  format: t
+build:
+  exports:
+  - type: source
+    path: ncDebugActions

@@ -1,0 +1,15 @@
+schema-version: 2
+maintainer: Aaron Reed
+channel: stable
+compatibility:
+  inform:
+    constraint: '>=11.0'
+source:
+  url: https://github.com/i7/extensions/tree/11.0/Aaron%20Reed/Extended%20Grammar-v8_2_1.i7xd
+  format: i7xd
+build:
+  private:
+  - type: extension
+    path: Extended Grammar-v8_2_1.i7xd
+description: Adds some of the most commonly attempted verb synonyms and alternate
+  grammar lines. Based on the Inform 6 extension ExpertGrammar.h by Emily Short.

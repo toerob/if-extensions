@@ -1,0 +1,6 @@
+schema-version: 1
+id: unicode-file-io-for-glulx-only
+name: Unicode File IO (for Glulx only)
+author: Zed Lopez
+description: "Experimental support for reading and writing external files that may\n\
+  \ include characters longer than a byte. For 6M62."

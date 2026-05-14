@@ -1,0 +1,17 @@
+schema-version: 2
+maintainer: Graham Nelson
+channel: stable
+compatibility:
+  inform:
+    constraint: '>=9.3 <10'
+source:
+  url: https://github.com/i7/extensions/blob/9.3/Graham%20Nelson/Rideable%20Vehicles.i7x
+  format: i7x
+build:
+  private:
+  - type: extension
+    path: Rideable Vehicles.i7x
+description: 'Vehicles which one sits on top of, rather than inside, such as elephants
+  or
+
+  motorcycles.'

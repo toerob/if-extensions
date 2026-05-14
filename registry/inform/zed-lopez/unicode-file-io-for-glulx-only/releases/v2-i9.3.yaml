@@ -1,0 +1,15 @@
+schema-version: 2
+maintainer: Zed Lopez
+channel: stable
+compatibility:
+  inform:
+    constraint: '>=9.3 <10'
+source:
+  url: https://github.com/i7/extensions/blob/9.3/Zed%20Lopez/Unicode%20File%20IO.i7x
+  format: i7x
+build:
+  private:
+  - type: extension
+    path: Unicode File IO.i7x
+description: "Experimental support for reading and writing external files that may\n\
+  \ include characters longer than a byte. For 6M62."

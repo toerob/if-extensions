@@ -1,0 +1,15 @@
+schema-version: 2
+maintainer: Nathanael Nerode
+channel: stable
+compatibility:
+  inform:
+    constraint: '>=9.3 <10'
+source:
+  url: https://github.com/i7/extensions/blob/9.3/Nathanael%20Nerode/Parser%20Error%20Number%20Bugfix.i7x
+  format: i7x
+build:
+  private:
+  - type: extension
+    path: Parser Error Number Bugfix.i7x
+description: Fixes a nasty bug in the I7 error names in Inform 7 version 6M62 (and
+  probably earlier).

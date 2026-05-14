@@ -1,0 +1,5 @@
+schema-version: 1
+id: nuanced-timekeeping
+name: Nuanced Timekeeping
+author: Jeff Nyman
+description: Provides more nuanced aspects of tracking time within a game.

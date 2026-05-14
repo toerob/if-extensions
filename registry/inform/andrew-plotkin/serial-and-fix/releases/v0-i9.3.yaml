@@ -1,0 +1,14 @@
+schema-version: 2
+maintainer: Andrew Plotkin
+channel: stable
+compatibility:
+  inform:
+    constraint: '>=9.3 <10'
+source:
+  url: https://github.com/i7/extensions/blob/9.3/Andrew%20Plotkin/Serial%20And%20Fix.i7x
+  format: i7x
+build:
+  private:
+  - type: extension
+    path: Serial And Fix.i7x
+description: Allows commands of the form GET X, Y, AND Z to be parsed.

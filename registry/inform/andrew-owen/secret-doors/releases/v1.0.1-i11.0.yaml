@@ -1,0 +1,14 @@
+schema-version: 2
+maintainer: Andrew Owen
+channel: stable
+compatibility:
+  inform:
+    constraint: '>=11.0'
+source:
+  url: https://github.com/i7/extensions/tree/11.0/Andrew%20Owen/Secret%20Doors-v1_0_1.i7xd
+  format: i7xd
+build:
+  private:
+  - type: extension
+    path: Secret Doors-v1_0_1.i7xd
+description: Doors and switches that cannot be acted upon until they are discovered.

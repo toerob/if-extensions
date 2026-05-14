@@ -1,0 +1,6 @@
+schema-version: 1
+id: reparse
+name: Reparse
+author: Nathanael Nerode
+description: Provides a hook for the game, or other extensions, to send a different
+  command through the parser.

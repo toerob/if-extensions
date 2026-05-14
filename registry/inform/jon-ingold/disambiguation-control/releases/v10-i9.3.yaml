@@ -1,0 +1,17 @@
+schema-version: 2
+maintainer: Jon Ingold
+channel: stable
+compatibility:
+  inform:
+    constraint: '>=9.3 <10'
+source:
+  url: https://github.com/i7/extensions/blob/9.3/Jon%20Ingold/Disambiguation%20Control.i7x
+  format: i7x
+build:
+  private:
+  - type: extension
+    path: Disambiguation Control.i7x
+description: Allows finer control over the disambiguation process used by Inform to
+  decide what the player was referring to. Less guesswork, more questions asking for
+  more input. Also removes the multiple-object-rejection in favour of asking for more
+  information.

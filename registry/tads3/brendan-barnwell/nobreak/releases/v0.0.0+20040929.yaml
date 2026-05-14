@@ -1,0 +1,6 @@
+schema-version: 2
+maintainer: Brendan Barnwell
+date: '2004-09-29'
+source:
+  url: https://www.ifarchive.org/if-archive/programming/tads3/library/contributions/nobreak.h
+  format: h

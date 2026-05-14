@@ -1,0 +1,7 @@
+schema-version: 1
+id: glimmr-canvas-animation-for-glulx-only
+name: Glimmr Canvas Animation (for Glulx only)
+author: Erik Temple
+description: Provides a 'track'-based system for independent animation of graphic
+  elements, canvases, and windows. Features animation presets, automated easing/tweening,
+  and a detailed debugging log.

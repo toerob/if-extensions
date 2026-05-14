@@ -1,0 +1,6 @@
+schema-version: 1
+id: match
+name: match
+author: Krister Fundin
+description: An extension that provides complex object matching techniques and reduces
+  the need for object loops. Version 3, by Krister Fundin.

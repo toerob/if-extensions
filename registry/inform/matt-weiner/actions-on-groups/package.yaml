@@ -1,0 +1,6 @@
+schema-version: 1
+id: actions-on-groups
+name: Actions On Groups
+author: Matt Weiner
+description: Allows us to make certain actions apply to an entire player-specified
+  group all at once, rather than applying serially to each member of the group.

@@ -1,0 +1,5 @@
+schema-version: 1
+id: mille-una-for-quixe-with-graphics
+name: MilleUna For Quixe With Graphics
+author: Leonardo Boselli
+description: Release for web with the Quixe interpreter.

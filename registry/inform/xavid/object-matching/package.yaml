@@ -1,0 +1,6 @@
+schema-version: 1
+id: object-matching
+name: Object Matching
+author: Xavid
+description: Support for getting the matched object when matching a snippet against
+  a pattern and for disabling clarification when a command or snippet is ambiguous.

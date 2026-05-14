@@ -1,0 +1,6 @@
+schema-version: 1
+id: conversation-responses
+name: Conversation Responses
+author: Eric Eve
+description: Provides a meaning for defining responses to conversational commands
+  (such as ASK FRED ABOUT GARDEN) as a series of rules.

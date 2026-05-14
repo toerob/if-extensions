@@ -1,0 +1,5 @@
+schema-version: 1
+id: glulx-definitions
+name: Glulx Definitions
+author: Dannii Willis
+description: Core definitions which other Glulx/Glk extensions depend on

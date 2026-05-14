@@ -1,0 +1,14 @@
+schema-version: 2
+maintainer: Mikael Segercrantz
+channel: stable
+compatibility:
+  inform:
+    constraint: '>=9.3 <10'
+source:
+  url: https://github.com/i7/extensions/blob/9.3/Mikael%20Segercrantz/Achievements.i7x
+  format: i7x
+build:
+  private:
+  - type: extension
+    path: Achievements.i7x
+description: A table-based way to assign scores for actions, rooms and objects.

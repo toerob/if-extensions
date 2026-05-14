@@ -1,0 +1,6 @@
+schema-version: 1
+id: room-description-supporter-bugfixes
+name: Room Description Supporter Bugfixes
+author: Nathanael Nerode
+description: Fixes some issues in Standard Rules related to printing room descriptions
+  with enterable supporters.

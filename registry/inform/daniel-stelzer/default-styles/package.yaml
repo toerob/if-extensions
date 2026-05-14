@@ -1,0 +1,6 @@
+schema-version: 1
+id: default-styles
+name: Default Styles
+author: Daniel Stelzer
+description: Initializes and repurposes the unused Glulx text styles to provide more
+  flexibility in formatting.

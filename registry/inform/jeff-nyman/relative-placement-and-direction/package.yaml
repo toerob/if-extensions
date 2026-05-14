@@ -1,0 +1,6 @@
+schema-version: 1
+id: relative-placement-and-direction
+name: Relative Placement and Direction
+author: Jeff Nyman
+description: allowing relative directional movement as well as locationally relative
+  descriptions.

@@ -1,0 +1,6 @@
+schema-version: 1
+id: glulx-image-centering
+name: Glulx Image Centering
+author: Emily Short
+description: Glulx Image Centering adds the ability to display an image that is centered
+  (left/right) on the screen.

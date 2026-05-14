@@ -1,0 +1,6 @@
+schema-version: 1
+id: large-game-speedup
+name: Large Game Speedup
+author: Nathanael Nerode
+description: Performance improvements for games with many objects, or with nested
+  loops over objects, by avoiding looping over all objects.

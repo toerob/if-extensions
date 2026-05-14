@@ -1,0 +1,21 @@
+schema-version: 2
+maintainer: Wade Clarke
+channel: stable
+compatibility:
+  inform:
+    constraint: '>=10.1'
+source:
+  url: https://github.com/i7/extensions/blob/10.1/Wade%20Clarke/Guide%20Mode-v4.i7x
+  format: i7x
+build:
+  private:
+  - type: extension
+    path: Guide Mode-v4.i7x
+description: Enables you to add a guide mode to your game. The guide mode walks the
+  player through the game one command at a time. The author creates the table of commands
+  for the game to supply. The player can accept and enter each displayed command by
+  pressing ENTER. If the player types a different in world command, guide mode is
+  paused (and no more guide commands are displayed) allowing the player to experiment
+  or explore. The player can leave guide mode by typing GUIDE OFF. Otherwise, when
+  they UNDO during pause mode, they will be rewound to the moment just before they
+  paused, and put back in guide mode.

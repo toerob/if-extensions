@@ -1,0 +1,6 @@
+schema-version: 1
+id: formatting-capture
+name: Formatting Capture
+author: Daniel Stelzer
+description: ";\n\totherwise say internal bold type.\nTo say italic type -- running\
+  \ on\n\t(documented at phs_italic):\n\tif text capturing is active, say "

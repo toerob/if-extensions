@@ -1,0 +1,6 @@
+schema-version: 1
+id: new-actor-command
+name: newActorCommand
+author: Diegesis & Mimesis
+description: A TADS3 module that implements a global function similar to newActorAction()
+  but which takes a text string instead of an action instance

@@ -1,0 +1,8 @@
+schema-version: 1
+id: tailored-room-description
+name: Tailored Room Description
+author: Emily Short
+description: An extension to go with Room Description Control, providing a different
+  style of room description than the default. Parenthetical remarks such as (open)
+  and (in which are...) are omitted in favor of full English sentences. Removes the
+  requirement for Text Variations.

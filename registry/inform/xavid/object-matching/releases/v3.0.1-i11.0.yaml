@@ -1,0 +1,15 @@
+schema-version: 2
+maintainer: Xavid
+channel: stable
+compatibility:
+  inform:
+    constraint: '>=11.0'
+source:
+  url: https://github.com/i7/extensions/tree/11.0/Xavid/Object%20Matching-v3_0_1.i7xd
+  format: i7xd
+build:
+  private:
+  - type: extension
+    path: Object Matching-v3_0_1.i7xd
+description: Support for getting the matched object when matching a snippet against
+  a pattern and for disabling clarification when a command or snippet is ambiguous.

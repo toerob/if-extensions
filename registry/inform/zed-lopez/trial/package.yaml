@@ -1,0 +1,9 @@
+schema-version: 1
+id: trial
+name: Trial
+author: Zed Lopez
+description: 'Simple means to use a command (''try'') to launch tests of code
+
+  that isn''t naturally command-centric. Facilitates testing such
+
+  code with regtest.'

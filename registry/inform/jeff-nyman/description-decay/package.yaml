@@ -1,0 +1,6 @@
+schema-version: 1
+id: description-decay
+name: Description Decay
+author: Jeff Nyman
+description: Provides a mechanism for allowing description levels to change based
+  on number of visits

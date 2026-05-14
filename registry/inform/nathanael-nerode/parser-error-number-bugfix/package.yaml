@@ -1,0 +1,6 @@
+schema-version: 1
+id: parser-error-number-bugfix
+name: Parser Error Number Bugfix
+author: Nathanael Nerode
+description: Fixes a nasty bug in the I7 error names in Inform 7 version 6M62 (and
+  probably earlier).

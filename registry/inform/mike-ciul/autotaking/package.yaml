@@ -1,0 +1,6 @@
+schema-version: 1
+id: autotaking
+name: Autotaking
+author: Mike Ciul
+description: Implicit taking of noun or second noun that may be invoked by (or used
+  as) a check rule.

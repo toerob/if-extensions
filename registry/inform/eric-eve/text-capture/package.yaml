@@ -1,0 +1,7 @@
+schema-version: 1
+id: text-capture
+name: Text Capture
+author: Eric Eve
+description: Allows the capture of text that would otherwise be sent to the screen,
+  so that the text can be further manipulated, displayed at some other point, or simply
+  discarded. Version 6/120511 allows the use of unicode in Glulx.

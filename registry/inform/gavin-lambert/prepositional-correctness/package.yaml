@@ -1,0 +1,6 @@
+schema-version: 1
+id: prepositional-correctness
+name: Prepositional Correctness
+author: Gavin Lambert
+description: Provides a way to customise the prepositions used to refer to containment
+  or support, and perhaps other custom relationships added by other extensions.

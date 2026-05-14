@@ -1,0 +1,5 @@
+schema-version: 1
+id: boolean-variables
+name: Boolean Variables
+author: Daniel Stelzer
+description: '[any boolean option]'

@@ -1,0 +1,15 @@
+schema-version: 2
+maintainer: Nathanael Nerode
+channel: stable
+compatibility:
+  inform:
+    constraint: '>=11.0'
+source:
+  url: https://github.com/i7/extensions/tree/11.0/Nathanael%20Nerode/Room%20Description%20Supporter%20Bugfixes-v1_0_220524.i7xd
+  format: i7xd
+build:
+  private:
+  - type: extension
+    path: Room Description Supporter Bugfixes-v1_0_220524.i7xd
+description: Fixes some issues in Standard Rules related to printing room descriptions
+  with enterable supporters.

@@ -1,0 +1,15 @@
+schema-version: 2
+maintainer: Edward Griffiths
+channel: stable
+compatibility:
+  inform:
+    constraint: '>=9.3 <10'
+source:
+  url: https://github.com/i7/extensions/blob/9.3/Edward%20Griffiths/Adventure%20Book.i7x
+  format: i7x
+build:
+  private:
+  - type: extension
+    path: Adventure Book.i7x
+description: A system for creating Choose Your Own Adventure style programs, with
+  advanced features.

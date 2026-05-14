@@ -1,0 +1,6 @@
+schema-version: 1
+id: checkpoints
+name: Checkpoints
+author: Peter Orme
+description: A method of using assertions stored in a table to verify your game works
+  as expected.

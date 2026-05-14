@@ -1,0 +1,14 @@
+schema-version: 2
+maintainer: Nate Cull
+channel: stable
+compatibility:
+  inform:
+    constraint: '>=9.3 <10'
+source:
+  url: https://github.com/i7/extensions/blob/9.3/Nate%20Cull/Basic%20Plans.i7x
+  format: i7x
+build:
+  private:
+  - type: extension
+    path: Basic Plans.i7x
+description: A library of basic relations, actions and plans for Planner.

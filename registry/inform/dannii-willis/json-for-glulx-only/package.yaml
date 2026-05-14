@@ -1,0 +1,5 @@
+schema-version: 1
+id: json-for-glulx-only
+name: JSON (for Glulx only)
+author: Dannii Willis
+description: Provides support for parsing and generating JSON

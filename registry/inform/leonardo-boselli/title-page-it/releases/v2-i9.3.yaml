@@ -1,0 +1,16 @@
+schema-version: 2
+maintainer: Leonardo Boselli
+channel: stable
+compatibility:
+  inform:
+    constraint: '>=9.3 <10'
+source:
+  url: https://github.com/i7/extensions/blob/9.3/Leonardo%20Boselli/Title%20Page%20IT.i7x
+  format: i7x
+build:
+  private:
+  - type: extension
+    path: Title Page IT.i7x
+description: Fornisce un pannello introduttivo al gioco, con un menù, la possibilità
+  di caricare e ricominciare, una citazione e (in Glulx) una figura. Semplicemente
+  tradotto dall'originale.

@@ -1,0 +1,5 @@
+schema-version: 1
+id: command-casing
+name: Command Casing
+author: Daniel Stelzer
+description: A simple fix to preserve casing when the player's command is altered.

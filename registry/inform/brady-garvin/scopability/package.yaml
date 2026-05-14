@@ -1,0 +1,6 @@
+schema-version: 1
+id: scopability
+name: Scopability
+author: Brady Garvin
+description: The ability to toggle objects' scopability; the parser does not acknowledge
+  the existence of unscopable objects, even if they are explicitly added to scope.

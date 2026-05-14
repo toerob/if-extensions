@@ -1,0 +1,19 @@
+schema-version: 2
+maintainer: Mikael Segercrantz
+channel: stable
+compatibility:
+  inform:
+    constraint: '>=10.1'
+source:
+  url: https://github.com/i7/extensions/blob/10.1/Mikael%20Segercrantz/Trinity%20Inventory-v5.i7x
+  format: i7x
+build:
+  private:
+  - type: extension
+    path: Trinity Inventory-v5.i7x
+description: Provides a framework for listing inventories in natural sentences, akin
+  to Infocom's game Trinity. Separates carried and worn objects, followed by objects
+  that contains other objects. What's listed in the third section is customizable
+  via a rulebook. Objects can be marked as not listed when carried or worn as well
+  as marked as having their contents listed in the inventory when they're empty. This
+  extension is based upon the extension Written Inventory by Jon Ingold.

@@ -1,0 +1,11 @@
+schema-version: 1
+id: undo-output-control
+name: Undo Output Control
+author: Erik Temple
+description: In addition to allowing control over UNDO default messages, provides
+  hooks into UNDO processing, including multiple ways to suspend UNDO temporarily,
+  to place limitations on UNDO (such as allowing only one UNDO in a row), to undo
+  the current turn from code, and to control when the game state is saved. Using the
+  latter, we can effectively control which turn UNDO returns us to.  Also allows changing
+  the words which invoke UNDO and OOPS.  Also allows the story to edit a blank command
+  before analyzing it.  Updated to Inform 6M62.

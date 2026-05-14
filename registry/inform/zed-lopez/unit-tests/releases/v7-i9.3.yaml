@@ -1,0 +1,14 @@
+schema-version: 2
+maintainer: Zed Lopez
+channel: stable
+compatibility:
+  inform:
+    constraint: '>=9.3 <10'
+source:
+  url: https://github.com/i7/extensions/blob/9.3/Zed%20Lopez/Unit%20Tests.i7x
+  format: i7x
+build:
+  private:
+  - type: extension
+    path: Unit Tests.i7x
+description: For unit testing. Tested with 6M62.

@@ -1,0 +1,16 @@
+schema-version: 2
+maintainer: Leonardo Boselli
+channel: stable
+compatibility:
+  inform:
+    constraint: '>=11.0'
+source:
+  url: https://github.com/i7/extensions/tree/11.0/Leonardo%20Boselli/Creative%20Commons%20Public%20License%20IT-v2_0_1.i7xd
+  format: i7xd
+build:
+  private:
+  - type: extension
+    path: Creative Commons Public License IT-v2_0_1.i7xd
+description: Un'estensione in italiano per facilitare il rilascio di 'interactive
+  fiction' secondo la Creative Commons License v25. Basata sull'estensione GNU General
+  Public License v3 di Otis T. Dog.

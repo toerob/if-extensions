@@ -1,0 +1,17 @@
+schema-version: 2
+maintainer: Aaron Reed
+channel: stable
+compatibility:
+  inform:
+    constraint: '>=11.0'
+source:
+  url: https://github.com/i7/extensions/tree/11.0/Aaron%20Reed/Small%20Kindnesses-v13_2_1.i7xd
+  format: i7xd
+build:
+  private:
+  - type: extension
+    path: Small Kindnesses-v13_2_1.i7xd
+description: Provides a number of small interface improvements for players, understanding
+  commands like GO BACK and GET IN, an EXITS command which automatically runs after
+  failed movement, a USE verb, and more. Compatible with Modified Exit and Approaches
+  by Emily Short, Keyword Interface by Aaron Reed, and Implicit Actions by Eric Eve.

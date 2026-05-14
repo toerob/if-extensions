@@ -1,0 +1,6 @@
+schema-version: 2
+maintainer: Stephen Granade
+date: '2004-02-03'
+source:
+  url: https://www.ifarchive.org/if-archive/programming/tads3/library/contributions/cquotes.t
+  format: t

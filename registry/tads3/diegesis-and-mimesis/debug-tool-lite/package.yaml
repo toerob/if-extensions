@@ -1,0 +1,7 @@
+schema-version: 1
+id: debug-tool-lite
+name: debugToolLite
+author: Diegesis & Mimesis
+description: A port of the debugTool interactive(-ish) debugger to work with adv3lite
+tags:
+- debug

@@ -1,0 +1,6 @@
+schema-version: 1
+id: flexible-action-requirements
+name: Flexible Action Requirements
+author: Mike Ciul
+description: Overrides carrying requirements for specific actions, and provides more
+  nuanced carrying and touchability requirements when needed.

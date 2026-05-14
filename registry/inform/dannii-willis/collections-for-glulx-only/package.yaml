@@ -1,0 +1,5 @@
+schema-version: 1
+id: collections-for-glulx-only
+name: Collections (for Glulx only)
+author: Dannii Willis
+description: Provides support for array and map data structures

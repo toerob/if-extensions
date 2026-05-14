@@ -1,0 +1,7 @@
+schema-version: 1
+id: italian-language
+name: Italian Language
+author: Massimo Stella
+description: To make Italian the language of play. Heavily based on code written by
+  Massimo Stella. Now maintained by Leonardo Boselli. Requires 'Text Capture' by Eric
+  Eve.

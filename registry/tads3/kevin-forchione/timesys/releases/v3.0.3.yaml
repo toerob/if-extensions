@@ -1,0 +1,6 @@
+schema-version: 2
+maintainer: Kevin Forchione
+date: '2005-10-23'
+source:
+  url: https://www.ifarchive.org/if-archive/programming/tads3/library/contributions/timesys.zip
+  format: zip

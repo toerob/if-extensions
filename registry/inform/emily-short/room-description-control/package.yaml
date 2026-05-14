@@ -1,0 +1,7 @@
+schema-version: 1
+id: room-description-control
+name: Room Description Control
+author: Emily Short
+description: A framework by which the author can considerably change the listing of
+  objects in a room description. Includes facilities for concealing objects arbitrarily
+  and changing the order in which objects are listed.

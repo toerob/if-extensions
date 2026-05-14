@@ -1,0 +1,15 @@
+schema-version: 2
+maintainer: Marc von der Heiden
+channel: stable
+compatibility:
+  inform:
+    constraint: '>=10.1'
+source:
+  url: https://github.com/i7/extensions/blob/10.1/Marc%20von%20der%20Heiden/Distantly%20Visible%20Things-v2.i7x
+  format: i7x
+build:
+  private:
+  - type: extension
+    path: Distantly Visible Things-v2.i7x
+description: Provides flexible handling of things that can be seen in multiple rooms,
+  but - unlike backdrops - still have one distinct location.

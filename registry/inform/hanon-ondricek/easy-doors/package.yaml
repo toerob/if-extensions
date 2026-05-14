@@ -1,0 +1,7 @@
+schema-version: 1
+id: easy-doors
+name: Easy Doors
+author: Hanon Ondricek
+description: Easy Doors provides a new kind of door which does not use map connections,
+  and may be manipulated via rules more flexibly than the standard doors provided
+  in Inform 7.  Version 3 removes elements for compatibility with 6M62

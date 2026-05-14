@@ -1,0 +1,14 @@
+schema-version: 2
+maintainer: Eric Eve
+channel: stable
+compatibility:
+  inform:
+    constraint: '>=9.3 <10'
+source:
+  url: https://github.com/i7/extensions/blob/9.3/Eric%20Eve/Adaptive%20Hints.i7x
+  format: i7x
+build:
+  private:
+  - type: extension
+    path: Adaptive Hints.i7x
+description: An adaptive hint system based on Menus by Emily Short.

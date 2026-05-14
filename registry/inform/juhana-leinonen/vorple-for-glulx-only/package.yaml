@@ -1,0 +1,6 @@
+schema-version: 1
+id: vorple-for-glulx-only
+name: Vorple (for Glulx only)
+author: Juhana Leinonen
+description: Core functionality of Vorple, including JavaScript evaluation and adding
+  HTML elements.

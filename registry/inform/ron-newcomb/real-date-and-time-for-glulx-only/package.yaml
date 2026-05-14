@@ -1,0 +1,6 @@
+schema-version: 1
+id: real-date-and-time-for-glulx-only
+name: Real Date and Time (for Glulx only)
+author: Ron Newcomb
+description: Allows the author to get the real-world time and date from the player's
+  computer.

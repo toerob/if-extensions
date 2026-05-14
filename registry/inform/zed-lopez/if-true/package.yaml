@@ -1,0 +1,9 @@
+schema-version: 1
+id: if-true
+name: If True
+author: Zed Lopez
+description: 'Allow if/unless and while to accept plain truth states instead of
+
+  a full conditional. If Strange Loopiness is included, extend that
+
+  to until loops.'

@@ -1,0 +1,14 @@
+schema-version: 2
+maintainer: Jesse McGrew
+channel: stable
+compatibility:
+  inform:
+    constraint: '>=9.3 <10'
+source:
+  url: https://github.com/i7/extensions/blob/9.3/Jesse%20McGrew/Dynamic%20Objects.i7x
+  format: i7x
+build:
+  private:
+  - type: extension
+    path: Dynamic Objects.i7x
+description: Provides the ability to create new objects during game play.

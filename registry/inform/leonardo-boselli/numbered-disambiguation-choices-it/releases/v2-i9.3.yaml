@@ -1,0 +1,16 @@
+schema-version: 2
+maintainer: Leonardo Boselli
+channel: stable
+compatibility:
+  inform:
+    constraint: '>=9.3 <10'
+source:
+  url: https://github.com/i7/extensions/blob/9.3/Leonardo%20Boselli/Numbered%20Disambiguation%20Choices%20IT.i7x
+  format: i7x
+build:
+  private:
+  - type: extension
+    path: Numbered Disambiguation Choices IT.i7x
+description: Numbers the options in disambiguation questions, to help new players
+  and solve the 'disambiguation loop' problem caused by indistinguishable objects.
+  Semplicemente tradotto in italiano.

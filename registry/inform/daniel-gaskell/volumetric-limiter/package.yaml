@@ -1,0 +1,7 @@
+schema-version: 1
+id: volumetric-limiter
+name: Volumetric Limiter
+author: Daniel Gaskell
+description: Containers and actor that limit their contents by volume. Modeled after
+  Bulk Limiter by Eric Eve, but understands length, width, and height as well as total
+  size.

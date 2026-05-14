@@ -1,0 +1,8 @@
+schema-version: 1
+id: kf-debug
+name: kfDebug
+author: Krister Fundin
+description: A debugging suite, including an in-game expression evaluator. Version
+  1, by Krister Fundin.
+tags:
+- debug

@@ -1,0 +1,6 @@
+schema-version: 1
+id: verb-stripping
+name: Verb Stripping
+author: Nathanael Nerode
+description: Removes a number of verbs from the standard rules; verbs which might
+  cause confusion in a game whose theme is not adventure.

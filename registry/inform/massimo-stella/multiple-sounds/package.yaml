@@ -1,0 +1,6 @@
+schema-version: 1
+id: multiple-sounds
+name: Multiple Sounds
+author: Massimo Stella
+description: Provides facilities for the basic reproduction of multiple-channel audio
+  with loops under Glulx.

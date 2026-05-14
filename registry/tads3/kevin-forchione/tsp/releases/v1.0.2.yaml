@@ -1,0 +1,10 @@
+schema-version: 2
+maintainer: Kevin Forchione
+date: '2005-10-11'
+source:
+  url: https://www.ifarchive.org/if-archive/programming/tads3/library/contributions/tsp.zip
+  format: zip
+build:
+  exports:
+  - type: lib
+    path: tsp/lib/tsp

@@ -1,0 +1,6 @@
+schema-version: 1
+id: conversation-touchability-fix
+name: Conversation Touchability Fix
+author: Daniel Stelzer
+description: A simple change to the Standard Rules to allow conversation to work without
+  a touchable noun.

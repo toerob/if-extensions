@@ -1,0 +1,6 @@
+schema-version: 1
+id: npc-implicit-actions
+name: NPC Implicit Actions
+author: Eric Eve
+description: A basic extension of the Implicit Actions extension into actions carried
+  out by NPCs. This extension automatically includes Implicit Actions.

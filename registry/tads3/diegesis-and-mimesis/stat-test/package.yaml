@@ -1,0 +1,6 @@
+schema-version: 1
+id: stat-test
+name: statTest
+author: Diegesis & Mimesis
+description: A TADS3 module designed to make it easier to implement simple statistical
+  tests

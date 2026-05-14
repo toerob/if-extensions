@@ -1,0 +1,6 @@
+schema-version: 1
+id: debug-files
+name: Debug Files
+author: Juhana Leinonen
+description: A development tool for saving debugging information to an external text
+  file during beta testing.

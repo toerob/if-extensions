@@ -1,0 +1,19 @@
+schema-version: 2
+maintainer: Emily Short
+channel: stable
+compatibility:
+  inform:
+    constraint: '>=9.3 <10'
+source:
+  url: https://github.com/i7/extensions/blob/9.3/Emily%20Short/Mood%20Variations.i7x
+  format: i7x
+build:
+  private:
+  - type: extension
+    path: Mood Variations.i7x
+description: Allows the author to define a mood value for characters and then use
+  text substitutions such as '[when bored]The king fidgets on his throne[or sleepy]The
+  king snores[at other times]The king grins[end when].' Moods will be interpreted
+  in 'writing a paragraph' and similar contexts as the mood of the person described
+  in the paragraph, but at other times according to the mood of the person to whom
+  the player is currently speaking.

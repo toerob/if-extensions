@@ -1,0 +1,6 @@
+schema-version: 1
+id: padlock
+name: padlock
+author: Greg Boettcher
+description: A TADS 3 implementation of padlocks and padlockable things. Version 1.0,
+  by Greg Boettcher.

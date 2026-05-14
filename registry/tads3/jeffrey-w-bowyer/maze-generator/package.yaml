@@ -1,0 +1,7 @@
+schema-version: 1
+id: maze-generator
+name: MazeGenerator
+author: Jeffrey W. Bowyer
+description: Virtual Maze Generator, version 1, by Jeffrey W. Bowyer. Archive contains
+  a Java component to produces a perfect maze, and a TADS 3 class for crawling that
+  maze.

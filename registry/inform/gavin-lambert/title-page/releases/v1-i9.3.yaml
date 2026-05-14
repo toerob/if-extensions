@@ -1,0 +1,14 @@
+schema-version: 2
+maintainer: Gavin Lambert
+channel: stable
+compatibility:
+  inform:
+    constraint: '>=9.3 <10'
+source:
+  url: https://github.com/i7/extensions/blob/9.3/Gavin%20Lambert/Title%20Page.i7x
+  format: i7x
+build:
+  private:
+  - type: extension
+    path: Title Page.i7x
+description: Provides an intro screen to the story, offering an image and menu.

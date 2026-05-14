@@ -1,0 +1,6 @@
+schema-version: 1
+id: vorple-element-manipulation-for-glulx-only
+name: Vorple Element Manipulation (for Glulx only)
+author: Juhana Leinonen
+description: Adding, removing, hiding, moving and other basic manipulation of HTML
+  document elements.

@@ -1,0 +1,15 @@
+schema-version: 2
+maintainer: Dannii Willis
+channel: stable
+compatibility:
+  inform:
+    constraint: '>=9.3 <10'
+source:
+  url: https://github.com/i7/extensions/blob/9.3/Dannii%20Willis/Glk%20Text%20Formatting.i7x
+  format: i7x
+build:
+  private:
+  - type: extension
+    path: Glk Text Formatting.i7x
+description: Provides functions for controlling colours and reverse styling at character
+  granularity

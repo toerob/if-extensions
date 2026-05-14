@@ -1,0 +1,15 @@
+schema-version: 2
+maintainer: Friends of I7
+channel: stable
+compatibility:
+  inform:
+    constraint: '>=9.3 <10'
+source:
+  url: https://github.com/i7/extensions/blob/9.3/Friends%20of%20I7/Interpreter%20Sniffing.i7x
+  format: i7x
+build:
+  private:
+  - type: extension
+    path: Interpreter Sniffing.i7x
+description: Phrases for testing, as far as is possible, which interpreter the story
+  is running under.

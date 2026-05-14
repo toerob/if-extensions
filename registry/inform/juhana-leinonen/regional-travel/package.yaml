@@ -1,0 +1,7 @@
+schema-version: 1
+id: regional-travel
+name: Regional Travel
+author: Juhana Leinonen
+description: Allows the player to travel between regions. Useful for example when
+  the player travels between large regions far apart from each other (e.g. cities),
+  or for traveling in vehicles and public transportation.

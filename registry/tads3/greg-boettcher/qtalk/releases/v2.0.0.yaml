@@ -1,0 +1,6 @@
+schema-version: 2
+maintainer: Greg Boettcher
+date: '2007-10-29'
+source:
+  url: https://www.ifarchive.org/if-archive/programming/tads3/library/contributions/qtalk.zip
+  format: zip

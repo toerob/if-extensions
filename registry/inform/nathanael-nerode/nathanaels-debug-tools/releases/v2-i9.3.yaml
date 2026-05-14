@@ -1,0 +1,15 @@
+schema-version: 2
+maintainer: Nathanael Nerode
+channel: stable
+compatibility:
+  inform:
+    constraint: '>=9.3 <10'
+source:
+  url: https://github.com/i7/extensions/blob/9.3/Nathanael%20Nerode/Nathanael%27s%20Debug%20Tools.i7x
+  format: i7x
+build:
+  private:
+  - type: extension
+    path: Nathanael's Debug Tools.i7x
+description: Miscellaneous stuff I like to have built in when debugging and programming,
+  but would never want to relase.

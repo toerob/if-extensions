@@ -1,0 +1,17 @@
+schema-version: 2
+maintainer: Emily Short
+channel: stable
+compatibility:
+  inform:
+    constraint: '>=11.0'
+source:
+  url: https://github.com/i7/extensions/tree/11.0/Emily%20Short/Tailored%20Room%20Description-v13_2_220525.i7xd
+  format: i7xd
+build:
+  private:
+  - type: extension
+    path: Tailored Room Description-v13_2_220525.i7xd
+description: An extension to go with Room Description Control, providing a different
+  style of room description than the default. Parenthetical remarks such as (open)
+  and (in which are...) are omitted in favor of full English sentences. Removes the
+  requirement for Text Variations.

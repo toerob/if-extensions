@@ -1,0 +1,6 @@
+schema-version: 1
+id: rextok
+name: rextok
+author: Kevin Forchione
+description: A library that extends regular expression searches from strings to token
+  lists and vectors. Version 2.0, by Kevin Forchione.

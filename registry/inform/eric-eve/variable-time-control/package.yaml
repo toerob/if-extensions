@@ -1,0 +1,7 @@
+schema-version: 1
+id: variable-time-control
+name: Variable Time Control
+author: Eric Eve
+description: Allows individual actions to take a different number of seconds, or no
+  time at all. Also allows the standard time taken per turn to be defined as so many
+  seconds, which can be varied during the course of play

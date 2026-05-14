@@ -1,0 +1,6 @@
+schema-version: 1
+id: last-typed
+name: lastTyped
+author: Diegesis & Mimesis
+description: A TADS3 module for keeping track of the specific nouns and verbs in a
+  typed command

@@ -1,0 +1,7 @@
+schema-version: 1
+id: simple-graphical-window-for-glulx-only
+name: Simple Graphical Window (for Glulx only)
+author: Emily Short
+description: Provides a graphics window in one part of the screen, in which the author
+  can place images; with provision for scaling, tiling, or centering images automatically.
+  Glulx only.

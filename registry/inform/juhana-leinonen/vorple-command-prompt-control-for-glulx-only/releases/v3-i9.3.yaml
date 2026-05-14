@@ -1,0 +1,15 @@
+schema-version: 2
+maintainer: Juhana Leinonen
+channel: stable
+compatibility:
+  inform:
+    constraint: '>=9.3 <10'
+source:
+  url: https://github.com/i7/extensions/blob/9.3/Juhana%20Leinonen/Vorple%20Command%20Prompt%20Control.i7x
+  format: i7x
+build:
+  private:
+  - type: extension
+    path: Vorple Command Prompt Control.i7x
+description: Manually triggering parser commands, changing the contents of the command
+  prompt and manipulating the command history.

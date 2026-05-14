@@ -1,0 +1,17 @@
+schema-version: 2
+maintainer: Ron Newcomb
+channel: stable
+compatibility:
+  inform:
+    constraint: '>=10.1'
+source:
+  url: https://github.com/i7/extensions/blob/10.1/Ron%20Newcomb/Scope%20Control-v2.i7x
+  format: i7x
+build:
+  private:
+  - type: extension
+    path: Scope Control-v2.i7x
+description: Allows us to ask why the Deciding the Scope For Something activity is
+  running, so we can modify the scope only when we absolutely need to.  Highly useful
+  for giving NPCs commands over telephones or while in darkness, creating 'can hear'
+  relations, or modifying how Inform parses the command line.

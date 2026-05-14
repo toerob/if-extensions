@@ -1,0 +1,13 @@
+schema-version: 2
+maintainer: Matt Weiner
+channel: stable
+compatibility:
+  inform:
+    constraint: '>=9.3 <10'
+source:
+  url: https://github.com/i7/extensions/blob/9.3/Matt%20Weiner/Actions%20on%20Groups.i7x
+  format: i7x
+build:
+  private:
+  - type: extension
+    path: Actions on Groups.i7x

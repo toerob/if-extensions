@@ -1,0 +1,7 @@
+schema-version: 1
+id: dishes
+name: Dishes
+author: Emily Short
+description: Dishes is a convenience extension for use with Measured Liquid. It provides
+  some standard-sized cups, glasses, graduated measuring cups, jugs, bottles, etc.,
+  as well as a corked bottle kind that opens with the use of a secondary cork object.

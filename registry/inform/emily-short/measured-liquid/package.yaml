@@ -1,0 +1,8 @@
+schema-version: 1
+id: measured-liquid
+name: Measured Liquid
+author: Emily Short
+description: Measured Liquid provides a concept of volume, together with the ability
+  to fill containers, pour measured amounts of liquid, and drink from containers.
+  It handles mixtures as well, if desired. It is compatible with, but does not require,
+  the Metric Units extension by Graham Nelson.

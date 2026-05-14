@@ -1,0 +1,8 @@
+schema-version: 1
+id: mille-una-for-gargoyle
+name: MilleUna For Gargoyle
+author: Leonardo Boselli
+description: ".\n\nTo say show (FIG - a figure name):\n\tshow FIG.\nTo show (FIG -\
+  \ a figure name):\n\tdisplay FIG.\n\nSection - Sounds\n\nInclude Multiple Sounds\
+  \ by Massimo Stella.\n\nTo say play-back (SND - a sound name):\n\tplay-back SND;\n\
+  \tsay "

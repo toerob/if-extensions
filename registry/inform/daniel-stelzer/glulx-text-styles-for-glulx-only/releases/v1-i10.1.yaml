@@ -1,0 +1,15 @@
+schema-version: 2
+maintainer: Daniel Stelzer
+channel: stable
+compatibility:
+  inform:
+    constraint: '>=10.1'
+source:
+  url: https://github.com/i7/extensions/blob/10.1/Daniel%20Stelzer/Glulx%20Text%20Styles-v1.i7x
+  format: i7x
+build:
+  private:
+  - type: extension
+    path: Glulx Text Styles-v1.i7x
+description: Glulx Text Styles provides a more powerful way to set up special text
+  effects for Glulx.

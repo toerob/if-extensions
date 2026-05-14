@@ -1,0 +1,6 @@
+schema-version: 1
+id: nested-text-capture
+name: Nested Text Capture
+author: Taryn Michelle
+description: Builds on Eric Eve's text capture extension (with contributions from
+  Dannii Willis) to allow for re-entrance.

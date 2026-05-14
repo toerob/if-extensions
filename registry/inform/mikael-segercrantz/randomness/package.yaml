@@ -1,0 +1,6 @@
+schema-version: 1
+id: randomness
+name: Randomness
+author: Mikael Segercrantz
+description: Random number generation using a simple seedable pseudorandom number
+  generator.

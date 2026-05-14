@@ -1,0 +1,15 @@
+schema-version: 2
+maintainer: Xavid
+channel: stable
+compatibility:
+  inform:
+    constraint: '>=9.3 <10'
+source:
+  url: https://github.com/i7/extensions/blob/9.3/Xavid/Graphical%20Map.i7x
+  format: i7x
+build:
+  private:
+  - type: extension
+    path: Graphical Map.i7x
+description: Provides support for an image-based map with a static background and
+  icons for the player and optionally other things or doors.

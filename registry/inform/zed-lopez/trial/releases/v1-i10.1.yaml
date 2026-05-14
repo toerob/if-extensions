@@ -1,0 +1,18 @@
+schema-version: 2
+maintainer: Zed Lopez
+channel: stable
+compatibility:
+  inform:
+    constraint: '>=10.1'
+source:
+  url: https://github.com/i7/extensions/blob/10.1/Zed%20Lopez/Trial-v1.i7x
+  format: i7x
+build:
+  private:
+  - type: extension
+    path: Trial-v1.i7x
+description: 'Simple means to use a command (''try'') to launch tests of code
+
+  that isn''t naturally command-centric. Facilitates testing such
+
+  code with regtest.'

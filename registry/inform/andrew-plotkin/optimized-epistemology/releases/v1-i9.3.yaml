@@ -1,0 +1,14 @@
+schema-version: 2
+maintainer: Andrew Plotkin
+channel: stable
+compatibility:
+  inform:
+    constraint: '>=9.3 <10'
+source:
+  url: https://github.com/i7/extensions/blob/9.3/Andrew%20Plotkin/Optimized%20Epistemology.i7x
+  format: i7x
+build:
+  private:
+  - type: extension
+    path: Optimized Epistemology.i7x
+description: Keeping track of what the player character knows and sees.

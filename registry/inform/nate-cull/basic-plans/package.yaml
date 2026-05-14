@@ -1,0 +1,5 @@
+schema-version: 1
+id: basic-plans
+name: Basic Plans
+author: Nate Cull
+description: A library of basic relations, actions and plans for Planner.

@@ -1,0 +1,6 @@
+schema-version: 1
+id: graphical-map-for-glulx-only
+name: Graphical Map (for Glulx only)
+author: Xavid
+description: Provides support for an image-based map with a static background and
+  icons for the player and optionally other things or doors.

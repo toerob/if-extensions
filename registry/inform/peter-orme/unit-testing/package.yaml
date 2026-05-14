@@ -1,0 +1,6 @@
+schema-version: 1
+id: unit-testing
+name: Unit Testing
+author: Peter Orme
+description: A developer extension that lets you write unit tests (asserts) in Inform
+  7.

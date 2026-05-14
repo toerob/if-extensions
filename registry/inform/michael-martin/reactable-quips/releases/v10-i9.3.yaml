@@ -1,0 +1,15 @@
+schema-version: 2
+maintainer: Michael Martin
+channel: stable
+compatibility:
+  inform:
+    constraint: '>=9.3 <10'
+source:
+  url: https://github.com/i7/extensions/blob/9.3/Michael%20Martin/Reactable%20Quips.i7x
+  format: i7x
+build:
+  private:
+  - type: extension
+    path: Reactable Quips.i7x
+description: A table-based approach to NPC conversation chains, as well as allowing
+  rules to fire on lines of conversation.

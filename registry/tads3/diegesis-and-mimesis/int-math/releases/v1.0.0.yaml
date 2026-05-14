@@ -1,0 +1,11 @@
+schema-version: 2
+maintainer: Diegesis & Mimesis
+date: '2023-04-22'
+source:
+  url: https://github.com/diegesisandmimesis/intMath.git
+  format: git
+  branch: master
+build:
+  exports:
+  - type: lib
+    path: intMath/intMath

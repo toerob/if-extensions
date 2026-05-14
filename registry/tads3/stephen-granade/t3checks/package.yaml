@@ -1,0 +1,6 @@
+schema-version: 1
+id: t3checks
+name: T3checks
+author: Stephen Granade
+description: A module which keeps track of what capabilities a given interpreter has,
+  such as the ability to display images. Version 1.0, by Stephen Granade.

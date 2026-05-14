@@ -1,0 +1,7 @@
+schema-version: 1
+id: say-query
+name: SayQuery
+author: Eric Eve
+description: An extension implementing SayTopic and QueryTopic and allowing suggested
+  topics to be selected by number or by clicking on hyperlinks. Version 1.0, by Eric
+  Eve.

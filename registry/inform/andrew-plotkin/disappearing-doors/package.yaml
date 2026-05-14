@@ -1,0 +1,5 @@
+schema-version: 1
+id: disappearing-doors
+name: Disappearing Doors
+author: Andrew Plotkin
+description: The ability to remove doors from the world and put them back.

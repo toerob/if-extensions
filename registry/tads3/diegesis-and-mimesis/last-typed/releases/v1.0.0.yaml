@@ -1,0 +1,10 @@
+schema-version: 2
+maintainer: Diegesis & Mimesis
+date: '2022-06-10'
+source:
+  url: https://www.ifarchive.org/if-archive/programming/tads3/library/contributions/lastTyped.zip
+  format: zip
+build:
+  exports:
+  - type: lib
+    path: lastTyped/lastTyped

@@ -1,0 +1,5 @@
+schema-version: 1
+id: armed
+name: Armed
+author: David Ratliff
+description: This is just a (no longer) little extension to handle weapons and fighting.

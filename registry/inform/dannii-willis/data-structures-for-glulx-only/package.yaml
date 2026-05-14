@@ -1,0 +1,5 @@
+schema-version: 1
+id: data-structures-for-glulx-only
+name: Data Structures (for Glulx only)
+author: Dannii Willis
+description: Provides support for some additional data structures

@@ -1,0 +1,5 @@
+schema-version: 1
+id: highscores-for-glulx-only
+name: Highscores (for Glulx only)
+author: Dannii Willis
+description: Record and review highscores to an external file

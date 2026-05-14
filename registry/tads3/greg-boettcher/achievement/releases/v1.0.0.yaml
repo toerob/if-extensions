@@ -1,0 +1,6 @@
+schema-version: 2
+maintainer: Greg Boettcher
+date: '2019-08-13'
+source:
+  url: https://www.ifarchive.org/if-archive/programming/tads3/library/contributions/achievement.zip
+  format: zip

@@ -1,0 +1,5 @@
+schema-version: 1
+id: switch
+name: Switch
+author: Zed Lopez
+description: A switch statement. Tested with 6M62.

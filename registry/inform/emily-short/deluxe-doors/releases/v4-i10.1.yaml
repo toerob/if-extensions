@@ -1,0 +1,17 @@
+schema-version: 2
+maintainer: Emily Short
+channel: stable
+compatibility:
+  inform:
+    constraint: '>=10.1'
+source:
+  url: https://github.com/i7/extensions/blob/10.1/Emily%20Short/Deluxe%20Doors-v4.i7x
+  format: i7x
+build:
+  private:
+  - type: extension
+    path: Deluxe Doors-v4.i7x
+description: Allows for doors that are implemented as having independent 'faces' --
+  to put a knocker on that can only be seen from on side, for instance, or to allow
+  the player to lock one side with a key but the other with a latch. Also introduces
+  a 'latched door' kind.

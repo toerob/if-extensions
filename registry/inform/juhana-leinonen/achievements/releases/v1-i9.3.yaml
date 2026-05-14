@@ -1,0 +1,15 @@
+schema-version: 2
+maintainer: Juhana Leinonen
+channel: stable
+compatibility:
+  inform:
+    constraint: '>=9.3 <10'
+source:
+  url: https://github.com/i7/extensions/blob/9.3/Juhana%20Leinonen/Achievements.i7x
+  format: i7x
+build:
+  private:
+  - type: extension
+    path: Achievements.i7x
+description: A simple but flexible rule-based achievement system. Awarded achievements
+  can optionally persist in external files after a restart.

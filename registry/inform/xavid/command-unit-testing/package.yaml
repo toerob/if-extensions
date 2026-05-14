@@ -1,0 +1,6 @@
+schema-version: 1
+id: command-unit-testing
+name: Command Unit Testing
+author: Xavid
+description: Support for creating 'unit tests' that run a series of commands and make
+  assertions about the output of some of them.

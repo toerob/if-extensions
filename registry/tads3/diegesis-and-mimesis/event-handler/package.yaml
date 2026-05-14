@@ -1,0 +1,6 @@
+schema-version: 1
+id: event-handler
+name: eventHandler
+author: Diegesis & Mimesis
+description: A TADS3 module implementing a simple event handler model allowing objects
+  to subscribe to notifications from other objects

@@ -1,0 +1,6 @@
+schema-version: 2
+maintainer: Kevin Forchione
+date: '2006-10-11'
+source:
+  url: https://www.ifarchive.org/if-archive/programming/tads3/library/contributions/relation.zip
+  format: zip

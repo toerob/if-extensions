@@ -1,0 +1,6 @@
+schema-version: 1
+id: debug-files-for-glulx-only
+name: Debug Files (for Glulx only)
+author: Juhana Leinonen
+description: A development tool for saving debugging information to an external text
+  file during beta testing.

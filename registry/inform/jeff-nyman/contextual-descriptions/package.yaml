@@ -1,0 +1,5 @@
+schema-version: 1
+id: contextual-descriptions
+name: Contextual Descriptions
+author: Jeff Nyman
+description: Provides a mechanism for contextually shifting descriptions.

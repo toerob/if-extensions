@@ -1,0 +1,5 @@
+schema-version: 1
+id: vorple-status-line-for-glulx-only
+name: Vorple Status Line (for Glulx only)
+author: Juhana Leinonen
+description: The Vorple version of the standard status line.

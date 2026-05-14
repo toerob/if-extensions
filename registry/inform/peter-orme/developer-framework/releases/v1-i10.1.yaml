@@ -1,0 +1,14 @@
+schema-version: 2
+maintainer: Peter Orme
+channel: stable
+compatibility:
+  inform:
+    constraint: '>=10.1'
+source:
+  url: https://github.com/i7/extensions/blob/10.1/Peter%20Orme/Developer%20Framework-v1.i7x
+  format: i7x
+build:
+  private:
+  - type: extension
+    path: Developer Framework-v1.i7x
+description: Common definitions useful for Inform7 authors and extension developers.

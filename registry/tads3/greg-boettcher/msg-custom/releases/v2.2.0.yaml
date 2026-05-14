@@ -1,0 +1,10 @@
+schema-version: 2
+maintainer: Greg Boettcher
+date: '2019-05-18'
+source:
+  url: https://www.ifarchive.org/if-archive/programming/tads3/library/contributions/msg_custom.t
+  format: t
+build:
+  exports:
+  - type: source
+    path: msg_custom

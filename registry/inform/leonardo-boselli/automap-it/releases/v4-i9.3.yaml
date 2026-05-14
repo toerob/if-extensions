@@ -1,0 +1,15 @@
+schema-version: 2
+maintainer: Leonardo Boselli
+channel: stable
+compatibility:
+  inform:
+    constraint: '>=9.3 <10'
+source:
+  url: https://github.com/i7/extensions/blob/9.3/Leonardo%20Boselli/Automap%20IT.i7x
+  format: i7x
+build:
+  private:
+  - type: extension
+    path: Automap IT.i7x
+description: Translation in italian of Version 4/140513 of Automap by Mark Tilford.
+  An extension to automatically draw a map.

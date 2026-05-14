@@ -1,0 +1,5 @@
+schema-version: 1
+id: dynamic-word
+name: dynamicWord
+author: Diegesis & Mimesis
+description: DEPRECATED, use dynamicThing instead

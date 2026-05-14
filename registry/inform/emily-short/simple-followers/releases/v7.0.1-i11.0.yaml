@@ -1,0 +1,16 @@
+schema-version: 2
+maintainer: Emily Short
+channel: stable
+compatibility:
+  inform:
+    constraint: '>=11.0'
+source:
+  url: https://github.com/i7/extensions/tree/11.0/Emily%20Short/Simple%20Followers-v7_0_1.i7xd
+  format: i7xd
+build:
+  private:
+  - type: extension
+    path: Simple Followers-v7_0_1.i7xd
+description: Allows non-player characters to follow the player (or one another); adds
+  a FOLLOW command and a corresponding STOP FOLLOWING command so that the player can
+  issue these orders to non-player characters. Adds adaptive text features.

@@ -1,0 +1,5 @@
+schema-version: 1
+id: flexible-windows
+name: Flexible Windows
+author: Jon Ingold
+description: Gives control over the Glk windows system in Glulx.

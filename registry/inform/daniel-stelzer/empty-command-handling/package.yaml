@@ -1,0 +1,6 @@
+schema-version: 1
+id: empty-command-handling
+name: Empty Command Handling
+author: Daniel Stelzer
+description: Adds a new hook into the parser, to edit a blank command before analyzing
+  it.

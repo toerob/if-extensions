@@ -1,0 +1,6 @@
+schema-version: 1
+id: in-line-topical-hints
+name: In-Line Topical Hints
+author: Andrew Schultz
+description: Lets the author offer the player in-line hints, with options for presentation.
+  This extension requires Inform 6M62 or higher to run.

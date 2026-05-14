@@ -1,0 +1,6 @@
+schema-version: 2
+maintainer: Choices
+date: '2006-10-14'
+source:
+  url: https://www.ifarchive.org/if-archive/programming/tads3/library/contributions/xactor.zip
+  format: zip

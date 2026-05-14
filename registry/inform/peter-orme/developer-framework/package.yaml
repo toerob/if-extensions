@@ -1,0 +1,5 @@
+schema-version: 1
+id: developer-framework
+name: Developer Framework
+author: Peter Orme
+description: Common definitions useful for Inform7 authors and extension developers.

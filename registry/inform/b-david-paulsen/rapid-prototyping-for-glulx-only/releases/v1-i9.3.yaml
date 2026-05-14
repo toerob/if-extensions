@@ -1,0 +1,15 @@
+schema-version: 2
+maintainer: B David Paulsen
+channel: stable
+compatibility:
+  inform:
+    constraint: '>=9.3 <10'
+source:
+  url: https://github.com/i7/extensions/blob/9.3/B%20David%20Paulsen/Rapid%20Prototyping.i7x
+  format: i7x
+build:
+  private:
+  - type: extension
+    path: Rapid Prototyping.i7x
+description: A way to create and extend a game world on the fly during testing via
+  a REPL idiom.

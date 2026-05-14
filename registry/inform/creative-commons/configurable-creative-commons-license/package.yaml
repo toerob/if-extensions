@@ -1,0 +1,6 @@
+schema-version: 1
+id: configurable-creative-commons-license
+name: Configurable Creative Commons License
+author: Creative Commons
+description: Allows easy implementation of a Creative Commons Public License of the
+  author's choice.

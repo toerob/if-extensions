@@ -1,0 +1,6 @@
+schema-version: 1
+id: unsuccessful-pc-attempt
+name: Unsuccessful PC Attempt
+author: Ron Newcomb
+description: Will run the Unsuccessful Attempt By rules for all characters, including
+  the player.  Also silences the library messages printed by the built-in Check rules.

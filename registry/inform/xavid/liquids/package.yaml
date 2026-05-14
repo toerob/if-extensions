@@ -1,0 +1,6 @@
+schema-version: 1
+id: liquids
+name: Liquids
+author: Xavid
+description: Basic support for sources of liquids and things that can hold a liquid,
+  more minimalist than Liquid Handling by Al Golden.

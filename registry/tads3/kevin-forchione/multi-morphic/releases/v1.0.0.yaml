@@ -1,0 +1,10 @@
+schema-version: 2
+maintainer: Kevin Forchione
+date: '2003-05-15'
+source:
+  url: https://www.ifarchive.org/if-archive/programming/tads3/library/contributions/MultiMorphic.zip
+  format: zip
+build:
+  exports:
+  - type: source
+    path: MultiMorphic/multi_morphic

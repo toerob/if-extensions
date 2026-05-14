@@ -1,0 +1,18 @@
+schema-version: 2
+maintainer: Zed Lopez
+channel: stable
+compatibility:
+  inform:
+    constraint: '>=9.3 <10'
+source:
+  url: https://github.com/i7/extensions/blob/9.3/Zed%20Lopez/If%20True.i7x
+  format: i7x
+build:
+  private:
+  - type: extension
+    path: If True.i7x
+description: 'Allow if/unless and while to accept plain truth states instead of
+
+  a full conditional. If Strange Loopiness is included, extend that
+
+  to until loops. For 6M62.'

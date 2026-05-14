@@ -1,0 +1,16 @@
+schema-version: 2
+maintainer: Ron Newcomb
+channel: stable
+compatibility:
+  inform:
+    constraint: '>=10.1'
+source:
+  url: https://github.com/i7/extensions/blob/10.1/Ron%20Newcomb/After%20Not%20Doing%20Something-v2.i7x
+  format: i7x
+build:
+  private:
+  - type: extension
+    path: After Not Doing Something-v2.i7x
+description: Allows us to write rules that happen after an action fails, such as 'After
+  not examining or searching something'. 'After Not Doing Something' is short for
+  'After Failing To Do Something'

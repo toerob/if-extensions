@@ -1,0 +1,14 @@
+schema-version: 2
+maintainer: Gavin Lambert
+channel: stable
+compatibility:
+  inform:
+    constraint: '>=9.3 <10'
+source:
+  url: https://github.com/i7/extensions/blob/9.3/Gavin%20Lambert/Secret%20Doors.i7x
+  format: i7x
+build:
+  private:
+  - type: extension
+    path: Secret Doors.i7x
+description: Doors and switches that cannot be acted upon until they are discovered.

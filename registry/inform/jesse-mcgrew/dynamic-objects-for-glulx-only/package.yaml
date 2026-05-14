@@ -1,0 +1,5 @@
+schema-version: 1
+id: dynamic-objects-for-glulx-only
+name: Dynamic Objects (for Glulx only)
+author: Jesse McGrew
+description: Provides the ability to create new objects during game play.

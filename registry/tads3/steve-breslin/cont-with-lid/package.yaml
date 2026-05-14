@@ -1,0 +1,6 @@
+schema-version: 1
+id: cont-with-lid
+name: ContWithLid
+author: Steve Breslin
+description: A module that adds containers that can be closed by a specific object,
+  such as a separate lid. Version 1, by Steve Breslin.

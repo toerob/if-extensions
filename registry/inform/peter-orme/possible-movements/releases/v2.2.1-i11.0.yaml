@@ -1,0 +1,14 @@
+schema-version: 2
+maintainer: Peter Orme
+channel: stable
+compatibility:
+  inform:
+    constraint: '>=11.0'
+source:
+  url: https://github.com/i7/extensions/tree/11.0/Peter%20Orme/Possible%20Movements-v2_2_1.i7xd
+  format: i7xd
+build:
+  private:
+  - type: extension
+    path: Possible Movements-v2_2_1.i7xd
+description: You could try exiting from [the playerbox].

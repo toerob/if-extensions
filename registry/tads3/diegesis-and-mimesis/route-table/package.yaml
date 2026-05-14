@@ -1,0 +1,6 @@
+schema-version: 1
+id: route-table
+name: routeTable
+author: Diegesis & Mimesis
+description: A TADS3 that implements simple routing tables for pathfinding. Requires
+  the simpleGraph module.

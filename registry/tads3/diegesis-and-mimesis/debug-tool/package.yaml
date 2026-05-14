@@ -1,0 +1,8 @@
+schema-version: 1
+id: debug-tool
+name: debugTool
+author: Diegesis & Mimesis
+description: A TADS3 module providing runtime debugging tools, including stack traces
+  and a rudimentary interactive debugger
+tags:
+- debug

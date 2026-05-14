@@ -1,0 +1,15 @@
+schema-version: 2
+maintainer: Sarah Morayati
+channel: stable
+compatibility:
+  inform:
+    constraint: '>=9.3 <10'
+source:
+  url: https://github.com/i7/extensions/blob/9.3/Sarah%20Morayati/Basic%20Real%20Time.i7x
+  format: i7x
+build:
+  private:
+  - type: extension
+    path: Basic Real Time.i7x
+description: "Allows the author to incorporate Glulx real time events into an \nInform\
+  \ 7 project."

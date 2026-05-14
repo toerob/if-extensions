@@ -1,0 +1,6 @@
+schema-version: 1
+id: before-processing-a-command
+name: Before Processing a Command
+author: Daniel Stelzer
+description: " from the again buffer,\n\t\t\t! in which we have just realised that\
+  \ it must occur:\n\t\t\t! prevents an infinite loop on "

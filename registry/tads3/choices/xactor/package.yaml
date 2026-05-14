@@ -1,0 +1,5 @@
+schema-version: 1
+id: xactor
+name: xactor
+author: Choices
+description: A library to help write adult-themed games. Version 1.05, by Choices.

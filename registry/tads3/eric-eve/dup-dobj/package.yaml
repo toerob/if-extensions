@@ -1,0 +1,7 @@
+schema-version: 1
+id: dup-dobj
+name: DupDobj
+author: Eric Eve
+description: An extension to allow author control over the handling of duplicate direct
+  objects in the same command (e.g. EXAMINE LEAVES, TWIGS AND BRANCHES). Version 1.2,
+  by Eric Eve.

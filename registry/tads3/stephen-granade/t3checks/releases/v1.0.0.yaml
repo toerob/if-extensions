@@ -1,0 +1,6 @@
+schema-version: 2
+maintainer: Stephen Granade
+date: '2003-01-07'
+source:
+  url: https://www.ifarchive.org/if-archive/programming/tads3/library/contributions/T3checks.t
+  format: t

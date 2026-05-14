@@ -1,0 +1,6 @@
+schema-version: 1
+id: splitgame
+name: splitgame
+author: Chris Odhner
+description: A library to implement two-column, two-player games. Included are the
+  library module and a sample game. Version 0.9, by Chris Odhner.

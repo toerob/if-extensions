@@ -1,0 +1,6 @@
+schema-version: 1
+id: object-response-tests
+name: Object Response Tests
+author: Juhana Leinonen
+description: A development tool for testing all actions on any given object - or one
+  action on all objects - at once to see whether the game's responses are sensible.

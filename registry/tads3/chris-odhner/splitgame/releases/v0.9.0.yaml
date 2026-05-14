@@ -1,0 +1,6 @@
+schema-version: 2
+maintainer: Chris Odhner
+date: '2005-03-07'
+source:
+  url: https://www.ifarchive.org/if-archive/programming/tads3/library/contributions/splitgame.zip
+  format: zip

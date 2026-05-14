@@ -1,0 +1,16 @@
+schema-version: 2
+maintainer: Aaron Reed
+channel: stable
+compatibility:
+  inform:
+    constraint: '>=9.3 <10'
+source:
+  url: https://github.com/i7/extensions/blob/9.3/Aaron%20Reed/Keyword%20Interface.i7x
+  format: i7x
+build:
+  private:
+  - type: extension
+    path: Keyword Interface.i7x
+description: This extension emulates Blue Lacuna's emphasized keyword system for simplifying
+  common IF input. Nouns, directions, and topics can be typed without a verb to examine,
+  go, or discuss. Works with Glulx or z-code.

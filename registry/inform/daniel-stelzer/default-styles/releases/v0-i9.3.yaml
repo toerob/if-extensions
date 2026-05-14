@@ -1,0 +1,15 @@
+schema-version: 2
+maintainer: Daniel Stelzer
+channel: stable
+compatibility:
+  inform:
+    constraint: '>=9.3 <10'
+source:
+  url: https://github.com/i7/extensions/blob/9.3/Daniel%20Stelzer/Default%20Styles.i7x
+  format: i7x
+build:
+  private:
+  - type: extension
+    path: Default Styles.i7x
+description: Initializes and repurposes the unused Glulx text styles to provide more
+  flexibility in formatting.

@@ -1,0 +1,5 @@
+schema-version: 1
+id: plugs-and-sockets
+name: Plugs And Sockets
+author: Sean Turner
+description: System for handling plugs and sockets.

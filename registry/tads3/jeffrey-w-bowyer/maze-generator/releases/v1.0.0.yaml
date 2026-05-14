@@ -1,0 +1,10 @@
+schema-version: 2
+maintainer: Jeffrey W. Bowyer
+date: '2010-04-29'
+source:
+  url: https://www.ifarchive.org/if-archive/programming/tads3/library/contributions/MazeGenerator.zip
+  format: zip
+build:
+  exports:
+  - type: source
+    path: TADS 3 Component/MazeClass

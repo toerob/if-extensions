@@ -1,0 +1,7 @@
+schema-version: 2
+maintainer: Mikawa
+date: '2021-12-16'
+source:
+  url: https://github.com/mikawa/G-TADS.git
+  format: git
+  branch: master

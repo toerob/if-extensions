@@ -1,0 +1,6 @@
+schema-version: 1
+id: occluding-connector
+name: OccludingConnector
+author: Steve Breslin
+description: A module that enables a sense connector to disallow an object to be sensed
+  through it. Version 1, by Steve Breslin.

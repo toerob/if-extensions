@@ -1,0 +1,6 @@
+schema-version: 1
+id: hyperlinks-for-glulx-only
+name: Hyperlinks (for Glulx only)
+author: Gavin Lambert
+description: Provides a core processing loop for hyperlinks.  This is a basic interface
+  intended to be used by other extensions rather than directly in stories.

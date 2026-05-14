@@ -1,0 +1,15 @@
+schema-version: 2
+maintainer: Juhana Leinonen
+channel: stable
+compatibility:
+  inform:
+    constraint: '>=9.3 <10'
+source:
+  url: https://github.com/i7/extensions/blob/9.3/Juhana%20Leinonen/Vorple%20Notifications.i7x
+  format: i7x
+build:
+  private:
+  - type: extension
+    path: Vorple Notifications.i7x
+description: Notifications that display a short message on the screen and disappear
+  after a few seconds.

@@ -1,0 +1,6 @@
+schema-version: 1
+id: questions-for-glulx-only
+name: Questions (for Glulx only)
+author: Michael Callaghan
+description: An extension to allow us to suspend normal parser input to receive and
+  respond to answers to questions.

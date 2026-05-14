@@ -1,0 +1,8 @@
+schema-version: 1
+id: common-commands-sidebar-for-glulx-only
+name: Common Commands Sidebar (for Glulx only)
+author: Alice Grove
+description: Displays a list of common parser commands in a sidebar as a reference
+  for novice players. Includes actions to turn the sidebar off and on. Story author
+  can tailor the command list and the appearance of the sidebar, or just plug and
+  play. For version 6L or 6M of Inform 7.

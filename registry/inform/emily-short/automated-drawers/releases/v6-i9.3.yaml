@@ -1,0 +1,16 @@
+schema-version: 2
+maintainer: Emily Short
+channel: stable
+compatibility:
+  inform:
+    constraint: '>=9.3 <10'
+source:
+  url: https://github.com/i7/extensions/blob/9.3/Emily%20Short/Automated%20Drawers.i7x
+  format: i7x
+build:
+  private:
+  - type: extension
+    path: Automated Drawers.i7x
+description: Creates a drawer kind of container, which is designed to be part of an
+  item of furniture. Automatically parses names such as 'top drawer' or 'fourth drawer'
+  or 'left drawer'; adds some features for describing furniture with drawers.

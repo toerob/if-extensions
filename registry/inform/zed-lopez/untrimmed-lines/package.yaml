@@ -1,0 +1,11 @@
+schema-version: 1
+id: untrimmed-lines
+name: Untrimmed Lines
+author: Zed Lopez
+description: 'I7''s line number phrase returns lines with left and right whitespace
+
+  trimmed; other than using regexps, there isn''t a built-in means to
+
+  access the raw untrimmed line. This adds an ``untrimmed line number``
+
+  phrase.'

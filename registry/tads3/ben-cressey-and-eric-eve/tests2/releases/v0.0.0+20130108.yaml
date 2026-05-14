@@ -1,0 +1,6 @@
+schema-version: 2
+maintainer: Ben Cressey and Eric Eve, and updated by NR Turner
+date: '2013-01-08'
+source:
+  url: https://www.ifarchive.org/if-archive/programming/tads3/library/contributions/tests2.zip
+  format: zip

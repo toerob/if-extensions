@@ -1,0 +1,5 @@
+schema-version: 1
+id: object-descriptors
+name: Object Descriptors
+author: Peter Orme
+description: " to the descriptor list;\n\tif the item is female, add "

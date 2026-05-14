@@ -1,0 +1,5 @@
+schema-version: 1
+id: object-kinds
+name: Object Kinds
+author: Brady Garvin
+description: The ability to treat object kinds as values.

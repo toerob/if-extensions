@@ -1,0 +1,6 @@
+schema-version: 1
+id: basic-real-time-for-glulx-only
+name: Basic Real Time (for Glulx only)
+author: Sarah Morayati
+description: "Allows the author to incorporate Glulx real time events into an \nInform\
+  \ 7 project."

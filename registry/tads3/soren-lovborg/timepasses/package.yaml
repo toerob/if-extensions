@@ -1,0 +1,6 @@
+schema-version: 1
+id: timepasses
+name: timepasses
+author: Soren Lovborg
+description: A library to replace the default "Time passess..." message, by Soren
+  Lovborg.

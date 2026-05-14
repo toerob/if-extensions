@@ -1,0 +1,10 @@
+schema-version: 2
+maintainer: Kevin Forchione
+date: '2008-08-04'
+source:
+  url: https://www.ifarchive.org/if-archive/programming/tads3/library/contributions/Dstrucs.zip
+  format: zip
+build:
+  exports:
+  - type: lib
+    path: dstrucs/lib/dstruc

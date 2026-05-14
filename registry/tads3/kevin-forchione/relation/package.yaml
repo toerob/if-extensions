@@ -1,0 +1,7 @@
+schema-version: 1
+id: relation
+name: relation
+author: Kevin Forchione
+description: A library that adds relations to TADS 3. It allows you to define arbitrary
+  relations between objects and search through those relations. Version 3.0, by Kevin
+  Forchione.

@@ -1,0 +1,14 @@
+schema-version: 2
+maintainer: Tara McGrew
+channel: stable
+compatibility:
+  inform:
+    constraint: '>=10.1'
+source:
+  url: https://github.com/i7/extensions/blob/10.1/Tara%20McGrew/Dynamic%20Tables-v5.i7x
+  format: i7x
+build:
+  private:
+  - type: extension
+    path: Dynamic Tables-v5.i7x
+description: Provides a way to change the capacity of a table during the game.

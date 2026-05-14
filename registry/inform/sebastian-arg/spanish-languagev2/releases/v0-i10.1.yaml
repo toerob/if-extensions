@@ -1,0 +1,14 @@
+schema-version: 2
+maintainer: Sebastian Arg
+channel: stable
+compatibility:
+  inform:
+    constraint: '>=10.1'
+source:
+  url: https://github.com/i7/extensions/blob/10.1/Sebastian%20Arg/Spanish%20Languagev2.i7x
+  format: i7x
+build:
+  private:
+  - type: extension
+    path: Spanish Languagev2.i7x
+description: To make Spanish the language of play. Release 230724

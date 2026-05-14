@@ -1,0 +1,7 @@
+schema-version: 1
+id: conversation-framework
+name: Conversation Framework
+author: Eric Eve
+description: A framework for conversations that allows saying hello and goodbye, abbreviated
+  forms of ask and tell commands for conversing with the current interlocutor, and
+  asking and telling about things as well as topics.

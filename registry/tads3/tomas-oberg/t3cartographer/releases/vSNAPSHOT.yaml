@@ -1,0 +1,11 @@
+schema-version: 2
+maintainer: Tomas Öberg
+date: '2022-08-14'
+source:
+  url: https://github.com/toerob/t3cartographer.git
+  format: git
+  branch: master
+build:
+  exports:
+  - type: lib
+    path: t3cartographer/cartographer

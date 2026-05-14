@@ -1,0 +1,7 @@
+schema-version: 1
+id: consolidated-multiple-actions
+name: Consolidated Multiple Actions
+author: John Clemens
+description: An extension to consolidate action reports when performing an action
+  on multiple objects, such as with 'take all'. Requires Hypothetical Questions by
+  Jesse McGrew.

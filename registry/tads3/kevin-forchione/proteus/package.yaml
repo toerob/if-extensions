@@ -1,0 +1,7 @@
+schema-version: 1
+id: proteus
+name: proteus
+author: Kevin Forchione
+description: A collection of inter-related modules that provide information on TADS
+  3 metadata, as well as implementing some object-oriented design patterns. Version
+  1.1.5, by Kevin Forchione.

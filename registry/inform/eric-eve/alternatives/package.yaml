@@ -1,0 +1,8 @@
+schema-version: 1
+id: alternatives
+name: Alternatives
+author: Eric Eve
+description: Allows checking the presence of an object or value in a set of objects
+  or values with new either/or and neither/nor phrases. e.g., 'If the noun is either
+  the carrot or the potato:', or 'Instead of eating something when the noun is neither
+  the cake nor the pudding:'

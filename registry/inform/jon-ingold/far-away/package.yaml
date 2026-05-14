@@ -1,0 +1,5 @@
+schema-version: 1
+id: far-away
+name: Far Away
+author: Jon Ingold
+description: Creates an adjective for far-off items which cannot be touched.

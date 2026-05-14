@@ -1,0 +1,6 @@
+schema-version: 1
+id: benchmarking-for-glulx-only
+name: Benchmarking (for Glulx only)
+author: Dannii Willis
+description: A general purpose benchmarking test framework that produces statistically
+  significant results. Version 2 works with 6M62.

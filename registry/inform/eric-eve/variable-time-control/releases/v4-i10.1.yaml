@@ -1,0 +1,16 @@
+schema-version: 2
+maintainer: Eric Eve
+channel: stable
+compatibility:
+  inform:
+    constraint: '>=10.1'
+source:
+  url: https://github.com/i7/extensions/blob/10.1/Eric%20Eve/Variable%20Time%20Control-v4.i7x
+  format: i7x
+build:
+  private:
+  - type: extension
+    path: Variable Time Control-v4.i7x
+description: Allows individual actions to take a different number of seconds, or no
+  time at all. Also allows the standard time taken per turn to be defined as so many
+  seconds, which can be varied during the course of play

@@ -1,0 +1,6 @@
+schema-version: 2
+maintainer: Eric Eve
+date: '2023-03-17'
+source:
+  url: https://www.ifarchive.org/if-archive/programming/tads3/library/contributions/adv3Lite.zip
+  format: zip

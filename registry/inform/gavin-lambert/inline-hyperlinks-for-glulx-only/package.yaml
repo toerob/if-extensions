@@ -1,0 +1,6 @@
+schema-version: 1
+id: inline-hyperlinks-for-glulx-only
+name: Inline Hyperlinks (for Glulx only)
+author: Gavin Lambert
+description: Provides a simple HTML-inspired syntax for adding hyperlinks within any
+  say phrases.

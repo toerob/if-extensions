@@ -1,0 +1,6 @@
+schema-version: 1
+id: typographical-conveniences
+name: Typographical Conveniences
+author: Daniel Stelzer
+description: ".\n\nTo say -:\n\tif Unicode 8211 is supported:\n\t\tsay Unicode 8211;\
+  \ [en-dash]\n\totherwise:\n\t\tsay "

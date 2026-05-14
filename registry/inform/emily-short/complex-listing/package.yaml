@@ -1,0 +1,7 @@
+schema-version: 1
+id: complex-listing
+name: Complex Listing
+author: Emily Short
+description: 'Complex Listing provides more sophisticated listing options: the ability
+  to impose special ordering instructions on a list, and also the ability to change
+  the delimiters of the list to produce different styles and effects.'

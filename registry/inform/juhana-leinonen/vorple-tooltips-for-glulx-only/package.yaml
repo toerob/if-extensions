@@ -1,0 +1,6 @@
+schema-version: 1
+id: vorple-tooltips-for-glulx-only
+name: Vorple Tooltips (for Glulx only)
+author: Juhana Leinonen
+description: Tooltips that can be activated on request or when the mouse cursor is
+  moved over an element.

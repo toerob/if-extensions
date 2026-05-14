@@ -1,0 +1,5 @@
+schema-version: 1
+id: dynamic-tables
+name: Dynamic Tables
+author: Tara McGrew
+description: Provides a way to change the capacity of a table during the game.

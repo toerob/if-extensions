@@ -1,0 +1,14 @@
+schema-version: 2
+maintainer: Mike Ciul
+channel: stable
+compatibility:
+  inform:
+    constraint: '>=11.0'
+source:
+  url: https://github.com/i7/extensions/tree/11.0/Mike%20Ciul/Objects%20Matching%20Snippets-v1_0_1.i7xd
+  format: i7xd
+build:
+  private:
+  - type: extension
+    path: Objects Matching Snippets-v1_0_1.i7xd
+description: '[any matchable thing]'

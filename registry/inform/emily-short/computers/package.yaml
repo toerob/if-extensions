@@ -1,0 +1,7 @@
+schema-version: 1
+id: computers
+name: Computers
+author: Emily Short
+description: Computer hardware and software, including search engines and email programs.
+  Version 3 adds handling for batteries and cords, if we include Power Sources by
+  Emily Short (which itself depends on Plugs and Sockets by Sean Turner).

@@ -1,0 +1,16 @@
+schema-version: 2
+maintainer: Ron Newcomb
+channel: stable
+compatibility:
+  inform:
+    constraint: '>=10.1'
+source:
+  url: https://github.com/i7/extensions/blob/10.1/Ron%20Newcomb/Permission%20to%20Visit-v7.i7x
+  format: i7x
+build:
+  private:
+  - type: extension
+    path: Permission to Visit-v7.i7x
+description: In lieu of compass directions, we may VISIT, ATTEND, GO TO, and FIND
+  various people, events, places, and things.  Characters may INVITE, PERMIT, and
+  FORBID each other to or from their respective domains.

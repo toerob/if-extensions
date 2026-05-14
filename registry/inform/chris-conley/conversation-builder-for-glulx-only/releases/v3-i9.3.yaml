@@ -1,0 +1,14 @@
+schema-version: 2
+maintainer: Chris Conley
+channel: stable
+compatibility:
+  inform:
+    constraint: '>=9.3 <10'
+source:
+  url: https://github.com/i7/extensions/blob/9.3/Chris%20Conley/Conversation%20Builder.i7x
+  format: i7x
+build:
+  private:
+  - type: extension
+    path: Conversation Builder.i7x
+description: An interactive question-and-answer system for building conversations.

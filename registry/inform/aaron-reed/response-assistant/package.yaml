@@ -1,0 +1,5 @@
+schema-version: 1
+id: response-assistant
+name: Response Assistant
+author: Aaron Reed
+description: Adds some helpful testing commands for changing default responses.

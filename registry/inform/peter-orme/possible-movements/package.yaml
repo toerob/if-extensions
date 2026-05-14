@@ -1,0 +1,5 @@
+schema-version: 1
+id: possible-movements
+name: Possible Movements
+author: Peter Orme
+description: You could try exiting from [the playerbox].

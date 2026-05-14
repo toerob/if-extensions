@@ -1,0 +1,5 @@
+schema-version: 1
+id: bulk-limiter
+name: Bulk Limiter
+author: Eric Eve
+description: Containers and actors that limit their contents by bulk

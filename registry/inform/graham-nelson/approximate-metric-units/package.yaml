@@ -1,0 +1,6 @@
+schema-version: 1
+id: approximate-metric-units
+name: Approximate Metric Units
+author: Graham Nelson
+description: Scientific kinds of value for simulations. Use Metric Units instead for
+  better accuracy.

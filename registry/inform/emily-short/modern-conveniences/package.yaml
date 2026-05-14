@@ -1,0 +1,9 @@
+schema-version: 1
+id: modern-conveniences
+name: Modern Conveniences
+author: Emily Short
+description: Modern Conveniences creates kitchen and bathroom kinds of room, which
+  will automatically be furnished with a set of plausible appliances. (This was originally
+  an example in the manual of how to create extensions, and an annotated version may
+  still be found there.) Version 3 adds compatibility with Measured Liquid, modeling
+  flowing water from taps.

@@ -1,0 +1,5 @@
+schema-version: 1
+id: text-loops
+name: Text Loops
+author: Zed Lopez
+description: Loop through characters, words, lines, or paragraphs in a text.

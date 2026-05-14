@@ -1,0 +1,6 @@
+schema-version: 1
+id: rulebooks
+name: rulebooks
+author: Kevin Forchione
+description: A library extension that refactors the definitions of rules and rulebooks
+  making it easier to work with these datatypes. Version 1.1, by Kevin Forchione.

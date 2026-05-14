@@ -1,0 +1,14 @@
+schema-version: 2
+maintainer: Jon Ingold
+channel: stable
+compatibility:
+  inform:
+    constraint: '>=11.0'
+source:
+  url: https://github.com/i7/extensions/tree/11.0/Jon%20Ingold/Flexible%20Windows-v16.i7xd
+  format: i7xd
+build:
+  private:
+  - type: extension
+    path: Flexible Windows-v16.i7xd
+description: Gives control over the Glk windows system in Glulx.

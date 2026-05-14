@@ -1,0 +1,7 @@
+schema-version: 1
+id: automated-drawers
+name: Automated Drawers
+author: Emily Short
+description: Creates a drawer kind of container, which is designed to be part of an
+  item of furniture. Automatically parses names such as 'top drawer' or 'fourth drawer'
+  or 'left drawer'; adds some features for describing furniture with drawers.

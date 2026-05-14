@@ -1,0 +1,8 @@
+schema-version: 1
+id: simple-graphical-window-for-glulx-only
+name: Simple Graphical Window (for Glulx only)
+author: Leonardo Boselli
+description: Provides a graphics window in one part of the screen, in which the author
+  can place images; with provision for scaling, tiling, or centering images automatically,
+  as well as setting a background color. Glulx only. Modified because of changes in
+  6L38 release.

@@ -1,0 +1,6 @@
+schema-version: 1
+id: qtalk
+name: qtalk
+author: Greg Boettcher
+description: A library for Photopia style menu-based conversations, allowing for submenus,
+  and looping and repeating conversations. Version 2, by Greg Boettcher.

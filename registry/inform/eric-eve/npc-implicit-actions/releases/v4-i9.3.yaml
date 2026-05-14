@@ -1,0 +1,15 @@
+schema-version: 2
+maintainer: Eric Eve
+channel: stable
+compatibility:
+  inform:
+    constraint: '>=9.3 <10'
+source:
+  url: https://github.com/i7/extensions/blob/9.3/Eric%20Eve/NPC%20Implicit%20Actions.i7x
+  format: i7x
+build:
+  private:
+  - type: extension
+    path: NPC Implicit Actions.i7x
+description: A basic extension of the Implicit Actions extension into actions carried
+  out by NPCs. This extension automatically includes Implicit Actions.

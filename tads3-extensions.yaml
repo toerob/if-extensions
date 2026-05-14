@@ -13,22 +13,6 @@ extensions:
         url: https://www.ifarchive.org/if-archive/programming/tads3/library/contributions/ConSpace.zip
         ext: zip
         version: 2.1.0
-      - last-modified: "2009-07-08"
-        type:
-          - adv3
-        build-entries:
-          - -lib ConSpace2/ConSpace
-        url: https://www.ifarchive.org/if-archive/programming/tads3/library/contributions/ConSpace.zip
-        ext: zip
-        version: 2.1.1
-      - last-modified: "2018-06-08"
-        type:
-          - adv3
-        build-entries:
-          - -lib ConSpace2/ConSpace
-        url: https://www.ifarchive.org/if-archive/programming/tads3/library/contributions/ConSpace.zip
-        ext: zip
-        version: 2.2.1
   - name: ContWithLid
     author: Steve Breslin
     desc: A module that adds containers that can be closed by a specific object, such as a separate lid. Version 1, by Steve Breslin.

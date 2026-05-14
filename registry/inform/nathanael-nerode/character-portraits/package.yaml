@@ -1,0 +1,7 @@
+schema-version: 1
+id: character-portraits
+name: Character Portraits
+author: Nathanael Nerode
+description: Provides a complex system for customzing the printed descriptions of
+  characters wearing or carrying lots of stuff, similar to the room description system
+  in Standard Rules.  Requires Large Game Speedup by Nathanael Nerode.

@@ -1,0 +1,15 @@
+schema-version: 2
+maintainer: Xavid
+channel: stable
+compatibility:
+  inform:
+    constraint: '>=9.3 <10'
+source:
+  url: https://github.com/i7/extensions/blob/9.3/Xavid/Expanded%20Understanding.i7x
+  format: i7x
+build:
+  private:
+  - type: extension
+    path: Expanded Understanding.i7x
+description: Various tweaks to understand additional variations of commands and have
+  cleverer, more specific error messages in common failure cases.

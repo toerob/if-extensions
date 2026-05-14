@@ -1,0 +1,15 @@
+schema-version: 2
+maintainer: Nathanael Nerode
+channel: stable
+compatibility:
+  inform:
+    constraint: '>=11.0'
+source:
+  url: https://github.com/i7/extensions/tree/11.0/Nathanael%20Nerode/Large%20Game%20Speedup-v7_1_240115.i7xd
+  format: i7xd
+build:
+  private:
+  - type: extension
+    path: Large Game Speedup-v7_1_240115.i7xd
+description: Performance improvements for games with many objects, or with nested
+  loops over objects, by avoiding looping over all objects.

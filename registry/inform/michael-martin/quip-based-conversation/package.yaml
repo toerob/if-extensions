@@ -1,0 +1,6 @@
+schema-version: 1
+id: quip-based-conversation
+name: Quip-Based Conversation
+author: Michael Martin
+description: An extension to Reactable Quips to allow for more traditional menu-based
+  conversation.

@@ -1,0 +1,6 @@
+schema-version: 1
+id: exit-descriptions
+name: Exit Descriptions
+author: Matthew Fletcher
+description: Appends a list of exit directions and names any previously visited rooms
+  at the end of a room description.

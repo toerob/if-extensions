@@ -1,0 +1,6 @@
+schema-version: 1
+id: flexible-logger
+name: Flexible Logger
+author: Peter Orme
+description: A logging tool for I7 that lets you log to transcript and (with Glulx)
+  to file

@@ -1,0 +1,16 @@
+schema-version: 2
+maintainer: Nathanael Nerode
+channel: stable
+compatibility:
+  inform:
+    constraint: '>=10.1'
+source:
+  url: https://github.com/i7/extensions/blob/10.1/Nathanael%20Nerode/Character%20Portraits-v1.i7x
+  format: i7x
+build:
+  private:
+  - type: extension
+    path: Character Portraits-v1.i7x
+description: Provides a complex system for customzing the printed descriptions of
+  characters wearing or carrying lots of stuff, similar to the room description system
+  in Standard Rules.  Requires Large Game Speedup by Nathanael Nerode.

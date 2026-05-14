@@ -1,0 +1,17 @@
+schema-version: 2
+maintainer: Leonardo Boselli
+channel: stable
+compatibility:
+  inform:
+    constraint: '>=9.3 <10'
+source:
+  url: https://github.com/i7/extensions/blob/9.3/Leonardo%20Boselli/Simple%20Graphical%20Window.i7x
+  format: i7x
+build:
+  private:
+  - type: extension
+    path: Simple Graphical Window.i7x
+description: Provides a graphics window in one part of the screen, in which the author
+  can place images; with provision for scaling, tiling, or centering images automatically,
+  as well as setting a background color. Glulx only. Modified because of changes in
+  6L38 release.

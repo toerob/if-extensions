@@ -1,0 +1,15 @@
+schema-version: 2
+maintainer: Zed Lopez
+channel: stable
+compatibility:
+  inform:
+    constraint: '>=11.0'
+source:
+  url: https://github.com/i7/extensions/tree/11.0/Zed%20Lopez/Inquiry-v4_0_230722.i7xd
+  format: i7xd
+build:
+  private:
+  - type: extension
+    path: Inquiry-v4_0_230722.i7xd
+description: "A framework for defining Y/N, multiple choice, or free-form\n questions\
+  \ to be asked immediately on game startup or subsequently."

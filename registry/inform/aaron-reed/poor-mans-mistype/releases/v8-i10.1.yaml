@@ -1,0 +1,16 @@
+schema-version: 2
+maintainer: Aaron Reed
+channel: stable
+compatibility:
+  inform:
+    constraint: '>=10.1'
+source:
+  url: https://github.com/i7/extensions/blob/10.1/Aaron%20Reed/Poor%20Man%27s%20Mistype-v8.i7x
+  format: i7x
+build:
+  private:
+  - type: extension
+    path: Poor Man's Mistype-v8.i7x
+description: Adds basic typo correction by checking the first few letters of misunderstood
+  input against the printed names of nearby objects. Requires version 15 of Smarter
+  Parser by Aaron Reed. Supports Scope Caching by Mike Ciul for faster performance.

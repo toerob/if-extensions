@@ -1,0 +1,6 @@
+schema-version: 1
+id: glk-input-suspending-for-glulx-only
+name: Glk Input Suspending (for Glulx only)
+author: Gavin Lambert
+description: Provides a mechanism to 'suspend' line and character inputs in progress
+  to allow something to be printed, and then input resumed afterwards.

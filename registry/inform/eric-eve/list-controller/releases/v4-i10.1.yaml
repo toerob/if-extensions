@@ -1,0 +1,16 @@
+schema-version: 2
+maintainer: Eric Eve
+channel: stable
+compatibility:
+  inform:
+    constraint: '>=10.1'
+source:
+  url: https://github.com/i7/extensions/blob/10.1/Eric%20Eve/List%20Controller-v4.i7x
+  format: i7x
+build:
+  private:
+  - type: extension
+    path: List Controller-v4.i7x
+description: Provides a means of using tables as shuffled, cyclic or stoping lists.
+  This is an alternative to List Control that uses list controller objects instead
+  of a Table of Table Types.

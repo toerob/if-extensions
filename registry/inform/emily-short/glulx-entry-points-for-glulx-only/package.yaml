@@ -1,0 +1,8 @@
+schema-version: 1
+id: glulx-entry-points-for-glulx-only
+name: Glulx Entry Points (for Glulx only)
+author: Emily Short
+description: Provides hooks to allow the author to write specialized multimedia behavior
+  that would normally go through HandleGlkEvent. This is a rather dull utility library
+  that will be of most use to authors wanting to write Glulx extensions compatible
+  with other Glulx extensions already in use.

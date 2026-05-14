@@ -1,0 +1,7 @@
+schema-version: 1
+id: power-sources
+name: Power Sources
+author: Emily Short
+description: Power Sources provides an implementation of plugs and batteries, and
+  is designed to be used alongside Computers or as a base for other device implementations.
+  It requires Plugs and Sockets by Sean Turner.

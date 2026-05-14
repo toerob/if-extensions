@@ -1,0 +1,6 @@
+schema-version: 1
+id: locksmith
+name: Locksmith
+author: Emily Short
+description: Implicit handling of doors and containers so that lock manipulation is
+  automatic if the player has the necessary keys.

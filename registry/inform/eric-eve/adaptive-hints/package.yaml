@@ -1,0 +1,5 @@
+schema-version: 1
+id: adaptive-hints
+name: Adaptive Hints
+author: Eric Eve
+description: An adaptive hint system based on Menus by Emily Short.

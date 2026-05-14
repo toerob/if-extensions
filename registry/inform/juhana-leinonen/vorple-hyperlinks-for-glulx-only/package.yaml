@@ -1,0 +1,6 @@
+schema-version: 1
+id: vorple-hyperlinks-for-glulx-only
+name: Vorple Hyperlinks (for Glulx only)
+author: Juhana Leinonen
+description: Hyperlinks that either open a web site, execute a parser command or evaluate
+  JavaScript code.

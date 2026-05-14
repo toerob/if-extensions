@@ -1,0 +1,16 @@
+schema-version: 2
+maintainer: John Clemens
+channel: stable
+compatibility:
+  inform:
+    constraint: '>=9.3 <10'
+source:
+  url: https://github.com/i7/extensions/blob/9.3/John%20Clemens/Consolidated%20Multiple%20Actions.i7x
+  format: i7x
+build:
+  private:
+  - type: extension
+    path: Consolidated Multiple Actions.i7x
+description: An extension to consolidate action reports when performing an action
+  on multiple objects, such as with 'take all'. Requires Hypothetical Questions by
+  Jesse McGrew. Version 3 updated by Emily Short for 6L38 compatibility.

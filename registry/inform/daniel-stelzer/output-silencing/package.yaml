@@ -1,0 +1,4 @@
+schema-version: 1
+id: output-silencing
+name: Output Silencing
+author: Daniel Stelzer

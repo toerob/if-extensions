@@ -1,0 +1,5 @@
+schema-version: 1
+id: title-page
+name: Title Page
+author: Gavin Lambert
+description: Provides an intro screen to the story, offering an image and menu.

@@ -1,0 +1,6 @@
+schema-version: 1
+id: londoncabs
+name: londoncabs
+author: Kevin Forchione
+description: 'London Cabs, a module to simulate the cabbie system used by Infocom''s
+  Sherlock: The Riddle of the Crown Jewels. Version 1.0.2, by Kevin Forchione.'

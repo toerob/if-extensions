@@ -1,0 +1,8 @@
+schema-version: 1
+id: extended-debugging
+name: Extended Debugging
+author: Erik Temple
+description: Provides a way for the author to release a build of a game while retaining
+  both custom and built-in debugging commands. Also wraps Inform's debug tracing routines
+  in phrases that authors can use to trigger rule-tracing from the source text rather
+  than from the command prompt and provides other debugging features.

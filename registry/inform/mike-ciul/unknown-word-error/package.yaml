@@ -1,0 +1,6 @@
+schema-version: 1
+id: unknown-word-error
+name: Unknown Word Error
+author: Mike Ciul
+description: Provides Infocom-style parser messages such as 'I don't know the word
+  'kludge'.'

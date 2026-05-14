@@ -1,0 +1,6 @@
+schema-version: 1
+id: nobreak
+name: nobreak
+author: Brendan Barnwell
+description: An extension to allow switch statements to be written without having
+  to include explicit breaks between cases, by Brendan Barnwell.

@@ -1,0 +1,6 @@
+schema-version: 1
+id: expanded-understanding
+name: Expanded Understanding
+author: Xavid
+description: Various tweaks to understand additional variations of commands and have
+  cleverer, more specific error messages in common failure cases.

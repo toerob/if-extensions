@@ -1,0 +1,7 @@
+schema-version: 1
+id: introductions
+name: Introductions
+author: Emily Short
+description: Introductions provides an introductory paragraph about objects in a room
+  description the first time the player looks in that location. It also allows the
+  author to add segue text that will appear between one description and the next.

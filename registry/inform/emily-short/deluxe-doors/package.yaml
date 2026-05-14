@@ -1,0 +1,8 @@
+schema-version: 1
+id: deluxe-doors
+name: Deluxe Doors
+author: Emily Short
+description: Allows for doors that are implemented as having independent 'faces' --
+  to put a knocker on that can only be seen from on side, for instance, or to allow
+  the player to lock one side with a key but the other with a latch. Also introduces
+  a 'latched door' kind.

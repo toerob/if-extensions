@@ -1,0 +1,5 @@
+schema-version: 1
+id: dynamic-rooms
+name: Dynamic Rooms
+author: Aaron Reed
+description: Lets new rooms be created on the fly.

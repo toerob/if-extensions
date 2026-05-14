@@ -1,0 +1,7 @@
+schema-version: 1
+id: ordinary-room-description
+name: Ordinary Room Description
+author: Emily Short
+description: An extension to go with Room Description Control, which emulates as closely
+  as possible the behavior of Inform defaults, but allows the intervention of Room
+  Description Control.

@@ -1,0 +1,7 @@
+schema-version: 1
+id: postures
+name: Postures
+author: Emily Short
+description: Postures defines three postures -- seated, standing, and reclining --
+  and allows pieces of furniture to specify which postures are possible and preferred
+  when the player is on those furnishings.

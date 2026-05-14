@@ -1,0 +1,16 @@
+schema-version: 2
+maintainer: Ron Newcomb
+channel: stable
+compatibility:
+  inform:
+    constraint: '>=9.3 <10'
+source:
+  url: https://github.com/i7/extensions/blob/9.3/Ron%20Newcomb/Command%20Prompt%20on%20Cue.i7x
+  format: i7x
+build:
+  private:
+  - type: extension
+    path: Command Prompt on Cue.i7x
+description: Creates a situation without a command prompt where the player may simply
+  press space or enter to WAIT.  But if the player instead begins to type a command,
+  the command prompt will then appear.

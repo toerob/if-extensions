@@ -1,0 +1,5 @@
+schema-version: 1
+id: bit-ops
+name: Bit Ops
+author: Zed Lopez
+description: Routines to access bitwise operators.

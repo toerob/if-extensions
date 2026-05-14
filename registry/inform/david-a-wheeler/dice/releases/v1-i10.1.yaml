@@ -1,0 +1,15 @@
+schema-version: 2
+maintainer: David A Wheeler
+channel: stable
+compatibility:
+  inform:
+    constraint: '>=10.1'
+source:
+  url: https://github.com/i7/extensions/blob/10.1/David%20A%20Wheeler/Dice-v1.i7x
+  format: i7x
+build:
+  private:
+  - type: extension
+    path: Dice-v1.i7x
+description: Support conventional X d Y dice notation, e.g., 3 d 6 totals 3 six-sided
+  dice.

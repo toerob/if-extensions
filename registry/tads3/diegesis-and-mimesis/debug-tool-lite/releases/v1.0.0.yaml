@@ -1,0 +1,11 @@
+schema-version: 2
+maintainer: Diegesis & Mimesis
+date: '2023-02-28'
+source:
+  url: https://github.com/diegesisandmimesis/debugToolLite.git
+  format: git
+  branch: master
+build:
+  exports:
+  - type: lib
+    path: debugToolLite/debugToolLite

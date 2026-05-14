@@ -1,0 +1,14 @@
+schema-version: 2
+maintainer: Jeff Nyman
+channel: stable
+compatibility:
+  inform:
+    constraint: '>=9.3 <10'
+source:
+  url: https://github.com/i7/extensions/blob/9.3/Jeff%20Nyman/Contextual%20Descriptions.i7x
+  format: i7x
+build:
+  private:
+  - type: extension
+    path: Contextual Descriptions.i7x
+description: Provides a mechanism for contextually shifting descriptions.

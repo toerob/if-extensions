@@ -1,0 +1,6 @@
+schema-version: 1
+id: simple-html-window-for-glulx-only
+name: Simple HTML Window (for Glulx only)
+author: Leonardo Boselli
+description: Provides an HTML window in the left part of the screen, in which the
+  player may write anything. Glulx only.

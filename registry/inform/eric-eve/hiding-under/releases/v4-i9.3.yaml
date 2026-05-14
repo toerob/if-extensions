@@ -1,0 +1,17 @@
+schema-version: 2
+maintainer: Eric Eve
+channel: stable
+compatibility:
+  inform:
+    constraint: '>=9.3 <10'
+source:
+  url: https://github.com/i7/extensions/blob/9.3/Eric%20Eve/Hiding%20Under.i7x
+  format: i7x
+build:
+  private:
+  - type: extension
+    path: Hiding Under.i7x
+description: Allows things to be hidden under other things, using a many-to-one underconcealment
+  relation. Can be used either standalone (with basic functionality) or in conjunction
+  with Underside (to add fuller functionality to both extensions). Version 3 of Hiding
+  Under avoids using phrases deprecated in Version 6E59 of Inform.

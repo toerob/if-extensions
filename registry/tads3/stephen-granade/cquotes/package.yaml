@@ -1,0 +1,8 @@
+schema-version: 1
+id: cquotes
+name: cquotes
+author: Stephen Granade
+description: A module that converts single straight quotes (') to curly ones (').
+  Will either change just the ones which appear in standard English contractions such
+  as "won't," or will change every single quote it finds that is preceeded by a letter
+  or punctuation. Version 0.2, by Stephen Granade.

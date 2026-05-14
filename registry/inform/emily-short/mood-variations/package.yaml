@@ -1,0 +1,10 @@
+schema-version: 1
+id: mood-variations
+name: Mood Variations
+author: Emily Short
+description: Allows the author to define a mood value for characters and then use
+  text substitutions such as '[when bored]The king fidgets on his throne[or sleepy]The
+  king snores[at other times]The king grins[end when].' Moods will be interpreted
+  in 'writing a paragraph' and similar contexts as the mood of the person described
+  in the paragraph, but at other times according to the mood of the person to whom
+  the player is currently speaking.

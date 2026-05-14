@@ -1,0 +1,6 @@
+schema-version: 1
+id: mille-una-world
+name: MilleUna World
+author: Leonardo Boselli
+description: The part of the MilleUna Framework that manages additional features of
+  the world model.

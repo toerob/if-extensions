@@ -1,0 +1,17 @@
+schema-version: 2
+maintainer: Jon Ingold
+channel: stable
+compatibility:
+  inform:
+    constraint: '>=9.3 <10'
+source:
+  url: https://github.com/i7/extensions/blob/9.3/Jon%20Ingold/Title%20Page.i7x
+  format: i7x
+build:
+  private:
+  - type: extension
+    path: Title Page.i7x
+description: Provides an intro panel to the game, offering a menu, a restore and restart
+  prompt, a quotation and (under Glulx) a picture. Updated to version 3 for compatibility
+  with Inform 6L02 and later by Emily Short.  Updated to version 4 by Gavin Lambert
+  to fix an error with 'use skip intro'.

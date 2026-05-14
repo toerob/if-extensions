@@ -1,0 +1,16 @@
+schema-version: 2
+maintainer: Eric Eve
+channel: stable
+compatibility:
+  inform:
+    constraint: '>=10.1'
+source:
+  url: https://github.com/i7/extensions/blob/10.1/Eric%20Eve/Text%20Capture-v8.i7x
+  format: i7x
+build:
+  private:
+  - type: extension
+    path: Text Capture-v8.i7x
+description: Allows the capture of text that would otherwise be sent to the screen,
+  so that the text can be further manipulated, displayed at some other point, or simply
+  discarded. Version 6/120511 allows the use of unicode in Glulx.

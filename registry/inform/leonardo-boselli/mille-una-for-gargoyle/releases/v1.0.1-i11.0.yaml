@@ -1,0 +1,17 @@
+schema-version: 2
+maintainer: Leonardo Boselli
+channel: stable
+compatibility:
+  inform:
+    constraint: '>=11.0'
+source:
+  url: https://github.com/i7/extensions/tree/11.0/Leonardo%20Boselli/MilleUna%20For%20Gargoyle-v1_0_1.i7xd
+  format: i7xd
+build:
+  private:
+  - type: extension
+    path: MilleUna For Gargoyle-v1_0_1.i7xd
+description: ".\n\nTo say show (FIG - a figure name):\n\tshow FIG.\nTo show (FIG -\
+  \ a figure name):\n\tdisplay FIG.\n\nSection - Sounds\n\nInclude Multiple Sounds\
+  \ by Massimo Stella.\n\nTo say play-back (SND - a sound name):\n\tplay-back SND;\n\
+  \tsay "

@@ -1,0 +1,11 @@
+schema-version: 2
+maintainer: Diegesis & Mimesis
+date: '2023-03-16'
+source:
+  url: https://github.com/diegesisandmimesis/debugTool.git
+  format: git
+  branch: master
+build:
+  exports:
+  - type: lib
+    path: debugTool/debugTool

@@ -1,0 +1,8 @@
+schema-version: 1
+id: title-page
+name: Title Page
+author: Jon Ingold
+description: Provides an intro panel to the game, offering a menu, a restore and restart
+  prompt, a quotation and (under Glulx) a picture. Updated to version 3 for compatibility
+  with Inform 6L02 and later by Emily Short.  Updated to version 4 by Gavin Lambert
+  to fix an error with 'use skip intro'.

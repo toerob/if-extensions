@@ -1,0 +1,6 @@
+schema-version: 1
+id: dynamic-thing
+name: dynamicThing
+author: Diegesis & Mimesis
+description: A TADS3 module that extends Thing to make it easier to dynamically change
+  the vocabulary associated with an object based on player knowledge and game state

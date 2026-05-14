@@ -1,0 +1,15 @@
+schema-version: 2
+maintainer: Daniel Stelzer
+channel: stable
+compatibility:
+  inform:
+    constraint: '>=9.3 <10'
+source:
+  url: https://github.com/i7/extensions/blob/9.3/Daniel%20Stelzer/Conversation%20Touchability%20Fix.i7x
+  format: i7x
+build:
+  private:
+  - type: extension
+    path: Conversation Touchability Fix.i7x
+description: A simple change to the Standard Rules to allow conversation to work without
+  a touchable noun.

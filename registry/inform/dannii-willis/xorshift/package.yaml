@@ -1,0 +1,6 @@
+schema-version: 1
+id: xorshift
+name: Xorshift
+author: Dannii Willis
+description: Allows Inform 7's random number generator to be replaced with one that
+  is consistent across all interpreters

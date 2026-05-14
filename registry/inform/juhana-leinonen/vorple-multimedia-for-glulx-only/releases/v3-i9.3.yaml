@@ -1,0 +1,14 @@
+schema-version: 2
+maintainer: Juhana Leinonen
+channel: stable
+compatibility:
+  inform:
+    constraint: '>=9.3 <10'
+source:
+  url: https://github.com/i7/extensions/blob/9.3/Juhana%20Leinonen/Vorple%20Multimedia.i7x
+  format: i7x
+build:
+  private:
+  - type: extension
+    path: Vorple Multimedia.i7x
+description: Displaying images and playing sounds and music.

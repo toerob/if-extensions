@@ -1,0 +1,7 @@
+schema-version: 1
+id: diff
+name: diff
+author: Kevin Forchione
+description: A small library extension that allows you to perform an operation or
+  action silently and without consequences, just to observe the potential results
+  upon the state of the game.  Version 1.0, by Kevin Forchione.

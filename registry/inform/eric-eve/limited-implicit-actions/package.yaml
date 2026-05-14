@@ -1,0 +1,7 @@
+schema-version: 1
+id: limited-implicit-actions
+name: Limited Implicit Actions
+author: Eric Eve
+description: A cut-down version of Implicit Actions for use where code size may be
+  restricted and the full functionality of Implicit Actions is not needed. Compatible
+  with Locksmith by Emily Short.

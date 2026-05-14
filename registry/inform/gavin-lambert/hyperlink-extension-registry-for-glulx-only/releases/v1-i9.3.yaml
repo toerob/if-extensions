@@ -1,0 +1,15 @@
+schema-version: 2
+maintainer: Gavin Lambert
+channel: stable
+compatibility:
+  inform:
+    constraint: '>=9.3 <10'
+source:
+  url: https://github.com/i7/extensions/blob/9.3/Gavin%20Lambert/Hyperlink%20Extension%20Registry.i7x
+  format: i7x
+build:
+  private:
+  - type: extension
+    path: Hyperlink Extension Registry.i7x
+description: Provides a framework to allow multiple hyperlink-processing extensions
+  to co-exist without stepping on each others' toes.

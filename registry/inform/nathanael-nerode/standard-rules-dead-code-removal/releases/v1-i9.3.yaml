@@ -1,0 +1,15 @@
+schema-version: 2
+maintainer: Nathanael Nerode
+channel: stable
+compatibility:
+  inform:
+    constraint: '>=9.3 <10'
+source:
+  url: https://github.com/i7/extensions/blob/9.3/Nathanael%20Nerode/Standard%20Rules%20Dead%20Code%20Removal.i7x
+  format: i7x
+build:
+  private:
+  - type: extension
+    path: Standard Rules Dead Code Removal.i7x
+description: Reduce the size of games using Room Description Control by removing unused
+  Standard Rules material.

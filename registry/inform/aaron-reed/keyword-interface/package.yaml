@@ -1,0 +1,7 @@
+schema-version: 1
+id: keyword-interface
+name: Keyword Interface
+author: Aaron Reed
+description: This extension emulates Blue Lacuna's emphasized keyword system for simplifying
+  common IF input. Nouns, directions, and topics can be typed without a verb to examine,
+  go, or discuss. Works with Glulx or z-code.

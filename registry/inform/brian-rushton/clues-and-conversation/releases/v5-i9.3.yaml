@@ -1,0 +1,14 @@
+schema-version: 2
+maintainer: Brian Rushton
+channel: stable
+compatibility:
+  inform:
+    constraint: '>=9.3 <10'
+source:
+  url: https://github.com/i7/extensions/blob/9.3/Brian%20Rushton/Clues%20and%20Conversation.i7x
+  format: i7x
+build:
+  private:
+  - type: extension
+    path: Clues and Conversation.i7x
+description: A simple system for building conversations.

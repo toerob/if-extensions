@@ -1,0 +1,21 @@
+schema-version: 2
+maintainer: Leonardo Boselli
+channel: stable
+compatibility:
+  inform:
+    constraint: '>=9.3 <10'
+source:
+  url: https://github.com/i7/extensions/blob/9.3/Leonardo%20Boselli/MilleUna%20for%20Gargoyle%20with%20graphics.i7x
+  format: i7x
+build:
+  private:
+  - type: extension
+    path: MilleUna for Gargoyle with graphics.i7x
+description: '.
+
+
+  Graphics window position is g-left.
+
+  Graphics window pixel count is 120.
+
+  Graphics background color is '

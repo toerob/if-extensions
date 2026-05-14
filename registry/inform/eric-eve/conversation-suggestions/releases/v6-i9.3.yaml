@@ -1,0 +1,18 @@
+schema-version: 2
+maintainer: Eric Eve
+channel: stable
+compatibility:
+  inform:
+    constraint: '>=9.3 <10'
+source:
+  url: https://github.com/i7/extensions/blob/9.3/Eric%20Eve/Conversation%20Suggestions.i7x
+  format: i7x
+build:
+  private:
+  - type: extension
+    path: Conversation Suggestions.i7x
+description: Provides a means of suggesting topics of conversation to the player,
+  either in response to a TOPICS command or when NPCs are greeted. This extension
+  requires Conversation Framework. Version 3 makes use of Complex Listing by Emily
+  Short if it's included in the same game rather than indexed text to generate a list
+  of suggestions.

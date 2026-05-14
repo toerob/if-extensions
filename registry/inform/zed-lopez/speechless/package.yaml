@@ -1,0 +1,7 @@
+schema-version: 1
+id: speechless
+name: Speechless
+author: Zed Lopez
+description: 'Make the player unable to speak or interact with others by speech,
+
+  and block references to the player being able to speak.'

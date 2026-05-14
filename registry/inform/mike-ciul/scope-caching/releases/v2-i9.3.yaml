@@ -1,0 +1,16 @@
+schema-version: 2
+maintainer: Mike Ciul
+channel: stable
+compatibility:
+  inform:
+    constraint: '>=9.3 <10'
+source:
+  url: https://github.com/i7/extensions/blob/9.3/Mike%20Ciul/Scope%20Caching.i7x
+  format: i7x
+build:
+  private:
+  - type: extension
+    path: Scope Caching.i7x
+description: Gives things the 'marked visible' property, to check the visibility of
+  something without repeating the entire scope loop each time. Works with Epistemology
+  by Eric Eve, Conditional Backdrops by Mike Ciul, and Remembering by Aaron Reed.

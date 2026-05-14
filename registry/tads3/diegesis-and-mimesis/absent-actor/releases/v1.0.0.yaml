@@ -1,0 +1,11 @@
+schema-version: 2
+maintainer: Diegesis & Mimesis
+date: '2023-01-05'
+source:
+  url: https://github.com/diegesisandmimesis/absentActor.git
+  format: git
+  branch: main
+build:
+  exports:
+  - type: lib
+    path: absentActor/absentActor

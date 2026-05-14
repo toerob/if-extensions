@@ -1,0 +1,8 @@
+schema-version: 1
+id: glimmr-graphic-hyperlinks-for-glulx-only
+name: Glimmr Graphic Hyperlinks (for Glulx only)
+author: Erik Temple
+description: Allows us to identify any number of rectangular areas of a Glulx graphic
+  window as 'hotlinked'. When the player clicks within one of these zones, a command
+  will be entered on behalf of the player, or we can specify some appropriate response
+  of our own.

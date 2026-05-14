@@ -1,0 +1,6 @@
+schema-version: 2
+maintainer: Steve Breslin
+date: '2004-09-22'
+source:
+  url: https://www.ifarchive.org/if-archive/programming/tads3/library/contributions/t3knowledge.t
+  format: t

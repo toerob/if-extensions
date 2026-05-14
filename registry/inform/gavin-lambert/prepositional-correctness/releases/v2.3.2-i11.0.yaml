@@ -1,0 +1,15 @@
+schema-version: 2
+maintainer: Gavin Lambert
+channel: stable
+compatibility:
+  inform:
+    constraint: '>=11.0'
+source:
+  url: https://github.com/i7/extensions/tree/11.0/Gavin%20Lambert/Prepositional%20Correctness-v2_3_2.i7xd
+  format: i7xd
+build:
+  private:
+  - type: extension
+    path: Prepositional Correctness-v2_3_2.i7xd
+description: Provides a way to customise the prepositions used to refer to containment
+  or support, and perhaps other custom relationships added by other extensions.

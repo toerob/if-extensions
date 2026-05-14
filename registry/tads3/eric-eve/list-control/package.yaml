@@ -1,0 +1,6 @@
+schema-version: 1
+id: list-control
+name: listControl
+author: Eric Eve
+description: An extension to allow short pieces of variable text. Version 0.2, by
+  Eric Eve.

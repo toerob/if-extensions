@@ -1,0 +1,15 @@
+schema-version: 2
+maintainer: Creative Commons
+channel: stable
+compatibility:
+  inform:
+    constraint: '>=11.0'
+source:
+  url: https://github.com/i7/extensions/tree/11.0/Creative%20Commons/Configurable%20Creative%20Commons%20License-v1_2_1.i7xd
+  format: i7xd
+build:
+  private:
+  - type: extension
+    path: Configurable Creative Commons License-v1_2_1.i7xd
+description: Allows easy implementation of a Creative Commons Public License of the
+  author's choice.

@@ -1,0 +1,10 @@
+schema-version: 2
+maintainer: Eric Eve
+date: '2007-07-08'
+source:
+  url: https://www.ifarchive.org/if-archive/programming/tads3/library/contributions/SayQuery.zip
+  format: zip
+build:
+  exports:
+  - type: lib
+    path: SayQuery/SayQuery

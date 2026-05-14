@@ -1,0 +1,7 @@
+schema-version: 1
+id: con-space
+name: ConSpace
+author: Eric Eve and Steve Breslin
+description: An extension to enhance modelling of spatial relations and to allow several
+  rooms to act as one large subdivided location. Version 2.1, by Eric Eve and Steve
+  Breslin.

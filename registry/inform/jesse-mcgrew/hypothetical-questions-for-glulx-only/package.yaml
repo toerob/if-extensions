@@ -1,0 +1,6 @@
+schema-version: 1
+id: hypothetical-questions-for-glulx-only
+name: Hypothetical Questions (for Glulx only)
+author: Jesse McGrew
+description: Allows us to test the consequences of a phrase or action without permanently
+  changing the game state.

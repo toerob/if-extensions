@@ -1,0 +1,7 @@
+schema-version: 1
+id: creative-commons-public-license-it
+name: Creative Commons Public License IT
+author: Leonardo Boselli
+description: Un'estensione in italiano per facilitare il rilascio di 'interactive
+  fiction' secondo la Creative Commons License v25. Basata sull'estensione GNU General
+  Public License v3 di Otis T. Dog.

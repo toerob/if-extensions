@@ -1,0 +1,15 @@
+schema-version: 2
+maintainer: Aaron Reed
+channel: stable
+compatibility:
+  inform:
+    constraint: '>=9.3 <10'
+source:
+  url: https://github.com/i7/extensions/blob/9.3/Aaron%20Reed/Numbered%20Disambiguation%20Choices.i7x
+  format: i7x
+build:
+  private:
+  - type: extension
+    path: Numbered Disambiguation Choices.i7x
+description: Numbers the options in disambiguation questions, to help new players
+  and solve the 'disambiguation loop' problem caused by indistinguishable objects.

@@ -1,0 +1,17 @@
+schema-version: 2
+maintainer: Alice Grove
+channel: stable
+compatibility:
+  inform:
+    constraint: '>=11.0'
+source:
+  url: https://github.com/i7/extensions/tree/11.0/Alice%20Grove/Simple%20Spelling-v2_2_1.i7xd
+  format: i7xd
+build:
+  private:
+  - type: extension
+    path: Simple Spelling-v2_2_1.i7xd
+description: 'Simple Spelling aims to make stories more screen-reader-friendly by
+  allowing players to request the spelling of any visible thing. This extension adds
+  two actions: ''listing visible items for spelling'' and ''spelling the numbered
+  word.'''

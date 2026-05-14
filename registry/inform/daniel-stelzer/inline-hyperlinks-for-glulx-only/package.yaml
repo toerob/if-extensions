@@ -1,0 +1,7 @@
+schema-version: 1
+id: inline-hyperlinks-for-glulx-only
+name: Inline Hyperlinks (for Glulx only)
+author: Daniel Stelzer
+description: Provides a simple, HTML-inspired syntax for adding hyperlinks within
+  say phrases. No manual management of hyperlinks required. Requires Text Capture
+  by Eric Eve. Works seamlessly with, but does not require, Flexible Windows.

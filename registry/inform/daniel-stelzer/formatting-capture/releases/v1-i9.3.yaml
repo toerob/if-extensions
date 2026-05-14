@@ -1,0 +1,15 @@
+schema-version: 2
+maintainer: Daniel Stelzer
+channel: stable
+compatibility:
+  inform:
+    constraint: '>=9.3 <10'
+source:
+  url: https://github.com/i7/extensions/blob/9.3/Daniel%20Stelzer/Formatting%20Capture.i7x
+  format: i7x
+build:
+  private:
+  - type: extension
+    path: Formatting Capture.i7x
+description: ";\n\totherwise say internal bold type.\nTo say italic type -- running\
+  \ on\n\t(documented at phs_italic):\n\tif text capturing is active, say "

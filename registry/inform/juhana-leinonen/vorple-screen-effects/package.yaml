@@ -1,0 +1,6 @@
+schema-version: 1
+id: vorple-screen-effects
+name: Vorple Screen Effects
+author: Juhana Leinonen
+description: Vorple equivalent of Basic Screen Effects by Emily Short. Waiting for
+  a keypress, clearing the screen, aligning, styling and coloring text.

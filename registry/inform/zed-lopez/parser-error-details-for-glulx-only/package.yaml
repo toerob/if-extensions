@@ -1,0 +1,6 @@
+schema-version: 1
+id: parser-error-details-for-glulx-only
+name: Parser Error Details (for Glulx only)
+author: Zed Lopez
+description: "Says where the parser ceased understanding a command, and describes\n\
+  \ ways the dictionary does know how to use that verb. Tested on 6M62."

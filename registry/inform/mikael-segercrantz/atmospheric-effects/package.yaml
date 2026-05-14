@@ -1,0 +1,6 @@
+schema-version: 1
+id: atmospheric-effects
+name: Atmospheric Effects
+author: Mikael Segercrantz
+description: A table-based way to add atmospheric effects to rooms, regions, things
+  and scenes.

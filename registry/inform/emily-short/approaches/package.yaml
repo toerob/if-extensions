@@ -1,0 +1,8 @@
+schema-version: 1
+id: approaches
+name: Approaches
+author: Emily Short
+description: Approaches provides a GO TO place action which allows the player to move
+  through visited rooms to a new location. It also allows other characters to traverse
+  the map to named locations. It is designed to work with Locksmith by Emily Short,
+  but as of Version 8, that is an optional inclusion.

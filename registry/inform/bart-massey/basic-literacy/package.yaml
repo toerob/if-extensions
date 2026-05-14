@@ -1,0 +1,5 @@
+schema-version: 1
+id: basic-literacy
+name: Basic Literacy
+author: Bart Massey
+description: Provides objects and actions for (proper) reading, writing and erasing.

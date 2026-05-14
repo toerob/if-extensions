@@ -1,0 +1,5 @@
+schema-version: 1
+id: pseudodevices
+name: Pseudodevices
+author: Zed Lopez
+description: Facilitate giving switched on/off to kinds other than devices.

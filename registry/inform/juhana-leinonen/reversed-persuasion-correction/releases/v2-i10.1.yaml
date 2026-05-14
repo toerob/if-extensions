@@ -1,0 +1,15 @@
+schema-version: 2
+maintainer: Juhana Leinonen
+channel: stable
+compatibility:
+  inform:
+    constraint: '>=10.1'
+source:
+  url: https://github.com/i7/extensions/blob/10.1/Juhana%20Leinonen/Reversed%20Persuasion%20Correction-v2.i7x
+  format: i7x
+build:
+  private:
+  - type: extension
+    path: Reversed Persuasion Correction-v2.i7x
+description: Automatically corrects commands given to NPCs where the order is reversed,
+  for example HELLO, ALICE instead of ALICE, HELLO.

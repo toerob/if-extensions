@@ -1,0 +1,5 @@
+schema-version: 1
+id: automap
+name: Automap
+author: Mark Tilford
+description: An extension to automatically draw a map.

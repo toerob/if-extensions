@@ -1,0 +1,5 @@
+schema-version: 1
+id: textile
+name: Textile
+author: Zed Lopez
+description: Text utility functions.

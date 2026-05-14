@@ -1,0 +1,8 @@
+schema-version: 1
+id: disambiguation-control
+name: Disambiguation Control
+author: Jon Ingold
+description: Allows finer control over the disambiguation process used by Inform to
+  decide what the player was referring to. Less guesswork, more questions asking for
+  more input. Also removes the multiple-object-rejection in favour of asking for more
+  information.

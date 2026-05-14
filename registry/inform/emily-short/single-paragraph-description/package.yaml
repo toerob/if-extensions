@@ -1,0 +1,7 @@
+schema-version: 1
+id: single-paragraph-description
+name: Single Paragraph Description
+author: Emily Short
+description: A room description extension based on Room Description Control (which
+  is required). All contents of a room are summarized in a single paragraph, starting
+  with the regular room description.

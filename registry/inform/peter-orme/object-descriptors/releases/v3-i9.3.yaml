@@ -1,0 +1,14 @@
+schema-version: 2
+maintainer: Peter Orme
+channel: stable
+compatibility:
+  inform:
+    constraint: '>=9.3 <10'
+source:
+  url: https://github.com/i7/extensions/blob/9.3/Peter%20Orme/Object%20Descriptors.i7x
+  format: i7x
+build:
+  private:
+  - type: extension
+    path: Object Descriptors.i7x
+description: " to the descriptor list;\n\tif the item is female, add "

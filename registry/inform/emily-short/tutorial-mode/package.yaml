@@ -1,0 +1,6 @@
+schema-version: 1
+id: tutorial-mode
+name: Tutorial Mode
+author: Emily Short
+description: Adds a tutorial mode, which is on by default, to any game, to introduce
+  key actions for the novice player. Can be revised or expanded by the author.

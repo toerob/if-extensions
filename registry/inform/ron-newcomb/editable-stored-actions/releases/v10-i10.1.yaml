@@ -1,0 +1,17 @@
+schema-version: 2
+maintainer: Ron Newcomb
+channel: stable
+compatibility:
+  inform:
+    constraint: '>=10.1'
+source:
+  url: https://github.com/i7/extensions/blob/10.1/Ron%20Newcomb/Editable%20Stored%20Actions-v10.i7x
+  format: i7x
+build:
+  private:
+  - type: extension
+    path: Editable Stored Actions-v10.i7x
+description: 'This extension extends section 12.20 of Writing With Inform.  The individual
+  parts of a stored action -- actor, noun, second noun, action name -- can be changed
+  directly.  Also exposes new parts: request, text, participle, preposition, number,
+  and each kind of value.'

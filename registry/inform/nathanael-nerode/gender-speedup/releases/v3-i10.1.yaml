@@ -1,0 +1,19 @@
+schema-version: 2
+maintainer: Nathanael Nerode
+channel: stable
+compatibility:
+  inform:
+    constraint: '>=10.1'
+source:
+  url: https://github.com/i7/extensions/blob/10.1/Nathanael%20Nerode/Gender%20Speedup-v3.i7x
+  format: i7x
+build:
+  private:
+  - type: extension
+    path: Gender Speedup-v3.i7x
+description: When using Gender Options, clean up some I6 internals with functions
+  related to gender which are irrelevant to English or rendered obsolete with Gender
+  Options.  Since these are called in the depths of ListWriter this should slightly
+  improve speed.  Not included in Gender Options due to likely interference with other
+  extensions.  Requires Gender Options.  Will not work with languages with gendered
+  plurals.  Tested with Inform 10.1.

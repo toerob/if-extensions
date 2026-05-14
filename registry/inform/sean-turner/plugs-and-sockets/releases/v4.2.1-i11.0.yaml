@@ -1,0 +1,14 @@
+schema-version: 2
+maintainer: Sean Turner
+channel: stable
+compatibility:
+  inform:
+    constraint: '>=11.0'
+source:
+  url: https://github.com/i7/extensions/tree/11.0/Sean%20Turner/Plugs%20And%20Sockets-v4_2_1.i7xd
+  format: i7xd
+build:
+  private:
+  - type: extension
+    path: Plugs And Sockets-v4_2_1.i7xd
+description: System for handling plugs and sockets.

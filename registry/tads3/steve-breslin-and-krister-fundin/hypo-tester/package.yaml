@@ -1,0 +1,7 @@
+schema-version: 1
+id: hypo-tester
+name: hypoTester
+author: Steve Breslin and Krister Fundin
+description: An extension that allows the game to forsee whether an action will pass
+  the canonical verify and check routines. Version 4, by Steve Breslin and Krister
+  Fundin.

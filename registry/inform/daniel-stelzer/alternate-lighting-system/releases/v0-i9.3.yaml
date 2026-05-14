@@ -1,0 +1,13 @@
+schema-version: 2
+maintainer: Daniel Stelzer
+channel: stable
+compatibility:
+  inform:
+    constraint: '>=9.3 <10'
+source:
+  url: https://github.com/i7/extensions/blob/9.3/Daniel%20Stelzer/Alternate%20Lighting%20System.i7x
+  format: i7x
+build:
+  private:
+  - type: extension
+    path: Alternate Lighting System.i7x

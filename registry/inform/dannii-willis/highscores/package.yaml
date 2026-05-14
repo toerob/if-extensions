@@ -1,0 +1,5 @@
+schema-version: 1
+id: highscores
+name: Highscores
+author: Dannii Willis
+description: Record and review highscores to an external file

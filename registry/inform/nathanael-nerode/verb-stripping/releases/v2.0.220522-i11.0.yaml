@@ -1,0 +1,15 @@
+schema-version: 2
+maintainer: Nathanael Nerode
+channel: stable
+compatibility:
+  inform:
+    constraint: '>=11.0'
+source:
+  url: https://github.com/i7/extensions/tree/11.0/Nathanael%20Nerode/Verb%20Stripping-v2_0_220522.i7xd
+  format: i7xd
+build:
+  private:
+  - type: extension
+    path: Verb Stripping-v2_0_220522.i7xd
+description: Removes a number of verbs from the standard rules; verbs which might
+  cause confusion in a game whose theme is not adventure.

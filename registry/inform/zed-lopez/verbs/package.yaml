@@ -1,0 +1,7 @@
+schema-version: 1
+id: verbs
+name: Verbs
+author: Zed Lopez
+description: 'Provides a phrase that, given a text, returns a corresponding verb
+
+  if it exists. For 6M62.'

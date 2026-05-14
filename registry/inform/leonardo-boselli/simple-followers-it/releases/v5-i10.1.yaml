@@ -1,0 +1,16 @@
+schema-version: 2
+maintainer: Leonardo Boselli
+channel: stable
+compatibility:
+  inform:
+    constraint: '>=10.1'
+source:
+  url: https://github.com/i7/extensions/blob/10.1/Leonardo%20Boselli/Simple%20Followers%20IT-v5.i7x
+  format: i7x
+build:
+  private:
+  - type: extension
+    path: Simple Followers IT-v5.i7x
+description: Allows non-player characters to follow the player (or one another); adds
+  a FOLLOW command and a corresponding STOP FOLLOWING command so that the player can
+  issue these orders to non-player characters. Semplicemente tradotto in italiano.

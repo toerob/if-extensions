@@ -1,0 +1,18 @@
+schema-version: 2
+maintainer: Wade Clarke
+channel: stable
+compatibility:
+  inform:
+    constraint: '>=10.1'
+source:
+  url: https://github.com/i7/extensions/blob/10.1/Wade%20Clarke/Basic%20Help%20Menu-v4.i7x
+  format: i7x
+build:
+  private:
+  - type: extension
+    path: Basic Help Menu-v4.i7x
+description: Adds a HELP command to your Glulx or Z-Code project for Inform 6M62 or
+  later which brings up a menu giving some standard instructions about IF. This is
+  a tech and content update of Emily Short's Basic Help Menu extension made for compatibility
+  with Wade Clarke's Menus. Requires Menus by Wade Clarke (version 5 or greater) to
+  run.

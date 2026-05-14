@@ -1,0 +1,8 @@
+schema-version: 1
+id: editable-stored-actions
+name: Editable Stored Actions
+author: Ron Newcomb
+description: 'This extension extends section 12.20 of Writing With Inform.  The individual
+  parts of a stored action -- actor, noun, second noun, action name -- can be changed
+  directly.  Also exposes new parts: request, text, participle, preposition, number,
+  and each kind of value.'

@@ -1,0 +1,17 @@
+schema-version: 2
+maintainer: Nathanael Nerode
+channel: stable
+compatibility:
+  inform:
+    constraint: '>=10.1'
+source:
+  url: https://github.com/i7/extensions/blob/10.1/Nathanael%20Nerode/Initial%20Cursor%20at%20Top%20or%20Bottom-v2.i7x
+  format: i7x
+build:
+  private:
+  - type: extension
+    path: Initial Cursor at Top or Bottom-v2.i7x
+description: This small extension eliminates the three newlines printed before the
+  banner.  It also provides a tool to attempt to place the cursor at the bottom of
+  the screen, like old Infocom games.  Due to wild variance between interpreters,
+  it is not reliable.

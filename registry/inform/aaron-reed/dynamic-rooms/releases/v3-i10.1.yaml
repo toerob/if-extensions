@@ -1,0 +1,14 @@
+schema-version: 2
+maintainer: Aaron Reed
+channel: stable
+compatibility:
+  inform:
+    constraint: '>=10.1'
+source:
+  url: https://github.com/i7/extensions/blob/10.1/Aaron%20Reed/Dynamic%20Rooms-v3.i7x
+  format: i7x
+build:
+  private:
+  - type: extension
+    path: Dynamic Rooms-v3.i7x
+description: Lets new rooms be created on the fly.

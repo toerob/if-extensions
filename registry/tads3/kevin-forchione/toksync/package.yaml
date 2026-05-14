@@ -1,0 +1,6 @@
+schema-version: 1
+id: toksync
+name: toksync
+author: Kevin Forchione
+description: A library that allows a new token to be added to the command tokenizer.
+  Version 1.1, by Kevin Forchione.

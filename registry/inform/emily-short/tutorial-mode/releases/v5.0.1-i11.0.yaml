@@ -1,0 +1,15 @@
+schema-version: 2
+maintainer: Emily Short
+channel: stable
+compatibility:
+  inform:
+    constraint: '>=11.0'
+source:
+  url: https://github.com/i7/extensions/tree/11.0/Emily%20Short/Tutorial%20Mode-v5_0_1.i7xd
+  format: i7xd
+build:
+  private:
+  - type: extension
+    path: Tutorial Mode-v5_0_1.i7xd
+description: Adds a tutorial mode, which is on by default, to any game, to introduce
+  key actions for the novice player. Can be revised or expanded by the author.

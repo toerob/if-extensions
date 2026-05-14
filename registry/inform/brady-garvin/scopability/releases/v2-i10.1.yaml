@@ -1,0 +1,15 @@
+schema-version: 2
+maintainer: Brady Garvin
+channel: stable
+compatibility:
+  inform:
+    constraint: '>=10.1'
+source:
+  url: https://github.com/i7/extensions/blob/10.1/Brady%20Garvin/Scopability-v2.i7x
+  format: i7x
+build:
+  private:
+  - type: extension
+    path: Scopability-v2.i7x
+description: The ability to toggle objects' scopability; the parser does not acknowledge
+  the existence of unscopable objects, even if they are explicitly added to scope.

@@ -1,0 +1,7 @@
+schema-version: 1
+id: tests2
+name: tests2
+author: Ben Cressey and Eric Eve, and updated by NR Turner
+description: An implementation of easy-to-use Inform-7-style "test me" script playback,
+  where test scripts defined in the source can be invoked during play-testing. Originally
+  written by Ben Cressey and Eric Eve, and updated by NR Turner.

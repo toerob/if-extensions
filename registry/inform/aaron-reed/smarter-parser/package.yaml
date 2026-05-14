@@ -1,0 +1,6 @@
+schema-version: 1
+id: smarter-parser
+name: Smarter Parser
+author: Aaron Reed
+description: Understands a broader range of input than the standard parser, and can
+  direct new players towards proper syntax.

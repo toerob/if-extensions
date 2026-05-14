@@ -1,0 +1,6 @@
+schema-version: 1
+id: extended-banner
+name: Extended Banner
+author: Nathanael Nerode
+description: More control over what is printed in a banner, including an easily-included
+  copyright line.

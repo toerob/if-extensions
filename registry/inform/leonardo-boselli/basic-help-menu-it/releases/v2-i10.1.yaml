@@ -1,0 +1,15 @@
+schema-version: 2
+maintainer: Leonardo Boselli
+channel: stable
+compatibility:
+  inform:
+    constraint: '>=10.1'
+source:
+  url: https://github.com/i7/extensions/blob/10.1/Leonardo%20Boselli/Basic%20Help%20Menu%20IT-v2.i7x
+  format: i7x
+build:
+  private:
+  - type: extension
+    path: Basic Help Menu IT-v2.i7x
+description: Fornisce un comando AIUTO che mostra un menù con istruzioni standard.
+  Semplicemente tradotto in italiano.

@@ -1,0 +1,5 @@
+schema-version: 1
+id: planner
+name: Planner
+author: Nate Cull
+description: A universal goal planner for self-directed NPCs.

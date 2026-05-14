@@ -1,0 +1,6 @@
+schema-version: 1
+id: excess-word-stripping
+name: Excess Word Stripping
+author: Brent Worthington
+description: Allows commands that are only partly understood to be reparsed after
+  trimming off the bits not understood.

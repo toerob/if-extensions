@@ -1,0 +1,6 @@
+schema-version: 1
+id: combine
+name: combine
+author: Krister Fundin
+description: An extension that combines consecutive action reports. Version 4, by
+  Krister Fundin.

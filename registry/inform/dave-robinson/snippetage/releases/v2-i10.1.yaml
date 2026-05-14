@@ -1,0 +1,15 @@
+schema-version: 2
+maintainer: Dave Robinson
+channel: stable
+compatibility:
+  inform:
+    constraint: '>=10.1'
+source:
+  url: https://github.com/i7/extensions/blob/10.1/Dave%20Robinson/Snippetage-v2.i7x
+  format: i7x
+build:
+  private:
+  - type: extension
+    path: Snippetage-v2.i7x
+description: Some functions for setting and use of snippets (parts of the player's
+  command).

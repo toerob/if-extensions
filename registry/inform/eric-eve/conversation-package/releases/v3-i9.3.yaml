@@ -1,0 +1,19 @@
+schema-version: 2
+maintainer: Eric Eve
+channel: stable
+compatibility:
+  inform:
+    constraint: '>=9.3 <10'
+source:
+  url: https://github.com/i7/extensions/blob/9.3/Eric%20Eve/Conversation%20Package.i7x
+  format: i7x
+build:
+  private:
+  - type: extension
+    path: Conversation Package.i7x
+description: This extension includes both Conversation Nodes and Conversation Suggestions,
+  and makes the suggestions aware of conversation nodes. It therefore includes the
+  complete conversational system in one package. It also requires Conversation Responses,
+  Conversational Defaults, Conversation Framework and Epistemology. The documentation
+  for this extension give some guidance on how these other extensions can be mixed
+  and matched.

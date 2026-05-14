@@ -1,0 +1,5 @@
+schema-version: 1
+id: serial-and-fix
+name: Serial And Fix
+author: Andrew Plotkin
+description: Allows commands of the form GET X, Y, AND Z to be parsed.

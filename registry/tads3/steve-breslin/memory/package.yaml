@@ -1,0 +1,7 @@
+schema-version: 1
+id: memory
+name: memory
+author: Steve Breslin
+description: A module that records Actor memory of object locations, and provides
+  an >OBJECTS verb that players can use to refresh their memory as to the PC's memory
+  of object locations. Version 1, by Steve Breslin.

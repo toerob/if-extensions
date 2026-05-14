@@ -1,0 +1,6 @@
+schema-version: 1
+id: multi-morphic
+name: MultiMorphic
+author: Kevin Forchione
+description: An implementation of a class which allows an author to simulate changing
+  an object's superclass dynamically at runtime. Version 1.0, by Kevin Forchione.

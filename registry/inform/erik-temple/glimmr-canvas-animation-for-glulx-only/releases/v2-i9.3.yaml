@@ -1,0 +1,16 @@
+schema-version: 2
+maintainer: Erik Temple
+channel: stable
+compatibility:
+  inform:
+    constraint: '>=9.3 <10'
+source:
+  url: https://github.com/i7/extensions/blob/9.3/Erik%20Temple/Glimmr%20Canvas%20Animation.i7x
+  format: i7x
+build:
+  private:
+  - type: extension
+    path: Glimmr Canvas Animation.i7x
+description: Provides a 'track'-based system for independent animation of graphic
+  elements, canvases, and windows. Features animation presets, automated easing/tweening,
+  and a detailed debugging log.

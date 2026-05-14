@@ -1,0 +1,15 @@
+schema-version: 2
+maintainer: Mike Ciul
+channel: stable
+compatibility:
+  inform:
+    constraint: '>=11.0'
+source:
+  url: https://github.com/i7/extensions/tree/11.0/Mike%20Ciul/Autotaking-v1_0_1.i7xd
+  format: i7xd
+build:
+  private:
+  - type: extension
+    path: Autotaking-v1_0_1.i7xd
+description: Implicit taking of noun or second noun that may be invoked by (or used
+  as) a check rule.

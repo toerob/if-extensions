@@ -1,0 +1,6 @@
+schema-version: 1
+id: numbered-disambiguation-choices
+name: Numbered Disambiguation Choices
+author: Aaron Reed
+description: Numbers the options in disambiguation questions, to help new players
+  and solve the 'disambiguation loop' problem caused by indistinguishable objects.

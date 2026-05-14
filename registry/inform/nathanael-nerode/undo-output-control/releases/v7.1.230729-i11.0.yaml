@@ -1,0 +1,19 @@
+schema-version: 2
+maintainer: Nathanael Nerode
+channel: stable
+compatibility:
+  inform:
+    constraint: '>=11.0'
+source:
+  url: https://github.com/i7/extensions/tree/11.0/Nathanael%20Nerode/Undo%20Output%20Control-v7_1_230729.i7xd
+  format: i7xd
+build:
+  private:
+  - type: extension
+    path: Undo Output Control-v7_1_230729.i7xd
+description: Provides hooks into UNDO processing, including multiple ways to suspend
+  UNDO temporarily, to place limitations on UNDO (such as allowing only one UNDO in
+  a row), to undo the current turn from code, and to control when the game state is
+  saved. Using the latter, we can effectively control which turn UNDO returns us to.  Also
+  allows the story to edit a blank command before analyzing it.  Updated to Inform
+  10.1.

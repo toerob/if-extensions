@@ -1,0 +1,16 @@
+schema-version: 2
+maintainer: Nathanael Nerode
+channel: stable
+compatibility:
+  inform:
+    constraint: '>=10.1'
+source:
+  url: https://github.com/i7/extensions/blob/10.1/Nathanael%20Nerode/Tab%20Removal-v2.i7x
+  format: i7x
+build:
+  private:
+  - type: extension
+    path: Tab Removal-v2.i7x
+description: For commands with tabs in them, replaces tabs with spaces before passing
+  them on to the game.  Prevents all kinds of confusing weirdness when the player
+  types tabs.

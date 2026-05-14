@@ -1,0 +1,18 @@
+schema-version: 2
+maintainer: Ron Newcomb
+channel: stable
+compatibility:
+  inform:
+    constraint: '>=9.3 <10'
+source:
+  url: https://github.com/i7/extensions/blob/9.3/Ron%20Newcomb/Phrases%20for%20Tables%20with%20Topics.i7x
+  format: i7x
+build:
+  private:
+  - type: extension
+    path: Phrases for Tables with Topics.i7x
+description: 'This grants five new phrases regarding the player''s command, the matched
+  text, and the topic understood: if one is a topic listed in a table, if one includes
+  or matches a topic listed in a table, what corresponds to one within a table, and
+  the last phrase corrects a bug so the topic understood may be used within an understand-as-mistake
+  line.'

@@ -1,0 +1,5 @@
+schema-version: 1
+id: achievements
+name: Achievements
+author: Mikael Segercrantz
+description: A table-based way to assign scores for actions, rooms and objects.

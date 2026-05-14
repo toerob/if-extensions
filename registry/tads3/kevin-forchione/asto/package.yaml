@@ -1,0 +1,7 @@
+schema-version: 1
+id: asto
+name: asto
+author: Kevin Forchione
+description: Adds an integer property to each non-class object, and sets it to a value
+  giving the "absolute" order of the object definition in the program source. Version
+  2.0, written by Kevin Forchione.

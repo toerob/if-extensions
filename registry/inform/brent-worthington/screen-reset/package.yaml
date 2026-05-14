@@ -1,0 +1,5 @@
+schema-version: 1
+id: screen-reset
+name: Screen Reset
+author: Brent Worthington
+description: Allows the player to reset the screen.

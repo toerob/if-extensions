@@ -1,0 +1,6 @@
+schema-version: 1
+id: compass
+name: compass
+author: Steve Breslin and Krister Fundin
+description: A module to make a banner displaying a compass, version 3, by Steve Breslin
+  and Krister Fundin.

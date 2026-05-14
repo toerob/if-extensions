@@ -1,0 +1,20 @@
+schema-version: 2
+maintainer: Eric Eve
+channel: stable
+compatibility:
+  inform:
+    constraint: '>=9.3 <10'
+source:
+  url: https://github.com/i7/extensions/blob/9.3/Eric%20Eve/Implicit%20Actions.i7x
+  format: i7x
+build:
+  private:
+  - type: extension
+    path: Implicit Actions.i7x
+description: Provides implicit taking, opening, closing, locking and unlocking actions
+  for a variety of cases where this makes for smoother game play. The extension also
+  defines phrases which make it easy to define additional implicit actions if desired.
+  Version 11 can be used with Locksmith by Emily Short (although Implicit Actions
+  covers most of what Locksmith does, and in most cases it will be better to use Implicit
+  Actions without Locksmith). Requires  Version 5 (or above) of Text Capture by Eric
+  Eve.

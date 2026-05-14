@@ -1,0 +1,8 @@
+schema-version: 1
+id: written-inventory
+name: Written Inventory
+author: Leonardo Boselli
+description: Just Version 3 of Written Inventory by Jon Ingold made adaptive. Provides
+  a framework for listing inventories in natural sentences. Separates carried and
+  worn objects, followed by objects that contains other objects. What's listed in
+  the third section is customisable via a rulebook.

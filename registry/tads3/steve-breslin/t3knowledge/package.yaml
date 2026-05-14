@@ -1,0 +1,6 @@
+schema-version: 1
+id: t3knowledge
+name: t3knowledge
+author: Steve Breslin
+description: A module to make knowledge tracking more intuitive by adding extra support
+  for NPC knowledge. Version 1.1, by Steve Breslin.

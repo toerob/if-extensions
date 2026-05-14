@@ -1,0 +1,6 @@
+schema-version: 2
+maintainer: Zachary Hutchinson
+date: '2003-08-03'
+source:
+  url: https://www.ifarchive.org/if-archive/programming/tads3/library/contributions/SunTracker.t
+  format: t

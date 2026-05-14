@@ -1,0 +1,16 @@
+schema-version: 2
+maintainer: Peter Orme
+channel: stable
+compatibility:
+  inform:
+    constraint: '>=11.0'
+source:
+  url: https://github.com/i7/extensions/tree/11.0/Peter%20Orme/Universal%20Opening-v1_0_220525.i7xd
+  format: i7xd
+build:
+  private:
+  - type: extension
+    path: Universal Opening-v1_0_220525.i7xd
+description: " as universal door opening\n\ncarry out universal door opening (this\
+  \ is the universal door opening rule):\n\trepeat with chosen door running through\
+  \ every door:\n\t\tif the chosen door is closed:\n\t\t\tsay "

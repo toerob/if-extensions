@@ -1,0 +1,5 @@
+schema-version: 1
+id: int-math
+name: intMath
+author: Diegesis & Mimesis
+description: A TADS3 module for mathematical tools using integer approximations.

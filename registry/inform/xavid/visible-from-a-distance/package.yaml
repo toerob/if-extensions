@@ -1,0 +1,5 @@
+schema-version: 1
+id: visible-from-a-distance
+name: Visible from a Distance
+author: Xavid
+description: Allow certain things in adjacent rooms to be examined.

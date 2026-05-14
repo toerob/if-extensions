@@ -1,0 +1,6 @@
+schema-version: 1
+id: unicode-interrogation
+name: Unicode Interrogation
+author: Michael Martin
+description: Allows an author to verify that an interpreter can support specific Unicode
+  effects.

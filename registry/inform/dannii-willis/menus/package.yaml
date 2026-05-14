@@ -1,0 +1,5 @@
+schema-version: 1
+id: menus
+name: Menus
+author: Dannii Willis
+description: Display full-screen menus defined by tables

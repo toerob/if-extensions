@@ -1,0 +1,6 @@
+schema-version: 1
+id: command-preloading
+name: Command Preloading
+author: Daniel Stelzer
+description: A simple way to preload input onto the command line before the player
+  begins to type.

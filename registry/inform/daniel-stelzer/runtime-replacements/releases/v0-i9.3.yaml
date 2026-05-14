@@ -1,0 +1,15 @@
+schema-version: 2
+maintainer: Daniel Stelzer
+channel: stable
+compatibility:
+  inform:
+    constraint: '>=9.3 <10'
+source:
+  url: https://github.com/i7/extensions/blob/9.3/Daniel%20Stelzer/Runtime%20Replacements.i7x
+  format: i7x
+build:
+  private:
+  - type: extension
+    path: Runtime Replacements.i7x
+description: ". [The replacement machinery doesn't seem to work on local variables.]\n\
+  \nAfter reading a command:\n\tif word number 1 in the player's command is "

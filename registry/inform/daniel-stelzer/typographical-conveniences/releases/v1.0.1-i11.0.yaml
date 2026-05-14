@@ -1,0 +1,15 @@
+schema-version: 2
+maintainer: Daniel Stelzer
+channel: stable
+compatibility:
+  inform:
+    constraint: '>=11.0'
+source:
+  url: https://github.com/i7/extensions/tree/11.0/Daniel%20Stelzer/Typographical%20Conveniences-v1_0_1.i7xd
+  format: i7xd
+build:
+  private:
+  - type: extension
+    path: Typographical Conveniences-v1_0_1.i7xd
+description: ".\n\nTo say -:\n\tif Unicode 8211 is supported:\n\t\tsay Unicode 8211;\
+  \ [en-dash]\n\totherwise:\n\t\tsay "

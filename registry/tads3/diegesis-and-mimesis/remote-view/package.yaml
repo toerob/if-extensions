@@ -1,0 +1,6 @@
+schema-version: 1
+id: remote-view
+name: remoteView
+author: Diegesis & Mimesis
+description: A TADS3 module implementing a remote viewing sense connector enabled
+  by looking through it

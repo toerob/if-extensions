@@ -1,0 +1,14 @@
+schema-version: 2
+maintainer: Jeff Nyman
+channel: stable
+compatibility:
+  inform:
+    constraint: '>=9.3 <10'
+source:
+  url: https://github.com/i7/extensions/blob/9.3/Jeff%20Nyman/Story%20Substrate.i7x
+  format: i7x
+build:
+  private:
+  - type: extension
+    path: Story Substrate.i7x
+description: Provides information about the substrate that a story is executing on.

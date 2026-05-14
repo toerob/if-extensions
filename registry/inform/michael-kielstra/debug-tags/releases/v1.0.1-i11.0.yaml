@@ -1,0 +1,15 @@
+schema-version: 2
+maintainer: Michael Kielstra
+channel: stable
+compatibility:
+  inform:
+    constraint: '>=11.0'
+source:
+  url: https://github.com/i7/extensions/tree/11.0/Michael%20Kielstra/Debug%20Tags-v1_0_1.i7xd
+  format: i7xd
+build:
+  private:
+  - type: extension
+    path: Debug Tags-v1_0_1.i7xd
+description: 'Take quick notes about what needs doing: bugs, ideas, et cetera.  Helpful
+  for debugging.'

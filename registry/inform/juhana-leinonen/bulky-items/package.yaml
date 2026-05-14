@@ -1,0 +1,6 @@
+schema-version: 1
+id: bulky-items
+name: Bulky Items
+author: Juhana Leinonen
+description: Bulky items that can be carried only if the player is not carrying anything
+  else.

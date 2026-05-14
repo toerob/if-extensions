@@ -1,0 +1,7 @@
+schema-version: 1
+id: conversational-defaults
+name: Conversational Defaults
+author: Eric Eve
+description: Provides a set of rules to facilitate defining default conversational
+  responses for different conversational commands targeted at various NPCs. This extension
+  requires Conversation Framework.

@@ -1,0 +1,16 @@
+schema-version: 2
+maintainer: Eric Eve
+channel: stable
+compatibility:
+  inform:
+    constraint: '>=11.0'
+source:
+  url: https://github.com/i7/extensions/tree/11.0/Eric%20Eve/Conversation%20Rules-v7_0_2.i7xd
+  format: i7xd
+build:
+  private:
+  - type: extension
+    path: Conversation Rules-v7_0_2.i7xd
+description: A way of controlling conversations using rules and tables. Also implements
+  topic suggestions and Conversation nodes. Requires Plurality by Emily Short and
+  Conversation Framework, Epistemology and List Control by Eric Eve.

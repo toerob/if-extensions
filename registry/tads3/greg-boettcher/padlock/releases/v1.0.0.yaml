@@ -1,0 +1,6 @@
+schema-version: 2
+maintainer: Greg Boettcher
+date: '2016-12-08'
+source:
+  url: https://www.ifarchive.org/if-archive/programming/tads3/library/contributions/padlock.zip
+  format: zip

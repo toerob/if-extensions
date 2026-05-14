@@ -1,0 +1,6 @@
+schema-version: 1
+id: threaded-conversation
+name: Threaded Conversation
+author: Chris Conley
+description: A conversation system tracking facts known, phrases spoken, and subjects
+  of conversation.

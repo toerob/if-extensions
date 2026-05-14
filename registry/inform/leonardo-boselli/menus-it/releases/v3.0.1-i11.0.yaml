@@ -1,0 +1,15 @@
+schema-version: 2
+maintainer: Leonardo Boselli
+channel: stable
+compatibility:
+  inform:
+    constraint: '>=11.0'
+source:
+  url: https://github.com/i7/extensions/tree/11.0/Leonardo%20Boselli/Menus%20IT-v3_0_1.i7xd
+  format: i7xd
+build:
+  private:
+  - type: extension
+    path: Menus IT-v3_0_1.i7xd
+description: A table-based way to display full-screen menus to the player. Semplicemente
+  tradotto in italiano.

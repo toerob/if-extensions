@@ -1,0 +1,14 @@
+schema-version: 2
+maintainer: Daniel Stelzer
+channel: stable
+compatibility:
+  inform:
+    constraint: '>=9.3 <10'
+source:
+  url: https://github.com/i7/extensions/blob/9.3/Daniel%20Stelzer/Command%20Modification.i7x
+  format: i7x
+build:
+  private:
+  - type: extension
+    path: Command Modification.i7x
+description: '[command prompt][run paragraph on]'

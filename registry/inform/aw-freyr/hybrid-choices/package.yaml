@@ -1,0 +1,6 @@
+schema-version: 1
+id: hybrid-choices
+name: Hybrid Choices
+author: AW Freyr
+description: Provides a choice-based interface that can be freely switched between
+  interactive and non-interactive modes. Basically, it does CYOA.

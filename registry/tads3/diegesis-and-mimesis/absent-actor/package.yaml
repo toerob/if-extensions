@@ -1,0 +1,6 @@
+schema-version: 1
+id: absent-actor
+name: absentActor
+author: Diegesis & Mimesis
+description: A TADS3 module that allows actors to remember when and where they saw
+  other actors

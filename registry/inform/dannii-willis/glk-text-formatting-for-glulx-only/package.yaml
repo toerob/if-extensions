@@ -1,0 +1,6 @@
+schema-version: 1
+id: glk-text-formatting-for-glulx-only
+name: Glk Text Formatting (for Glulx only)
+author: Dannii Willis
+description: Provides functions for controlling colours and reverse styling at character
+  granularity

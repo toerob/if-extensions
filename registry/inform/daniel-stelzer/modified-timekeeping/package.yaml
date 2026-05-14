@@ -1,0 +1,6 @@
+schema-version: 1
+id: modified-timekeeping
+name: Modified Timekeeping
+author: Daniel Stelzer
+description: Changes the one-minute-per-turn rule to account for failed and implicit
+  actions.

@@ -1,0 +1,6 @@
+schema-version: 1
+id: adventure-book
+name: Adventure Book
+author: Edward Griffiths
+description: A system for creating Choose Your Own Adventure style programs, with
+  advanced features.

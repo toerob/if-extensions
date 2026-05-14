@@ -1,0 +1,14 @@
+schema-version: 2
+maintainer: Leonardo Boselli
+channel: stable
+compatibility:
+  inform:
+    constraint: '>=11.0'
+source:
+  url: https://github.com/i7/extensions/tree/11.0/Leonardo%20Boselli/Patrollers%20IT-v11_0_1.i7xd
+  format: i7xd
+build:
+  private:
+  - type: extension
+    path: Patrollers IT-v11_0_1.i7xd
+description: Based on Version 11 of Patrollers by Michael Callaghan.

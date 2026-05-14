@@ -1,0 +1,6 @@
+schema-version: 1
+id: optimizations
+name: optimizations
+author: Steve Breslin
+description: Two proof-of-concept tests for optimizing some computation-heavy code
+  in the standard adv3 library. Version 1, by Steve Breslin.

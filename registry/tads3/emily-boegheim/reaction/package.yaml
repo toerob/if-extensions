@@ -1,0 +1,6 @@
+schema-version: 1
+id: reaction
+name: reaction
+author: Emily Boegheim
+description: An extension offering rules-based handling of beforeAction and afterAction
+  code. Version 0.2, by Emily Boegheim.

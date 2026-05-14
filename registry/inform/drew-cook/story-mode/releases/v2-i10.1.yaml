@@ -1,0 +1,19 @@
+schema-version: 2
+maintainer: Drew Cook
+channel: stable
+compatibility:
+  inform:
+    constraint: '>=10.1'
+source:
+  url: https://github.com/i7/extensions/blob/10.1/Drew%20Cook/Story%20Mode-v2.i7x
+  format: i7x
+build:
+  private:
+  - type: extension
+    path: Story Mode-v2.i7x
+description: Provides an optional mode in which the game automatically steps through
+  a walkthrough. At any time, players can pause the guide and play independently.
+  At any future point, players can return to the walkthrough in progress. This is
+  a 'safe' mode of play in which neither the walkthrough nor the game world can be
+  disrupted. The primary design goal of story mode is improved accessibility, though
+  it has potential as a tutorial feature.

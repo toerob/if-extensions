@@ -1,0 +1,15 @@
+schema-version: 2
+maintainer: Peter Orme
+channel: stable
+compatibility:
+  inform:
+    constraint: '>=11.0'
+source:
+  url: https://github.com/i7/extensions/tree/11.0/Peter%20Orme/Checkpoints-v1_0_220525.i7xd
+  format: i7xd
+build:
+  private:
+  - type: extension
+    path: Checkpoints-v1_0_220525.i7xd
+description: A method of using assertions stored in a table to verify your game works
+  as expected.

@@ -1,0 +1,20 @@
+schema-version: 2
+maintainer: Nathanael Nerode
+channel: stable
+compatibility:
+  inform:
+    constraint: '>=11.0'
+source:
+  url: https://github.com/i7/extensions/tree/11.0/Nathanael%20Nerode/Variable%20Time%20Control-v1_0_240203.i7xd
+  format: i7xd
+build:
+  private:
+  - type: extension
+    path: Variable Time Control-v1_0_240203.i7xd
+description: 'Tracks time so that most actions can take specific amounts of time specified
+  by the game author.
+
+  Failed/rejected actions take no time by default.  Allows tracking time separately
+  in different scenes
+
+  to allow for time travel scenarios.  Not currently fully functional.'

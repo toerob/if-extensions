@@ -1,0 +1,16 @@
+schema-version: 2
+maintainer: Hanon Ondricek
+channel: stable
+compatibility:
+  inform:
+    constraint: '>=9.3 <10'
+source:
+  url: https://github.com/i7/extensions/blob/9.3/Hanon%20Ondricek/Easy%20Doors.i7x
+  format: i7x
+build:
+  private:
+  - type: extension
+    path: Easy Doors.i7x
+description: Easy Doors provides a new kind of door which does not use map connections,
+  and may be manipulated via rules more flexibly than the standard doors provided
+  in Inform 7.  Version 3 removes elements for compatibility with 6M62

@@ -1,0 +1,14 @@
+schema-version: 2
+maintainer: Ron Newcomb
+channel: stable
+compatibility:
+  inform:
+    constraint: '>=9.3 <10'
+source:
+  url: https://github.com/i7/extensions/blob/9.3/Ron%20Newcomb/Rewrite%20the%20Command%20Line.i7x
+  format: i7x
+build:
+  private:
+  - type: extension
+    path: Rewrite the Command Line.i7x
+description: Allows us to erase then rewrite the commands our player types in.

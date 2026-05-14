@@ -1,0 +1,15 @@
+schema-version: 2
+maintainer: AW Freyr
+channel: stable
+compatibility:
+  inform:
+    constraint: '>=10.1'
+source:
+  url: https://github.com/i7/extensions/blob/10.1/AW%20Freyr/Hybrid%20Choices-v7.i7x
+  format: i7x
+build:
+  private:
+  - type: extension
+    path: Hybrid Choices-v7.i7x
+description: Provides a choice-based interface that can be freely switched between
+  interactive and non-interactive modes. Basically, it does CYOA.

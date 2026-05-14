@@ -1,0 +1,32 @@
+$schema: "https://json-schema.org/draft/2020-12/schema"
+$id: "package.schema.yaml"
+title: Package
+description: Extension package metadata (package.yaml)
+type: object
+required:
+  - schema-version
+  - id
+  - name
+  - author
+additionalProperties: false
+properties:
+  schema-version:
+    type: integer
+    const: 1
+  id:
+    type: string
+    description: Kebab-case extension identifier, unique within its namespace
+    pattern: "^[a-z0-9][a-z0-9-]*$"
+  name:
+    type: string
+    description: Display name of the extension
+  author:
+    type: string
+    description: Author name as it appears in the source registry
+  description:
+    type: string
+  tags:
+    type: array
+    items:
+      type: string
+    uniqueItems: true

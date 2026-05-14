@@ -1,0 +1,7 @@
+schema-version: 1
+id: tsp
+name: tsp
+author: Kevin Forchione
+description: TSP version 1.0.2, a TADS 3 Services Pack library extension. A collection
+  of mechanisms supporting a wide variety of extended services for the TADS 3 language,
+  by Kevin Forchione.

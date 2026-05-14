@@ -1,0 +1,15 @@
+schema-version: 2
+maintainer: Massimo Stella
+channel: stable
+compatibility:
+  inform:
+    constraint: '>=10.1'
+source:
+  url: https://github.com/i7/extensions/blob/10.1/Massimo%20Stella/Multiple%20Sounds-v3.i7x
+  format: i7x
+build:
+  private:
+  - type: extension
+    path: Multiple Sounds-v3.i7x
+description: Provides facilities for the basic reproduction of multiple-channel audio
+  with loops under Glulx.

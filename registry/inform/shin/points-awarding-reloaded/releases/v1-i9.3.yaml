@@ -1,0 +1,15 @@
+schema-version: 2
+maintainer: Shin
+channel: stable
+compatibility:
+  inform:
+    constraint: '>=9.3 <10'
+source:
+  url: https://github.com/i7/extensions/blob/9.3/Shin/Points%20Awarding%20Reloaded.i7x
+  format: i7x
+build:
+  private:
+  - type: extension
+    path: Points Awarding Reloaded.i7x
+description: Points Awarding as defined in Version 2/090402 of the Standard Rules
+  by Graham Nelson.

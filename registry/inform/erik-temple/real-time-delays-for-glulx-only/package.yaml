@@ -1,0 +1,6 @@
+schema-version: 1
+id: real-time-delays-for-glulx-only
+name: Real-Time Delays (for Glulx only)
+author: Erik Temple
+description: Allows the author to specify a delay of a given number of seconds/milliseconds
+  before continuing the action.

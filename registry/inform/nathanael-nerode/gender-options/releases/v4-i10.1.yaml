@@ -1,0 +1,17 @@
+schema-version: 2
+maintainer: Nathanael Nerode
+channel: stable
+compatibility:
+  inform:
+    constraint: '>=10.1'
+source:
+  url: https://github.com/i7/extensions/blob/10.1/Nathanael%20Nerode/Gender%20Options-v4.i7x
+  format: i7x
+build:
+  private:
+  - type: extension
+    path: Gender Options-v4.i7x
+description: More broad-minded English language gender/number model where male, female,
+  and neuter are three separate true-false properties.  Allows for objects to respond
+  to any specified combination of HE, SHE, IT, and THEY.  As fast as the Standard
+  Rules.  Tested with Inform v10.1.0.

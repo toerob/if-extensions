@@ -1,0 +1,7 @@
+schema-version: 1
+id: simple-followers
+name: Simple Followers
+author: Emily Short
+description: Allows non-player characters to follow the player (or one another); adds
+  a FOLLOW command and a corresponding STOP FOLLOWING command so that the player can
+  issue these orders to non-player characters. Adds adaptive text features.

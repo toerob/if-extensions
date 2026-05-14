@@ -1,0 +1,6 @@
+schema-version: 1
+id: inanimate-listeners
+name: Inanimate Listeners
+author: Emily Short
+description: Allows the player to address inanimate objects such as a talking computer,
+  microphone, or telephone in a form such as ASK COMPUTER ABOUT COORDINATES.

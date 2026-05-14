@@ -1,0 +1,6 @@
+schema-version: 1
+id: timesys
+name: timesys
+author: Kevin Forchione
+description: A time-oriented library for TADS 3, providing support for input and output
+  of times and dates. Version 3.0.3, by Kevin Forchione.

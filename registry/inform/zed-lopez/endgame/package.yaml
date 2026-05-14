@@ -1,0 +1,7 @@
+schema-version: 1
+id: endgame
+name: Endgame
+author: Zed Lopez
+description: "An alternative end game approach that disables much of the action-processing\
+  \ and\n turn sequence but retains the regular command parsing loop. For 10.2 and\
+  \ above."

@@ -1,0 +1,14 @@
+schema-version: 2
+maintainer: Nate Cull
+channel: stable
+compatibility:
+  inform:
+    constraint: '>=11.0'
+source:
+  url: https://github.com/i7/extensions/tree/11.0/Nate%20Cull/Planner-v2_3_1.i7xd
+  format: i7xd
+build:
+  private:
+  - type: extension
+    path: Planner-v2_3_1.i7xd
+description: A universal goal planner for self-directed NPCs.

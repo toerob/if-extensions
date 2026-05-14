@@ -1,0 +1,95 @@
+$schema: "https://json-schema.org/draft/2020-12/schema"
+$id: "release.schema.yaml"
+title: Release
+description: Extension release file (releases/v{version}.yaml)
+type: object
+required:
+  - schema-version
+additionalProperties: false
+properties:
+  schema-version:
+    type: integer
+    const: 2
+  date:
+    type: string
+    format: date
+    description: Release date (YYYY-MM-DD)
+  description:
+    type: string
+    description: Version-specific description, overrides the package-level description
+  maintainer:
+    type: string
+  channel:
+    type: string
+    description: Release channel, e.g. stable or unstable
+  dependencies:
+    type: array
+    items:
+      $ref: "#/$defs/dependency"
+  compatibility:
+    type: object
+    additionalProperties:
+      type: object
+      additionalProperties: false
+      properties:
+        constraint:
+          type: string
+          description: SemVer range constraint, e.g. ">=3.0.9"
+  source:
+    type: object
+    required:
+      - url
+      - format
+    additionalProperties: false
+    properties:
+      url:
+        type: string
+        description: Download URL (https or git+ssh)
+      format:
+        type: string
+      branch:
+        type: string
+        description: Git branch or tag; only valid when format is git
+  build:
+    type: object
+    additionalProperties: false
+    properties:
+      exports:
+        description: Build entries the consuming project must include
+        type: array
+        items:
+          $ref: "#/$defs/build-entry"
+      private:
+        description: Build entries used internally by the extension only
+        type: array
+        items:
+          $ref: "#/$defs/build-entry"
+
+$defs:
+  dependency:
+    type: object
+    required:
+      - id
+    additionalProperties: false
+    properties:
+      id:
+        type: string
+        description: System-scoped extension identifier, e.g. "inform7/aaron-reed/smarter-parser"
+      constraint:
+        type: string
+        description: SemVer range constraint
+
+  build-entry:
+    type: object
+    required:
+      - type
+    additionalProperties: false
+    properties:
+      type:
+        type: string
+      path:
+        type: string
+        description: Required for lib, source, include-path and extension entries
+      value:
+        type: string
+        description: Required for define entries

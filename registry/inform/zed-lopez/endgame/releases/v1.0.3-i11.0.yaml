@@ -1,0 +1,16 @@
+schema-version: 2
+maintainer: Zed Lopez
+channel: stable
+compatibility:
+  inform:
+    constraint: '>=11.0'
+source:
+  url: https://github.com/i7/extensions/tree/11.0/Zed%20Lopez/Endgame-v1_0_3.i7xd
+  format: i7xd
+build:
+  private:
+  - type: extension
+    path: Endgame-v1_0_3.i7xd
+description: "An alternative end game approach that disables much of the action-processing\
+  \ and\n turn sequence but retains the regular command parsing loop. For 10.2 and\
+  \ above."

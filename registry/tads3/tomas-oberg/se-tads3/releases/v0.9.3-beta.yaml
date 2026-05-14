@@ -1,0 +1,11 @@
+schema-version: 2
+maintainer: Tomas Öberg
+date: '2026-05-11'
+source:
+  url: git@github.com:toerob/se-tads3.git
+  format: git
+  branch: main
+build:
+  exports:
+  - type: define
+    value: LANGUAGE=sv_se

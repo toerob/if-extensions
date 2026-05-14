@@ -1,0 +1,6 @@
+schema-version: 1
+id: screenreader
+name: Screenreader
+author: Zed Lopez
+description: "On startup, asks user 'Are you using a screenreader?' and sets\n a global\
+  \ that can subsequently be tested. For 6M62."

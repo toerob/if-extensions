@@ -1,0 +1,7 @@
+schema-version: 1
+id: conversation-nodes
+name: Conversation Nodes
+author: Eric Eve
+description: Builds on Conversational Defaults and adds the ability to define particular
+  points in a conversational thread (nodes) at which particular conversational options
+  become available.
