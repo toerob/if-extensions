@@ -1,0 +1,5 @@
+schema-version: 2
+date: '1999-04-11'
+source:
+  url: https://www.ifarchive.org/if-archive/infocom/compilers/inform6/library/contributions/dirsmap.h
+  format: h

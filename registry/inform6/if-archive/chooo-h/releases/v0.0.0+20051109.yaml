@@ -1,0 +1,5 @@
+schema-version: 2
+date: '2005-11-09'
+source:
+  url: https://www.ifarchive.org/if-archive/infocom/compilers/inform6/library/contributions/chooo.h
+  format: h

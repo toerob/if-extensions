@@ -1,0 +1,5 @@
+schema-version: 2
+date: '2002-03-01'
+source:
+  url: https://www.ifarchive.org/if-archive/infocom/compilers/inform6/library/contributions/Locksmith.h
+  format: h

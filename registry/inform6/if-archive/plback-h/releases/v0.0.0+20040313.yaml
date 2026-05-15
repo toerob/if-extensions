@@ -1,0 +1,5 @@
+schema-version: 2
+date: '2004-03-13'
+source:
+  url: https://www.ifarchive.org/if-archive/infocom/compilers/inform6/library/contributions/plback.h
+  format: h

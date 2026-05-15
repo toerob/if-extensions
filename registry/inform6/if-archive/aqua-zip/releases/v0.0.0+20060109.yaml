@@ -1,0 +1,5 @@
+schema-version: 2
+date: '2006-01-09'
+source:
+  url: https://www.ifarchive.org/if-archive/infocom/compilers/inform6/library/contributions/Aqua.zip
+  format: zip

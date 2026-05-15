@@ -1,0 +1,5 @@
+schema-version: 2
+date: '1998-07-16'
+source:
+  url: https://www.ifarchive.org/if-archive/infocom/compilers/inform6/library/contributions/calyx_adjectives.h
+  format: h

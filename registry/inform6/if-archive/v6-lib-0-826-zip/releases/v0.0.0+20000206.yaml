@@ -1,0 +1,5 @@
+schema-version: 2
+date: '2000-02-06'
+source:
+  url: https://www.ifarchive.org/if-archive/infocom/compilers/inform6/library/contributions/V6Lib-0_826.zip
+  format: zip

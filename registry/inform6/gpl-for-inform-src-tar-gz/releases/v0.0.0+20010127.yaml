@@ -1,5 +1,0 @@
-schema-version: 2
-date: '2001-01-27'
-source:
-  url: https://www.ifarchive.org/https://www.ifarchive.org/if-archive/infocom/compilers/inform6/library/contributions/GPL_for_Inform_src.tar.gz
-  format: tar.gz

@@ -1,0 +1,5 @@
+schema-version: 2
+date: '2003-01-19'
+source:
+  url: https://www.ifarchive.org/if-archive/infocom/compilers/inform6/library/contributions/stack.h
+  format: h

@@ -1,0 +1,5 @@
+schema-version: 2
+date: '1996-11-21'
+source:
+  url: https://www.ifarchive.org/if-archive/infocom/compilers/inform6/library/contributions/sound.h
+  format: h

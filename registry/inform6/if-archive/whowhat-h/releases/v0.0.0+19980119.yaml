@@ -1,0 +1,5 @@
+schema-version: 2
+date: '1998-01-19'
+source:
+  url: https://www.ifarchive.org/if-archive/infocom/compilers/inform6/library/contributions/whowhat.h
+  format: h
