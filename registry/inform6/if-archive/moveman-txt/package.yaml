@@ -1,0 +1,5 @@
+schema-version: 1
+id: moveman-txt
+name: moveman.txt
+author: Matthew Russotto
+description: The manual for MoveClass

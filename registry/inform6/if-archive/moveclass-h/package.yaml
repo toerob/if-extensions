@@ -1,0 +1,7 @@
+schema-version: 1
+id: moveclass-h
+name: moveclass.h
+author: Matthew Russotto
+description: MoveClass, a library to provide either random or directed movement for
+  any NPCs. Version 8.10, by Neil Brown and Alan Trewartha, with changes for Glulx
+  by Matthew Russotto.

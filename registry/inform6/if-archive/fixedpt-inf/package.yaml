@@ -1,0 +1,5 @@
+schema-version: 1
+id: fixedpt-inf
+name: fixedpt.inf
+author: Matt Albrecht
+description: Test harness for fixedpt.h, by Matt Albrecht.

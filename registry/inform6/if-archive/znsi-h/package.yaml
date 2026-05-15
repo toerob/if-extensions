@@ -1,0 +1,6 @@
+schema-version: 1
+id: znsi-h
+name: znsi.h
+author: L. Ross Raszewski
+description: ZNSI version 1.0, a control-code add on system for istring.h (see above),
+  by L. Ross Raszewski

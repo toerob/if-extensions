@@ -1,0 +1,8 @@
+schema-version: 1
+id: moderator-h
+name: Moderator.h
+author: Emily Short
+description: A library which provided a Scene class, which can be used to supervise
+  the player's actions in a game with a complex plot.  A scene allows entry points
+  to control where the player is allowed to go, trigger events after a certain lapse
+  of time, etc. Written by Emily Short.

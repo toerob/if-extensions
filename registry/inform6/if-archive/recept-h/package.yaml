@@ -1,0 +1,6 @@
+schema-version: 1
+id: recept-h
+name: recept.h
+author: Peer Schaefer
+description: A library for receptacles, that is, contains with defined capacities.
+  Version 1.0, by Peer Schaefer.

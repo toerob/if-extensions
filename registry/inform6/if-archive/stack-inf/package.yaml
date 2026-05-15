@@ -1,0 +1,5 @@
+schema-version: 1
+id: stack-inf
+name: stack.inf
+author: Fredrik Ramsberg
+description: An example of how to use the stack class in stack.h, by Fredrik Ramsberg.

@@ -1,0 +1,7 @@
+schema-version: 1
+id: calyx-adjectives-h
+name: calyx_adjectives.h
+author: Miron Schmidt
+description: a library to provide a system of 'adnames', words which may be used to
+  refer to objects without themselves implying that the object name has been typed.
+  Release 1, by Miron Schmidt, based on Andrew Clover's Inform 5 library 'adname.h'.

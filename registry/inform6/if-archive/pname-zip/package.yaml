@@ -1,0 +1,7 @@
+schema-version: 1
+id: pname-zip
+name: pname.zip
+author: Neil Cerutti
+description: A library that allows more precise name constructs to be declared and
+  causes the parser to disambiguate based on these "phrase name" constructs, written
+  by Neil Cerutti. Version 1.1, 10 May 2001.

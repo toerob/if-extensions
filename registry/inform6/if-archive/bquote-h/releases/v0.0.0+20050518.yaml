@@ -1,0 +1,5 @@
+schema-version: 2
+date: '2005-05-18'
+source:
+  url: https://www.ifarchive.org/https://www.ifarchive.org/if-archive/infocom/compilers/inform6/library/contributions/bquote.h
+  format: h

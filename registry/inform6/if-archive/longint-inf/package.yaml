@@ -1,0 +1,5 @@
+schema-version: 1
+id: longint-inf
+name: longint.inf
+author: Chris Hall and Francis Irving
+description: an example demonstrating the use of longint.h

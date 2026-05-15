@@ -1,0 +1,6 @@
+schema-version: 1
+id: verbs-htm
+name: Verbs.htm
+author: Brian Uri
+description: A list of the standard verbs found in the Inform 6/10 Grammar.h file,
+  in HTML format, by Brian Uri.

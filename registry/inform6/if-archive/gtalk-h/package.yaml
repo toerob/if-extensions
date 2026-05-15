@@ -1,0 +1,7 @@
+schema-version: 1
+id: gtalk-h
+name: gtalk.h
+author: Greg Boettcher, Krister Fundin and Mark J. Tilford
+description: A library for Photopia style menu-based conversations, allowing for submenus,
+  and looping and repeating conversations. Version 3.00, written by Greg Boettcher,
+  Krister Fundin and Mark J. Tilford.

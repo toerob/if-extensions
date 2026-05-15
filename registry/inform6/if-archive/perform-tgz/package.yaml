@@ -1,0 +1,6 @@
+schema-version: 1
+id: perform-tgz
+name: perform.tgz
+author: Nick Montfort
+description: Perform (Perceptron Classifier in Inform), version 1.0 by Nick Montfort,
+  MIT License.

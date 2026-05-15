@@ -1,0 +1,6 @@
+schema-version: 1
+id: mca-zip
+name: mca.zip
+author: Krister Fundin
+description: A library for "Choose Your Own Adventure" type games. Version 2.22, by
+  Krister Fundin.

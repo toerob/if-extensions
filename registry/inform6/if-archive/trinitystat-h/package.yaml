@@ -1,0 +1,6 @@
+schema-version: 1
+id: trinitystat-h
+name: trinitystat.h
+author: Jonathan Rosebaugh
+description: A library go give games a status line in the style of Infocom's Trinity,
+  written by Jonathan Rosebaugh.

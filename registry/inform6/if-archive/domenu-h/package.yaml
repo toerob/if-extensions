@@ -1,0 +1,5 @@
+schema-version: 1
+id: domenu-h
+name: domenu.h
+author: L. Ross Raszewski
+description: a replacement for Inform's standard DoMenu, version 6.2, by L. Ross Raszewski

@@ -1,0 +1,5 @@
+schema-version: 1
+id: triform12b-zip
+name: triform12b.zip
+author: Nathan Schwartzman
+description: Triform 1.2b, an alternate library for Inform, written by Nathan Schwartzman.

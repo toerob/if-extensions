@@ -1,0 +1,5 @@
+schema-version: 1
+id: q-print-h
+name: QPrint.h
+author: Dave Robinson
+description: QPrint, a mid-string rule printing system, version 1, by Dave Robinson.

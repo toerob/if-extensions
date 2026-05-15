@@ -1,0 +1,5 @@
+schema-version: 1
+id: imemd-inf
+name: imemd.inf
+author: L. Ross Raszewski
+description: a demonstration of imem.h

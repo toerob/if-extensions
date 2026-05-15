@@ -1,0 +1,5 @@
+schema-version: 1
+id: menus-h
+name: menus.h
+author: Graham Nelson
+description: a library extension providing easier and better menus, by Graham Nelson

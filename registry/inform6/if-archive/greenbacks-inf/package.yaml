@@ -1,0 +1,6 @@
+schema-version: 1
+id: greenbacks-inf
+name: greenbacks.inf
+author: Erik Hetzner
+description: Greenbacks, a demonstration of the use of money.h (see below) for US
+  currency, beta release, by Erik Hetzner

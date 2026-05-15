@@ -1,0 +1,6 @@
+schema-version: 1
+id: stringmaker-h
+name: stringmaker.h
+author: Roger Firth
+description: A routine to convert a byte array of characters into a packed string
+  which can be printed (and vice versa). Version 1.0, by Roger Firth.

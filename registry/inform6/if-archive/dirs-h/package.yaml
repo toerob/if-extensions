@@ -1,0 +1,6 @@
+schema-version: 1
+id: dirs-h
+name: dirs.h
+author: Nicholas Daley
+description: provides a 'dirs' verb that tells you which directions you can go in,
+  version 2.1, by Nicholas Daley

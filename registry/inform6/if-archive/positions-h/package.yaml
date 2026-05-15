@@ -1,0 +1,6 @@
+schema-version: 1
+id: positions-h
+name: Positions.h
+author: Nathan Schwartzman
+description: An extension to allow input such as "take the glasses in the case on
+  the bookshelf". Version 1.1, written by Nathan Schwartzman.

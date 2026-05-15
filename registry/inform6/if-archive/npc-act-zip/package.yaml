@@ -1,0 +1,6 @@
+schema-version: 1
+id: npc-act-zip
+name: NpcAct.zip
+author: Matt Albrecht
+description: A framework to ease the NPC creation process, which allows NPCs to interact
+  with one another. Written by Matt Albrecht.

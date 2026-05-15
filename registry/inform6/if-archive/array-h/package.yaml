@@ -1,0 +1,5 @@
+schema-version: 1
+id: array-h
+name: array.h
+author: Evin Robertson
+description: a library of useful array functions, version 0.1, by Evin Robertson.

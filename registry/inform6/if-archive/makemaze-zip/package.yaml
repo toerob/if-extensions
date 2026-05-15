@@ -1,0 +1,6 @@
+schema-version: 1
+id: makemaze-zip
+name: makemaze.zip
+author: Ricardo Dague
+description: Inform source code for makemaze, an Inform program to generate random
+  mazes and output the Inform source for that maze. Written by Ricardo Dague.

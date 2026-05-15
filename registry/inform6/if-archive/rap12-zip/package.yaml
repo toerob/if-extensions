@@ -1,0 +1,7 @@
+schema-version: 1
+id: rap12-zip
+name: rap12.zip
+author: Sam Denton
+description: Reactive Agent Planner for Inform, a goal seeking library for Inform
+  NPCs. Version 1.2, originally by Nate Cull, and updated with a Perl preprocessor
+  by Sam Denton.

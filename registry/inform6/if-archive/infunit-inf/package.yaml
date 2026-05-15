@@ -1,0 +1,5 @@
+schema-version: 1
+id: infunit-inf
+name: infunit.inf
+author: Matt Albrecht
+description: Test harness for infunit.h, by Matt Albrecht.

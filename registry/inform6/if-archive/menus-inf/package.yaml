@@ -1,0 +1,5 @@
+schema-version: 1
+id: menus-inf
+name: Menus.inf
+author: L. Ross Raszewski
+description: an example of using AltMenu.h, by L. Ross Raszewski

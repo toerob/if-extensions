@@ -1,0 +1,7 @@
+schema-version: 1
+id: random-h
+name: random.h
+author: Roger Firth
+description: A replacement for Inform's random() function, which ensures well-distributed
+  (and, where necessary, predictable) results, irrespective of which Z-machine or
+  Glulx interpreter the player is using. Version 1.3, written by Roger Firth.

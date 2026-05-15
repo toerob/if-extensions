@@ -1,0 +1,5 @@
+schema-version: 1
+id: action-h
+name: action.h
+author: Adam Stark
+description: a library for implementing action menus, version 0.8, by Adam Stark

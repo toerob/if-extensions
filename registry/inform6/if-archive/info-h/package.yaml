@@ -1,0 +1,6 @@
+schema-version: 1
+id: info-h
+name: Info.h
+author: Jesse Burneko
+description: a library extension for consultation and conversation, allowing the consult,
+  ask, etc. commands to access a database of topics. Written by Jesse Burneko

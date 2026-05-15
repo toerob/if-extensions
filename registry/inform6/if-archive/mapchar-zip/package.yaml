@@ -1,0 +1,6 @@
+schema-version: 1
+id: mapchar-zip
+name: mapchar.zip
+author: Wouter ten Brink
+description: A library to map accented letters to their internal character codes for
+  ZSCII or Glulx. Version 0.02, by Wouter ten Brink.

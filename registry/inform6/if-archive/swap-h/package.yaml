@@ -1,0 +1,6 @@
+schema-version: 1
+id: swap-h
+name: swap.h
+author: '"she''s long gone"'
+description: A function to swap two objects, moving each to the other's parent, by
+  "she's long gone".

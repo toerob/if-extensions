@@ -1,0 +1,5 @@
+schema-version: 1
+id: v6-lib-manual-txt
+name: V6Lib_Manual.txt
+author: Jason C. Penney
+description: Manual for V6Lib in plain text format.

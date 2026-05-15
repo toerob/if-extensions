@@ -1,0 +1,6 @@
+schema-version: 1
+id: debuglib-h
+name: debuglib.h
+author: John Cater
+description: a library to allow for easier printing of debugging statements, by John
+  Cater

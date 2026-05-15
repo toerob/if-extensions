@@ -1,0 +1,5 @@
+schema-version: 1
+id: links-inf
+name: links.inf
+author: Jayson Smith
+description: an example demonstrating the use of links.h

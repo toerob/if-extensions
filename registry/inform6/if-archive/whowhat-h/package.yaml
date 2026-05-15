@@ -1,0 +1,6 @@
+schema-version: 1
+id: whowhat-h
+name: whowhat.h
+author: A.C. Murie
+description: a library to provide support for input such as "who is..." and "what
+  is...". Written by David Cornelson, based on "whatis.h" by A.C. Murie.

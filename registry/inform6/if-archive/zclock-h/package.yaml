@@ -1,0 +1,6 @@
+schema-version: 1
+id: zclock-h
+name: zclock.h
+author: Allen Garvin
+description: A library that implements the timers and daemons mechansim used in Infocom
+  games, by Allen Garvin.

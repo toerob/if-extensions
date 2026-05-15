@@ -1,0 +1,6 @@
+schema-version: 1
+id: sha-hint-h
+name: sha_hint.h
+author: Ricardo Dague
+description: A library to add a simple hint system to a game, where the user enters
+  "hint `<topic>`" to get hints. Written by Ricardo Dague.

@@ -1,0 +1,7 @@
+schema-version: 1
+id: money-h
+name: money.h
+author: Erik Hetzner
+description: a library that provides a generic system for the manipulation of money,
+  beta release, by Erik Hetzner (see greenbacks.inf above for an example game which
+  uses US currency)

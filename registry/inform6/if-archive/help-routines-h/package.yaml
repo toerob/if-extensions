@@ -1,0 +1,7 @@
+schema-version: 1
+id: help-routines-h
+name: HelpRoutines.h
+author: Emily Short
+description: Routines that give help messages, such as a list of standard Inform verbs,
+  suggestions about what to do at the beginning of a game, and so on. Version 1.0,
+  by Emily Short.

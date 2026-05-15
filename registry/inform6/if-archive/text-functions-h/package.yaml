@@ -1,0 +1,6 @@
+schema-version: 1
+id: text-functions-h
+name: text_functions.h
+author: Patrick Kellum
+description: a library of functions for dealing with text in Inform, Release 1.0,
+  by Patrick Kellum.

@@ -1,0 +1,6 @@
+schema-version: 1
+id: seeno-h
+name: seeno.h
+author: Cedric Knight
+description: A library to change the standard Inform message "You can't see any such
+  thing." to the more specific "You see no xxx yyy here." Version 1.1, by Cedric Knight.

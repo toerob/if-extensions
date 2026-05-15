@@ -1,0 +1,6 @@
+schema-version: 1
+id: style-h
+name: style.h
+author: Chris Klimas
+description: an Inform library extension for embedding styles in print statements,
+  written by by Chris Klimas

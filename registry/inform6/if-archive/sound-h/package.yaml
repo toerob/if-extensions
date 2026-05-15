@@ -1,0 +1,6 @@
+schema-version: 1
+id: sound-h
+name: sound.h
+author: L. Ross Raszewksi
+description: a library to handle Inform's sound capabilities, by L. Ross Raszewksi.
+  Requires a sound card.

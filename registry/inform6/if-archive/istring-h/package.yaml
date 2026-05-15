@@ -1,0 +1,6 @@
+schema-version: 1
+id: istring-h
+name: istring.h
+author: L. Ross Raszewski
+description: the Inform string library, version 2.1, providing implementations of
+  the standard ANSI C library string functions, by L. Ross Raszewski

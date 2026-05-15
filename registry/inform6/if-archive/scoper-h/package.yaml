@@ -1,0 +1,6 @@
+schema-version: 1
+id: scoper-h
+name: Scoper.h
+author: Daniel Barkalow
+description: A library to help determine which rooms are visible from a given location.
+  Version 1.0, written by Daniel Barkalow.

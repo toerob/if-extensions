@@ -1,0 +1,6 @@
+schema-version: 1
+id: betatest-h
+name: betatest.h
+author: Marnie Parker
+description: a beta testing aid, allowing testers to add comments to the output script.
+  Version 1.02, written by Marnie Parker

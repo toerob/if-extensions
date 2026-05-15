@@ -1,0 +1,5 @@
+schema-version: 1
+id: yesno-h
+name: yesno.h
+author: L. Ross Raszewski
+description: a library to ask a semi-rhetorical yes or no question, by L. Ross Raszewski

@@ -1,0 +1,6 @@
+schema-version: 1
+id: locksmith-h
+name: Locksmith.h
+author: Emily Short
+description: A library that allows better automatic selection of keys following an
+  unlock command, by Emily Short.

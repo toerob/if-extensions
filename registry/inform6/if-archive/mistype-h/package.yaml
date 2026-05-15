@@ -1,0 +1,6 @@
+schema-version: 1
+id: mistype-h
+name: mistype.h
+author: Cedric Knight
+description: A library to automatically correct minor typing errors by the player.
+  Version 1.24, by Cedric Knight.

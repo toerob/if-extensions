@@ -1,0 +1,7 @@
+schema-version: 1
+id: betahtml-zip
+name: betahtml.zip
+author: Marnie Parker
+description: A library to output a HTML script of the game, including user comments,
+  as an aid to beta testing. Version 1.5 by Stas Starkov, based on "betatest.h" by
+  Marnie Parker.

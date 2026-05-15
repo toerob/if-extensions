@@ -1,0 +1,7 @@
+schema-version: 1
+id: smartcantgo-h
+name: smartcantgo.h
+author: Roger Firth
+description: '"Smart ''Can''t Go'' Library" by David Wagner, updated for Inform 6
+  by Roger Firth. A routine that lists the exits of rooms instead of just "You can''t
+  go that way". Version 5 (3feb99), based on David''s version 3 (08nov95).'

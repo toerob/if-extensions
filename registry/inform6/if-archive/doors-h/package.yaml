@@ -1,0 +1,6 @@
+schema-version: 1
+id: doors-h
+name: doors.h
+author: L. Ross Raszewski
+description: a library making the definition of two-sided doors easier, by L. Ross
+  Raszewski

@@ -1,0 +1,6 @@
+schema-version: 1
+id: gpl-for-inform-src-tar-gz
+name: GPL_for_Inform_src.tar.gz
+author: Patrick Boylan
+description: Source code to add the Gnu Public License to a Z-Code game, by Patrick
+  Boylan.

@@ -1,0 +1,5 @@
+schema-version: 1
+id: stack-h
+name: stack.h
+author: Fredrik Ramsberg
+description: An implementation of a stack, by Fredrik Ramsberg.

@@ -1,0 +1,6 @@
+schema-version: 1
+id: dirs-2-h
+name: dirs_2.h
+author: Gunther Schmidl
+description: a library to provide an easy way of adding a 'dirs' or 'exits' verb,
+  by Gunther Schmidl

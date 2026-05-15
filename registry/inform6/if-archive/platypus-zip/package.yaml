@@ -1,0 +1,6 @@
+schema-version: 1
+id: platypus-zip
+name: platypus.zip
+author: Anson Turner
+description: Platypus release 4+, Anson Turner's replacement for the standard Inform
+  library (previously called "animalib"), along with documentation and example code.

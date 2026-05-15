@@ -1,0 +1,6 @@
+schema-version: 1
+id: clothing-h
+name: clothing.h
+author: Denis Moskowitz
+description: a library defining a clothes class for easy clothing handling. Set area,
+  level, and covering for pieces of clothing. Written by Denis Moskowitz.

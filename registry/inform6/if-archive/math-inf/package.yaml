@@ -1,0 +1,5 @@
+schema-version: 1
+id: math-inf
+name: math.inf
+author: Matt Albrecht
+description: Test harness for math.h, by Matt Albrecht.

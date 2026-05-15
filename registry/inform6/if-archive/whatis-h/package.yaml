@@ -1,0 +1,6 @@
+schema-version: 1
+id: whatis-h
+name: whatis.h
+author: Andrew C. Murie
+description: a library to provide commands such as "who am I", "what is a grue", etc.
+  Version 1, by Andrew C. Murie

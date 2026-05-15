@@ -1,0 +1,7 @@
+schema-version: 1
+id: holder-zip
+name: holder.zip
+author: Jim Aikin
+description: An extension that implements 'indirect holders,' tools such as tweezers
+  and pliers that can be used to pick up game objects that, for one reason or another,
+  can't be touched directly. Written by Jim Aikin.

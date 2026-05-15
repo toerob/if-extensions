@@ -1,0 +1,6 @@
+schema-version: 1
+id: elevator-inf
+name: elevator.inf
+author: Martin Braun
+description: An elevator object which the user can control by a call button on each
+  floor or by the buttons in the elevator itself. Version 2, written by Martin Braun

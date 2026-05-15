@@ -1,0 +1,6 @@
+schema-version: 1
+id: boxclever-h
+name: boxclever.h
+author: Roger Firth
+description: An extension of the standard 'box' statement that allows text to be bold
+  or underlined. Version 1.0, by Roger Firth.

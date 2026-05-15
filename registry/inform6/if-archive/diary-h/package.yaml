@@ -1,0 +1,7 @@
+schema-version: 1
+id: diary-h
+name: diary.h
+author: L. Ross Raszewski
+description: A library that allows a game author to provide a diary and dynamically
+  add and remove pages. Release 1.000226, written by Gunther Schmidl, partly based
+  on code by L. Ross Raszewski.

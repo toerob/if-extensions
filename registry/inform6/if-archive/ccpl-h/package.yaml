@@ -1,0 +1,8 @@
+schema-version: 1
+id: ccpl-h
+name: CCPL.h
+author: Roger Firth
+description: A library extention that displays text of the Creative Commons <http://creativecommons.org/>
+  Attribution-NoDerivs-NonCommercial 1.0 license, suitable for use as the license
+  of a freeware IF game. Contains both the short (friendly) and long (legal) forms
+  of the license. Inform module by Roger Firth, version 1.2.

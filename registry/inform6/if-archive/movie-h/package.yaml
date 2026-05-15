@@ -1,0 +1,6 @@
+schema-version: 1
+id: movie-h
+name: movie.h
+author: L. Ross Raszewski
+description: a library to put non-interactive "cut scenes" into a game, version 3,
+  by L. Ross Raszewski

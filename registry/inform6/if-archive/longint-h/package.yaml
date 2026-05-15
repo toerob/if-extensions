@@ -1,0 +1,6 @@
+schema-version: 1
+id: longint-h
+name: longint.h
+author: Chris Hall and Francis Irving
+description: a library to allow signed and unsigned 4 byte integer arithmetic, Release
+  1. Written by Chris Hall and Francis Irving.

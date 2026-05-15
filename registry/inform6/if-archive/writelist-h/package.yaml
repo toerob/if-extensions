@@ -1,0 +1,7 @@
+schema-version: 1
+id: writelist-h
+name: writelist.h
+author: Roger Firth
+description: Replacement components for the Library list-maker WriteListFrom(), invoking
+  an object's invent property both for inventories AND during room descriptions. Version
+  1.1, written by Roger Firth.

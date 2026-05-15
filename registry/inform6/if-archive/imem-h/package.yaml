@@ -1,0 +1,6 @@
+schema-version: 1
+id: imem-h
+name: imem.h
+author: L. Ross Raszewski
+description: a library to implement run-time allocation of dynamic memory for objects.
+  Version 2.0, by L. Ross Raszewski

@@ -1,0 +1,8 @@
+schema-version: 1
+id: event-list-h
+name: EventList.h
+author: Jim Aikin
+description: A library that provides TADS3 style EventList classes (Shuffled, Cyclic,
+  Stop, Sync, and Distributed) for more realistic conversation systems. EventLists
+  can print text or run a routine from any item in the list. Version 1.00, by Jim
+  Aikin.

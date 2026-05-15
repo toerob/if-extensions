@@ -1,0 +1,6 @@
+schema-version: 1
+id: plback-h
+name: plback.h
+author: Alexandre Muniz
+description: A library extension (for the Platypus library only) that implements a
+  GO BACK verb, by Alexandre Muniz. Version 1.1.

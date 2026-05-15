@@ -1,0 +1,6 @@
+schema-version: 1
+id: infunit-h
+name: infunit.h
+author: Matt Albrecht
+description: A test harness for Inform, based on jUnit (a test harness for Java).
+  Version 1.0, by Matt Albrecht.

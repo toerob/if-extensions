@@ -1,0 +1,7 @@
+schema-version: 1
+id: d-menus-zip
+name: DMenus.zip
+author: Dave Robinson
+description: A menuing system similar to menus.h, but allowing concealed or locked
+  menu items, and (optionally) submenus that are embedded in parent menus. Version
+  7, by Dave Robinson.

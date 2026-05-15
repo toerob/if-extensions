@@ -1,0 +1,6 @@
+schema-version: 1
+id: new-list-zip
+name: NewList.zip
+author: Andreas Hoppler
+description: a customizable replacement for Inform's standard WriteListFrom(), by
+  Andreas Hoppler

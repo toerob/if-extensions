@@ -1,0 +1,6 @@
+schema-version: 1
+id: debugmcs-h
+name: debugmcs.h
+author: Cedric Knight
+description: A library to implement a time-saving command to check Inform source for
+  bugs caused by missing commas, by Cedric Knight.

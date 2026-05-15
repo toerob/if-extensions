@@ -1,0 +1,6 @@
+schema-version: 1
+id: ictype-h
+name: ictype.h
+author: L. Ross Raszewski
+description: An implementation of the ANSI C ctype functions, version 1, by L. Ross
+  Raszewski

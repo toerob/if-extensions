@@ -1,0 +1,6 @@
+schema-version: 1
+id: ask-tell-order-h
+name: AskTellOrder.h
+author: Irene Callaci
+description: a routine for reparsing the player's input, converting input of the form
+  "ASK/TELL THE NPC TO DO SOMETHING" into "NPC, DO SOMETHING", by Irene Callaci.

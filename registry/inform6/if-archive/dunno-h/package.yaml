@@ -1,0 +1,7 @@
+schema-version: 1
+id: dunno-h
+name: dunno.h
+author: Andrew Plotkin
+description: A library to add Infocom-style error messages (e.g. I don't know the
+  word "kludge".) Version 1.1, written by Neil Cerutti and updated for Glulx by Andrew
+  Plotkin.

@@ -1,0 +1,6 @@
+schema-version: 1
+id: okb-scrpt-h
+name: OKBScrpt.h
+author: Brendan Barnwell
+description: A library extension to allow branching, menu-based conversations, by
+  Brendan Barnwell.

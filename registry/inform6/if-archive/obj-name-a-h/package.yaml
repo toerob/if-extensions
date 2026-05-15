@@ -1,0 +1,6 @@
+schema-version: 1
+id: obj-name-a-h
+name: ObjNameA.h
+author: Michael Roy
+description: A library extension to allow objects with "a" in their name properties
+  to parse correctly. Version 1.1, by Michael Roy.

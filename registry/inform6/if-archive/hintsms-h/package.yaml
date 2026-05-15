@@ -1,0 +1,7 @@
+schema-version: 1
+id: hintsms-h
+name: hintsms.h
+author: Peer Schaefer
+description: A hint system similar to that used by Magnetic Scrolls, which requires
+  the user to enter codes from the game's manual to obtain the hint, written by Peer
+  Schaefer.

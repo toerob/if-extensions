@@ -1,0 +1,5 @@
+schema-version: 1
+id: math-h
+name: math.h
+author: Matt Albrecht
+description: A collection of miscellaneous math functions, version 1.0, by Matt Albrecht.

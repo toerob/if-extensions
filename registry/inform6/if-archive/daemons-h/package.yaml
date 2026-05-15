@@ -1,0 +1,6 @@
+schema-version: 1
+id: daemons-h
+name: daemons.h
+author: Roger Firth
+description: a library to cause daemons and timers to execute in priority order. Originally
+  by Andrew Plotkin and reworked for Inform 6 by Roger Firth.

@@ -1,0 +1,5 @@
+schema-version: 2
+date: '2002-10-20'
+source:
+  url: https://www.ifarchive.org/https://www.ifarchive.org/if-archive/infocom/compilers/inform6/library/contributions/shell.zip
+  format: zip

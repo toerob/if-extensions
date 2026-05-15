@@ -1,0 +1,6 @@
+schema-version: 1
+id: branch-h
+name: branch.h
+author: Chris Klimas
+description: a class for branching menus, by Chris Klimas (an example for its use
+  is in </if-archive/games/source/inform/#once.inf>)

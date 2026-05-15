@@ -1,0 +1,6 @@
+schema-version: 1
+id: novel-lib-zip
+name: NovelLib.zip
+author: Ingold
+description: A library for writing games with a "novel" mode, that is, in the style
+  of the author's 2000 Competition entry "My Angel". Written by Ingold.

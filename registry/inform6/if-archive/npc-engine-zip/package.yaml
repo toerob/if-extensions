@@ -1,0 +1,7 @@
+schema-version: 1
+id: npc-engine-zip
+name: npc_engine.zip
+author: Volker Lanz
+description: NPC Engine, a library to help program sophisticated NPCs in Inform. Release
+  8, by Volker Lanz. Archive includes the library file, documentation and an example
+  game.

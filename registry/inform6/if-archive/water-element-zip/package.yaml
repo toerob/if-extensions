@@ -1,0 +1,6 @@
+schema-version: 1
+id: water-element-zip
+name: WaterElement.zip
+author: Emily Short
+description: A library to handle divisible and mixed liquids, floating objects, and
+  absorbent materials, version 0.95b, by Emily Short.

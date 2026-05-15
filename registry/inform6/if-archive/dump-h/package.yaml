@@ -1,0 +1,7 @@
+schema-version: 1
+id: dump-h
+name: dump.h
+author: Roger Firth
+description: Provides debugging verbs DUMP (for displaying parts of the Z-machine
+  memory map) and IS (for reporting what a given number might be). Version 1.1 by
+  Roger Firth.

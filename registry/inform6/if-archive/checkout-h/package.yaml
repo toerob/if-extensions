@@ -1,0 +1,6 @@
+schema-version: 1
+id: checkout-h
+name: checkout.h
+author: Roger Firth
+description: Implements a CHECKOUT debugging verb which identifies asymmetric and
+  one-way paths between rooms. Version 1.0 by Roger Firth.

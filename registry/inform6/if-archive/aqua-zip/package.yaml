@@ -1,0 +1,8 @@
+schema-version: 1
+id: aqua-zip
+name: Aqua.zip
+author: Al Golden
+description: A replacement library for WaterElement.h (which handles divisible and
+  mixed liquids, floating objects, and absorbent materials) which compiles more gracefully
+  under Inform 6.30 and which better handles Glulx. By Al Golden, based on Emily Short's
+  library.

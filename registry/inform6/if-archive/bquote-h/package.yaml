@@ -1,0 +1,6 @@
+schema-version: 1
+id: bquote-h
+name: bquote.h
+author: Martin Oehm
+description: An extension to help printing block quoted text for letters, newspaper
+  clippings etc. Version 1.00, by Martin Oehm.

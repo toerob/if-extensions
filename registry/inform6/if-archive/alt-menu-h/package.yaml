@@ -1,0 +1,6 @@
+schema-version: 1
+id: alt-menu-h
+name: AltMenu.h
+author: L. Ross Raszewski
+description: a library extension to create object-oriented menus, by L. Ross Raszewski,
+  version 6

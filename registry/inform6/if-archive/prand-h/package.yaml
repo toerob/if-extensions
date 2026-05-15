@@ -1,0 +1,5 @@
+schema-version: 1
+id: prand-h
+name: prand.h
+author: Anson Turner
+description: A library for printing random strings, release 1, by Anson Turner.

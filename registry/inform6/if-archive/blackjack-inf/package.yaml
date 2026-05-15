@@ -1,0 +1,6 @@
+schema-version: 1
+id: blackjack-inf
+name: blackjack.inf
+author: Ashok Desai
+description: Inform code to add a blackjack dealer to a game. Version 1.1, written
+  by Ashok Desai.

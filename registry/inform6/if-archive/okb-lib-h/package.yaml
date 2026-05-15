@@ -1,0 +1,5 @@
+schema-version: 1
+id: okb-lib-h
+name: OKBLib.h
+author: Brendan Barnwell
+description: A library of miscellaneous classes and routines, by Brendan Barnwell.

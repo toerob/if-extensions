@@ -1,0 +1,7 @@
+schema-version: 1
+id: torch-h
+name: torch.h
+author: David Griffith
+description: A library allowing the use of torches (the flaming, wooden kind), which
+  can be either good (ready to be ignited), burning, or burnt-out. Written by David
+  Griffith.

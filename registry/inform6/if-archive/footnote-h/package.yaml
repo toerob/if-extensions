@@ -1,0 +1,6 @@
+schema-version: 1
+id: footnote-h
+name: Footnote.h
+author: L. Ross Raszewski
+description: an Inform library extension for Inform 5.5 or greater to produce sequentially
+  numbered footnotes, by L. Ross Raszewski, version 2.0

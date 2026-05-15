@@ -1,0 +1,5 @@
+schema-version: 1
+id: gtalk-inf
+name: gtalk.inf
+author: Greg Boettcher, Krister Fundin and Mark J. Tilford
+description: Demonstration game for gtalk.h.

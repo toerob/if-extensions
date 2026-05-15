@@ -1,0 +1,6 @@
+schema-version: 1
+id: hints-h
+name: Hints.h
+author: L. Ross Raszewski
+description: a library to produce nicely formatted hints, by L. Ross Raszewski, version
+  2

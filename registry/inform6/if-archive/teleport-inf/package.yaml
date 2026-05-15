@@ -1,0 +1,7 @@
+schema-version: 1
+id: teleport-inf
+name: teleport.inf
+author: Jim Fisher and Michael Huang
+description: Inform source to demonstrate how to allow the player to teleport to a
+  room by typing in the room's name as a command, written by Jim Fisher and Michael
+  Huang.

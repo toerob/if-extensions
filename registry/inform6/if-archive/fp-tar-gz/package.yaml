@@ -1,0 +1,7 @@
+schema-version: 1
+id: fp-tar-gz
+name: FP.tar.gz
+author: Kevin Bracey
+description: A library providing IEEE 754 conformant floating point arithmetic for
+  the Z-machine. Release 1/2, by Kevin Bracey. Archive includes the library, documentation
+  and examples.

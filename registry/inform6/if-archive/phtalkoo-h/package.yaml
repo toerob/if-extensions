@@ -1,0 +1,6 @@
+schema-version: 1
+id: phtalkoo-h
+name: phtalkoo.h
+author: David Glasser
+description: menu based conversation system based on Adam Cadre's routines from Photopia
+  (phototalk.inf), modified and object-oriented by David Glasser

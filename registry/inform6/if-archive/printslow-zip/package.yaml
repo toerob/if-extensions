@@ -1,0 +1,7 @@
+schema-version: 1
+id: printslow-zip
+name: printslow.zip
+author: David Cornelson
+description: A function with allows you to print text to the screen at a slower than
+  normal computer speed rate, written by David Cornelson. Archive includes library
+  header and an example.

@@ -1,0 +1,6 @@
+schema-version: 1
+id: rap11-zip
+name: rap11.zip
+author: Nate Cull
+description: Reactive Agent Planner for Inform, a goal seeking library for Inform
+  NPCs. Version 1.1, written by Nate Cull.

@@ -1,0 +1,6 @@
+schema-version: 1
+id: longint-dg-h
+name: longint_dg.h
+author: David Given
+description: A math library for performing 16 and 32 bit mathematical operations,
+  by David Given.

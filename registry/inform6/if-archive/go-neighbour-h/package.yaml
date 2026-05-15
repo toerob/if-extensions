@@ -1,0 +1,6 @@
+schema-version: 1
+id: go-neighbour-h
+name: GoNeighbour.h
+author: Alan Trewartha
+description: GoNeighbour version 0.20, a library extension to allow to go to adjacent
+  rooms with the syntax "go `<room>`", written by Alan Trewartha.

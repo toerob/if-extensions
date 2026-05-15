@@ -1,0 +1,5 @@
+schema-version: 1
+id: cmap-inf
+name: cmap.inf
+author: Rick Dague
+description: an example game demonstrating the use of cmap.h

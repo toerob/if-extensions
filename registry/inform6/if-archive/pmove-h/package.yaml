@@ -1,0 +1,6 @@
+schema-version: 1
+id: pmove-h
+name: pmove.h
+author: L. Ross Raszewski
+description: an extension to move objects while preserving the object lineage, by
+  L. Ross Raszewski

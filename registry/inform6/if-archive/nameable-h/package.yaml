@@ -1,0 +1,6 @@
+schema-version: 1
+id: nameable-h
+name: nameable.h
+author: John Colagioia
+description: An extension to allow objects to be named by the player. Written by John
+  Colagioia, based on code from Graham Nelson's game "Balances".

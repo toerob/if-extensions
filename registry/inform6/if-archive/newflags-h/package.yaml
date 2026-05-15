@@ -1,0 +1,6 @@
+schema-version: 1
+id: newflags-h
+name: newflags.h
+author: Fredrik Ramsberg
+description: A rewrite of Adam Cadre's flags.h library which is designed to be more
+  efficient with system resources. Rewritten by Fredrik Ramsberg.

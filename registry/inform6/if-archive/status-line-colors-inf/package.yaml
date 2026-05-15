@@ -1,0 +1,7 @@
+schema-version: 1
+id: status-line-colors-inf
+name: StatusLineColors.inf
+author: Jay Goemmer and Roger Firth
+description: A library extension that sets the colours of the status bar according
+  to "zones" defined in the game. Colours can be enabled or disabled by the player.
+  Release 1, Serial 030201, by Jay Goemmer and Roger Firth.

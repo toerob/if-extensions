@@ -1,0 +1,8 @@
+schema-version: 1
+id: banner-pause-inf
+name: BannerPause.inf
+author: Jay Goemmer
+description: A library extension to allow the introduction of a pause in the printing
+  of the game's initial banner text, by printing a [MORE] prompt. Pressing any key
+  then displays the opening room and status line. Release 1, Serial 021216, written
+  by Jay Goemmer.

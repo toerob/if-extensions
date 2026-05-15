@@ -1,0 +1,6 @@
+schema-version: 1
+id: man-pro-h
+name: ManPro.h
+author: David Glasser
+description: a library that allows you to let the player toggle automatic pronoun
+  assignment, by David Glasser

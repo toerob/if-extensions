@@ -1,0 +1,6 @@
+schema-version: 1
+id: links-h
+name: links.h
+author: Jayson Smith
+description: a library to implement linkable objects, e.g. an explosive and a detonator,
+  by Jayson Smith.

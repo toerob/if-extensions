@@ -1,0 +1,6 @@
+schema-version: 1
+id: notes-h
+name: notes.h
+author: Anson Turner
+description: A library for implementing footnotes in a game. Release 1, written by
+  Anson Turner.

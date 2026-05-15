@@ -1,0 +1,7 @@
+schema-version: 1
+id: inform-realtime-hack-tar-gz
+name: inform-realtime-hack.tar.gz
+author: Joe Mason
+description: a modification of the parserm.h file from the Inform library 6/7, allowing
+  real-time text input (in the style of Infocom's Border Zone), by Joe Mason Includes
+  the modified library file and a short example

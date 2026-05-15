@@ -1,0 +1,6 @@
+schema-version: 1
+id: player-notepad-h
+name: player_notepad.h
+author: David Fisher
+description: An extension for taking notes during play, as used in Suveh Nux. Version
+  1.0, by David Fisher.

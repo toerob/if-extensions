@@ -1,0 +1,7 @@
+schema-version: 1
+id: shuffle-h
+name: shuffle.h
+author: Roger Firth
+description: A library to pull numbers randomly from a hat until all have been used,
+  whereupon the process restarts; like random(), but avoiding obvious repetition,
+  by Roger Firth.

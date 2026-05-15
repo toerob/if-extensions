@@ -1,0 +1,6 @@
+schema-version: 1
+id: compass-h
+name: compass.h
+author: Jonathan Rosebaugh
+description: a compass management library to remove the walls, floor and ceilings
+  for outdoor areas, written by Jonathan Rosebaugh.

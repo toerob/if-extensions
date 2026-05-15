@@ -1,0 +1,6 @@
+schema-version: 1
+id: isort-h
+name: isort.h
+author: L. Ross Raszewski
+description: An implementation of the quicksort routine for Inform arrays, version
+  1.0, by L. Ross Raszewski.

@@ -1,0 +1,6 @@
+schema-version: 1
+id: phototalk-inf
+name: phototalk.inf
+author: Adam Cadre
+description: routines from the game Photopia dealing with the menu conversation system,
+  by Adam Cadre

@@ -1,0 +1,6 @@
+schema-version: 1
+id: dynmem20-zip
+name: dynmem20.zip
+author: John Cater
+description: a library for dynamic memory use, version 2.0, by John Cater. Archive
+  includes library code, an example program and documentation.

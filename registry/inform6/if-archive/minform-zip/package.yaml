@@ -1,0 +1,6 @@
+schema-version: 1
+id: minform-zip
+name: minform.zip
+author: Dave Bernazzani
+description: mInform 1.1, a cut-down Inform library for generating small story files.
+  Created by Dave Bernazzani, based on Inform library 6/2.

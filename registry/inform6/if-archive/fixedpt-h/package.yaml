@@ -1,0 +1,5 @@
+schema-version: 1
+id: fixedpt-h
+name: fixedpt.h
+author: Matt Albrecht
+description: Routines 16-bit fixed-point math, version 1.0, by Matt Albrecht.

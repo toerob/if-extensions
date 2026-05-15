@@ -1,0 +1,6 @@
+schema-version: 1
+id: multifloyd-h
+name: multifloyd.h
+author: Evin Robertson
+description: a library to enable a game to be connected to ifMUD's multiplayer Floyd
+  bot, by Evin Robertson.

@@ -1,0 +1,6 @@
+schema-version: 1
+id: timesys-h
+name: timesys.h
+author: Kevin Forchione
+description: a library extension that enhances handling of time-oriented games, by
+  Kevin Forchione. Based on both timewait.h (1995) and waittime.h (1996).

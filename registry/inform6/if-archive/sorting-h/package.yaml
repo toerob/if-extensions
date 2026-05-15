@@ -1,0 +1,6 @@
+schema-version: 1
+id: sorting-h
+name: sorting.h
+author: Fredrik Ramsberg
+description: Implementation of quick sort, insertion sort and shell sort routines,
+  version 1.2, by Fredrik Ramsberg.

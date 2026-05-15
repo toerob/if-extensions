@@ -1,0 +1,7 @@
+schema-version: 1
+id: waittime-h
+name: waittime.h
+author: Nicholas Daley
+description: a library to provide understanding of English time strings, to give an
+  enhanced "wait" command. Written by L. Ross Raszewski and updated to Inform 6 by
+  Nicholas Daley

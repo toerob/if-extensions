@@ -1,0 +1,6 @@
+schema-version: 1
+id: wearable-zip
+name: wearable.zip
+author: she's long gone
+description: A library for clothing, by "she's long gone". Includes the library, documentation
+  and a demonstration game.

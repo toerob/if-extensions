@@ -1,0 +1,6 @@
+schema-version: 1
+id: utility-h
+name: utility.h
+author: L. Ross Raszewski
+description: A library of useful Inform functions, version 4.0, by L. Ross Raszewski.
+  Also works under Glulx.

@@ -1,0 +1,6 @@
+schema-version: 1
+id: sample-transcript-h
+name: SampleTranscript.h
+author: Emily Short
+description: A library which containts two Infocom-style sample transcripts, which
+  can be inserted into a game. By Emily Short.

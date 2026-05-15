@@ -1,0 +1,5 @@
+schema-version: 1
+id: text-functions-inf
+name: text_functions.inf
+author: Patrick Kellum
+description: an example demonstrating the use of text_functions.h

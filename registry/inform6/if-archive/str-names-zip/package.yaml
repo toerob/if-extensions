@@ -1,0 +1,7 @@
+schema-version: 1
+id: str-names-zip
+name: StrNames.zip
+author: Chipjack
+description: A class that allows for the use of strings as names for an object, getting
+  around the 9-character dictionary-word limitation. Includes a thorough example game.
+  Version 0.2, written by Chipjack.

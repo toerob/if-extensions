@@ -1,0 +1,7 @@
+schema-version: 1
+id: easydoors-h
+name: easydoors.h
+author: Andrew MacKinnon when not locked, and status styles)
+description: A library extension that allows simple creation of doors, version 3.0,
+  by Andrew MacKinnon. It also has a few extra features (automatic door opening when
+  not locked, and status styles).

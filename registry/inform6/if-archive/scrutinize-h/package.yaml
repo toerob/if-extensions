@@ -1,0 +1,6 @@
+schema-version: 1
+id: scrutinize-h
+name: scrutinize.h
+author: Fredrik Ramsberg
+description: An extension to help find missing synonyms for objects, written by Fredrik
+  Ramsberg.

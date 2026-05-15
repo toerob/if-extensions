@@ -1,0 +1,9 @@
+schema-version: 1
+id: howtoplay-h
+name: howtoplay.h
+author: Michael Coyne
+description: Implements a HELP verb that displays Fredrik Ramsberg's "How to Play"
+  instructions from his "A Beginner's Guide to Playing Interactive Fiction." If used
+  with Menus, the library displays the instructions in a menu; otherwise, the text
+  is displayed in the main screen. By Michael Coyne. Version 1.3, updated to work
+  with Inform 6.3 and DMenus.

@@ -1,0 +1,7 @@
+schema-version: 1
+id: inf-aud13-zip
+name: InfAud13.zip
+author: Donnie E. Russell II
+description: InfAud 1.3, a system to allow Zcode and Glulx games to play sound files
+  through an external sound players, written by Donnie E. Russell II. Included are
+  Windows executables, library and example files.

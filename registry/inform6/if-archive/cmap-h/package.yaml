@@ -1,0 +1,5 @@
+schema-version: 1
+id: cmap-h
+name: cmap.h
+author: Rick Dague
+description: a library to allow easy creation of game maps, by Rick Dague

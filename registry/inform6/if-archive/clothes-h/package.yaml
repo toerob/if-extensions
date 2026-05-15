@@ -1,0 +1,7 @@
+schema-version: 1
+id: clothes-h
+name: clothes.h
+author: Timothy Groves
+description: A library defining a clothes class for easy clothing handling. Set area,
+  level, and covering for pieces of clothing. Written by Denis Moskowitz and updated
+  by Timothy Groves.

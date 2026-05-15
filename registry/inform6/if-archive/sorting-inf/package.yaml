@@ -1,0 +1,5 @@
+schema-version: 1
+id: sorting-inf
+name: sorting.inf
+author: Fredrik Ramsberg
+description: An example using the sort routines in sorting.h, by Fredrik Ramsberg.

@@ -1,0 +1,7 @@
+schema-version: 1
+id: 3phtalk-h
+name: 3phtalk.h
+author: Hunter Hoke
+description: menu based conversation system based on Adam Cadre's routines from Photopia
+  (phototalk.inf), modified and object-oriented by David Glasser, then adapted to
+  Triform 1.2 by Hunter Hoke.

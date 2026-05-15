@@ -1,0 +1,6 @@
+schema-version: 1
+id: inform-realtime-hack-610-zip
+name: inform-realtime-hack-610.zip
+author: Gunther Schmidl
+description: Joe Mason's library modification to allowing real-time text input (in
+  the style of Infocom's Border Zone), updated to Inform library 6/10 by Gunther Schmidl.

@@ -1,0 +1,5 @@
+schema-version: 1
+id: dynobj-h
+name: dynobj.h
+author: John Cater
+description: a library to implement truly dynamic objects, by John Cater

@@ -1,0 +1,6 @@
+schema-version: 1
+id: mathpars-h
+name: mathpars.h
+author: Matt Albrecht
+description: Grammar parsing routines for big numbers (in decimal, hex, or binary),
+  version 1.0, by Matt Albrecht.

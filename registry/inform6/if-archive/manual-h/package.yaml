@@ -1,0 +1,6 @@
+schema-version: 1
+id: manual-h
+name: manual.h
+author: L. Ross Raszewski
+description: a library to generate browsable text for Z-Machine books and built-in
+  manuals, version 5.0, by L. Ross Raszewski

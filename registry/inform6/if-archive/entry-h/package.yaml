@@ -1,0 +1,6 @@
+schema-version: 1
+id: entry-h
+name: Entry.h
+author: Brendan Barnwell
+description: A library extension that extends the entry point routine functionality
+  of the standard library, by Brendan Barnwell.

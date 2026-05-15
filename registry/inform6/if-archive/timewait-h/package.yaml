@@ -1,0 +1,7 @@
+schema-version: 1
+id: timewait-h
+name: timewait.h
+author: Nicholas Daley
+description: Time/Wait Library, release 3. A library to support parsing the time of
+  day and "wait until three o'clock" commands. Written by Andrew Clover and updated
+  to Inform 6 by Nicholas Daley

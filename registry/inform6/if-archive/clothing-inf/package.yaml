@@ -1,0 +1,5 @@
+schema-version: 1
+id: clothing-inf
+name: clothing.inf
+author: Denis Moskowitz
+description: an example game demonstrating the use of clothing.h

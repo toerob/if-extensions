@@ -1,0 +1,5 @@
+schema-version: 1
+id: flags-h
+name: flags.h
+author: Adam Cadre
+description: A module for implementing boolean flags in Inform, written by Adam Cadre

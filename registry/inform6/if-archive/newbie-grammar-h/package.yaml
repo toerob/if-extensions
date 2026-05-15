@@ -1,0 +1,7 @@
+schema-version: 1
+id: newbie-grammar-h
+name: NewbieGrammar.h
+author: Emily Short
+description: Grammar lines and some verb routines to catch and correct non-standard
+  behavior by new players. Works best with HelpRoutines.h, though that is not a requirement.
+  Version 0.6, by Emily Short.

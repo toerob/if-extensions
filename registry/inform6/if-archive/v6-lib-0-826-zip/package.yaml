@@ -1,0 +1,7 @@
+schema-version: 1
+id: v6-lib-0-826-zip
+name: V6Lib-0_826.zip
+author: Jason C. Penney
+description: V6Lib version 0.826, an Inform Library that helps programmers write games
+  for the Version 6 Z-Machine, written by Jason C. Penney. It has support for multiple
+  text windows, images, and sounds.

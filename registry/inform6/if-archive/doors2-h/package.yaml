@@ -1,0 +1,6 @@
+schema-version: 1
+id: doors2-h
+name: doors2.h
+author: Max Kalus
+description: a library to make the parsing of directions for doors easier, by Max
+  Kalus

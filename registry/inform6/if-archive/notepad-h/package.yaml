@@ -1,0 +1,7 @@
+schema-version: 1
+id: notepad-h
+name: notepad.h
+author: Gunther Schmidl
+description: A library that allows a game player to take short notes during play and
+  delete them again. Also has methods for the game author to add, delete and manipulate
+  notes. Release 1.000227, written by Gunther Schmidl.

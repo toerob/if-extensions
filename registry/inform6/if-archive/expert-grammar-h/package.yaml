@@ -1,0 +1,6 @@
+schema-version: 1
+id: expert-grammar-h
+name: ExpertGrammar.h
+author: Emily Short
+description: Extensions to the standard Inform grammar incorporating a number of commonly-requested
+  features. Version 0.6, by Emily Short.

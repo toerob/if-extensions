@@ -1,0 +1,7 @@
+schema-version: 1
+id: scenic-h
+name: scenic.h
+author: Richard Barnett
+description: Supports lightweight scenery 'objects', embedded in room objects, which
+  can be examined but not otherwise manipulated. Version 3.1, written by Richard Barnett,
+  Joe Mason, Roger Firth and Stefano Gaburri.

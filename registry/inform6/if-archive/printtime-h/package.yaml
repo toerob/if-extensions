@@ -1,0 +1,6 @@
+schema-version: 1
+id: printtime-h
+name: printtime.h
+author: Erik Hetzner
+description: a library to print a time in a chosen format, by Erik Hetzner. Release
+  981031

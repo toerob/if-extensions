@@ -1,0 +1,6 @@
+schema-version: 1
+id: oldaemon-h
+name: oldaemon.h
+author: L. Ross Raszewski
+description: A daemon which combines multiple objectloops into a single loop, thus
+  improving performance. Version 1.0, by L. Ross Raszewski.
