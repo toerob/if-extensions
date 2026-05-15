@@ -28,7 +28,7 @@ registry/
 
 The namespace groups related packages under a single directory. Use a kebab-case slug of the author's name (e.g. `aaron-reed`, `eric-eve`). For packages sourced from the IF Archive with no clear individual publisher, use `if-archive`.
 
-The structure is always exactly three levels deep: `{system}/{namespace}/{id}/`. A fourth level is not supported — `pif` looks for `package.yaml` at the third level and will not find it any deeper. For `if-archive` packages there is therefore no author path component; author attribution is recorded in `package.yaml` instead.
+The structure is always exactly three levels deep: `{system}/{namespace}/{id}/`. A fourth level is not supported — `pif` looks for `package.yaml` at the third level and will not find it any deeper. 
 
 ### Package ID
 
