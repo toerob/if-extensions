@@ -1,0 +1,5 @@
+schema-version: 1
+id: threaded-conversation
+name: ThreadedConversation
+author: Howard M. Lewis Ship
+description: Implementation of threaded conversation for the Dialog IF language
