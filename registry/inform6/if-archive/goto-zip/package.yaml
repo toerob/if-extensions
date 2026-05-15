@@ -1,9 +1,7 @@
 schema-version: 1
 id: goto-zip
 name: goto.zip
-author: Toni Arnold to have the same player movement as Magnetic Scrolls games. Archive
-  includes HTML documentation, a Perl script to convert existing source code, and
-  a converted version of the game "Adventure"
+author: Toni Arnold
 description: a library which implements the "go to `<a location>`" verb, written by
   Toni Arnold. Together with the library "dirs_2.h" this allows Inform games to have
   the same player movement as Magnetic Scrolls games. Archive includes HTML documentation,
