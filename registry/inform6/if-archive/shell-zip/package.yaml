@@ -1,6 +1,0 @@
-schema-version: 1
-id: shell-zip
-name: shell.zip
-author: By L. Ross Raszewski
-description: A skeleton shell for starting coding a game from. Includes code to make
-  the character male or female, hints, magic words and a comment verb.

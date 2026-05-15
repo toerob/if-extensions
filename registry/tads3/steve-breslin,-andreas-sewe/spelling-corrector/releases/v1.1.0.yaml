@@ -1,0 +1,10 @@
+schema-version: 2
+maintainer: Steve Breslin, Andreas Sewe
+date: '2006-03-22'
+source:
+  url: https://www.ifarchive.org/if-archive/programming/tads3/library/contributions/SpellingCorrector.t
+  format: t
+build:
+  exports:
+  - type: source
+    path: SpellingCorrector

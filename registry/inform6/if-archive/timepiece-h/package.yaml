@@ -1,6 +1,0 @@
-schema-version: 1
-id: timepiece-h
-name: timepiece.h
-author: Erik Hetzner. Release 981031
-description: a library of classes to implement watches, clocks, etc., by Erik Hetzner.
-  Release 981031

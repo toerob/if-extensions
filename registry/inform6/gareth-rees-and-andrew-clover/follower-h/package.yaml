@@ -1,0 +1,7 @@
+schema-version: 1
+id: follower-h
+name: follower.h
+author: Gareth Rees, Andrew Clover
+description: '"Follower Library" release 3, by Gareth Rees and Andrew Clover, updated
+  for use with Inform 6 by Neil Brown. A library providing support for creatures and
+  things that can be followed by the player.'

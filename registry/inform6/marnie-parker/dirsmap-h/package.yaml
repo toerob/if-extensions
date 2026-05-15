@@ -1,0 +1,7 @@
+schema-version: 1
+id: dirsmap-h
+name: dirsmap.h
+author: Marnie Parker
+description: Dirsmap version 2.10, by Marnie Parker Adds a 'directions' command to
+  Inform. Depending on the current dirs_style, available exits are shown either with
+  a map or in a sentence.
