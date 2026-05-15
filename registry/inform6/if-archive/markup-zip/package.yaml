@@ -1,7 +1,7 @@
 schema-version: 1
 id: markup-zip
 name: Markup.zip
-author: Simon Baldwin
+author: Simon Baldwin compiled for both Glulx and Z-code
 description: A HTML-like markup extension for Glulx and Z-code, allowing markup of
   text styles and formatting, inline pictures and hyperlinks (the latter two for Glulx
   only), by Simon Baldwin. Archive includes the library, example code and the example
