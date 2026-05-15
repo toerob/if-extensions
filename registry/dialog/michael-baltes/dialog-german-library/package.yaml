@@ -1,0 +1,5 @@
+schema-version: 1
+id: dialog-german-library
+name: Dialog-German-Library
+author: Michael Baltes
+description: German Library Extension for Dialog Language

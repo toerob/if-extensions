@@ -1,0 +1,6 @@
+schema-version: 1
+date: 2022-09-13
+source:
+  url: https://github.com/mikawa/Dialog-German-Library
+  format: git
+  branch: master
