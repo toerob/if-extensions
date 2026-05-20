@@ -9,7 +9,7 @@ additionalProperties: false
 properties:
   schema-version:
     type: integer
-    const: 2
+    const: 1
   date:
     type: string
     format: date

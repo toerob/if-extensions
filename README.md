@@ -62,7 +62,7 @@ tags:
 
 ---
 
-## `releases/v{version}.yaml` — schema version 2
+## `releases/v{version}.yaml` — schema version 1
 
 One file per release. The filename encodes the version.
 
@@ -75,7 +75,7 @@ One file per release. The filename encodes the version.
 ### Full schema
 
 ```yaml
-schema-version: 2
+schema-version: 1
 maintainer: Aaron Reed
 channel: stable
 date: '2024-01-15'
@@ -101,7 +101,7 @@ build:
 
 | Field            | Required | Description                                                      |
 |------------------|----------|------------------------------------------------------------------|
-| `schema-version` | yes      | Always `2`                                                       |
+| `schema-version` | yes      | Always `1`                                                       |
 | `maintainer`     | no       | Person maintaining this registry entry (may differ from author) |
 | `channel`        | no       | `stable` or `beta`. Defaults to `stable` if absent              |
 | `date`           | no       | Release date in `YYYY-MM-DD` format                             |
@@ -214,7 +214,7 @@ tags:
 
 `registry/tads3/tomas-oberg/t3cartographer/releases/v0.7.0.yaml`:
 ```yaml
-schema-version: 2
+schema-version: 1
 maintainer: Tomas Öberg
 date: '2022-08-14'
 source:
@@ -230,7 +230,7 @@ build:
 
 `registry/inform/aaron-reed/smarter-parser/releases/v16-i10.1.yaml`:
 ```yaml
-schema-version: 2
+schema-version: 1
 maintainer: Aaron Reed
 channel: stable
 compatibility:
