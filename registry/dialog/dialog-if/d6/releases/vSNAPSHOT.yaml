@@ -4,6 +4,5 @@ date: '2026-05-19'
 source:
   url: https://raw.githubusercontent.com/Dialog-IF/dialog-extensions/refs/heads/main/d6.dg
   format: dg
-
 dependencies:
   - id: dialog/dialog-if/utils

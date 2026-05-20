@@ -6,5 +6,4 @@ source:
   format: dg
 dependencies:
   - id: dialog/dialog-if/utils
-dependencies:
   - id: dialog/dialog-if/grid
