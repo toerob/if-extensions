@@ -1,0 +1,8 @@
+schema-version: 1
+maintainer: Susan Davis
+date: '2026-05-19'
+source:
+  url: https://raw.githubusercontent.com/Dialog-IF/dialog-extensions/refs/heads/main/grid.dg
+  format: dg
+dependencies:
+  - id: dialog/dialog-if/utils

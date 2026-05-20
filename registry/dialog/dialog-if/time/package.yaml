@@ -1,0 +1,5 @@
+schema-version: 1
+id: time
+name: time
+author: Susan Davis
+description: Useful utilities for handling the date and time of day.

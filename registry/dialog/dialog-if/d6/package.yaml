@@ -1,0 +1,5 @@
+schema-version: 1
+id: d6
+name: d6
+author: Susan Davis
+description: Simplified version of dice.dg for games that only need six-sided dice.

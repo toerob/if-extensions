@@ -1,0 +1,7 @@
+schema-version: 1
+maintainer: Susan Davis
+date: '2026-05-19'
+source:
+  url: https://raw.githubusercontent.com/Dialog-IF/dialog-extensions/1115ba7f3f4a2635750b4a5ee4ec941bc469d0b9/unit-0m03.dg
+  format: dg
+

@@ -1,0 +1,5 @@
+schema-version: 1
+id: unit
+name: unit
+author: Susan Davis
+description: Standard Dialog unit testing framework.

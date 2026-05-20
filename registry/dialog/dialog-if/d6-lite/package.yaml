@@ -1,0 +1,5 @@
+schema-version: 1
+id: d6-lite
+name: d6-lite
+author: Susan Davis
+description: Version of d6.dg that just leans on the built-in (random from $ to $ into $) predicate.

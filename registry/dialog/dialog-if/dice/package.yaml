@@ -1,0 +1,5 @@
+schema-version: 1
+id: dice
+name: dice
+author: Susan Davis
+description: UNDO-safe random number generator, based around fair rolls with good randomness stored in a table.

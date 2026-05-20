@@ -1,0 +1,6 @@
+schema-version: 1
+maintainer: Susan Davis
+date: '2026-05-19'
+source:
+  url: https://raw.githubusercontent.com/Dialog-IF/dialog-extensions/refs/heads/main/dice-lite.dg
+  format: dg

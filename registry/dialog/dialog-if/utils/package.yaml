@@ -1,0 +1,5 @@
+schema-version: 1
+id: utils
+name: utils
+author: Susan Davis
+description: Grab bag of useful methods for arithmetic and list handling.

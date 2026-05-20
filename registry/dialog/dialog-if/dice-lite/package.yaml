@@ -1,0 +1,5 @@
+schema-version: 1
+id: dice-lite
+name: dice-lite
+author: Susan Davis
+description: Version of dice.dg that just leans on the built-in (random from $ to $ into $) predicate.
