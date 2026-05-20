@@ -1,0 +1,6 @@
+schema-version: 1
+id: state-machine
+name: stateMachine
+author: Diegesis & Mimesis
+description: A TADS3 module implementing simple finite state machines based on the
+  ruleEngine module.

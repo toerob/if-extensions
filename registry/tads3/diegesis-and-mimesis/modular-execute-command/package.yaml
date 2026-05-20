@@ -1,0 +1,6 @@
+schema-version: 1
+id: modular-execute-command
+name: modularExecuteCommand
+author: Diegesis & Mimesis
+description: This is a replacement for adv3's default executeCommand() function, re-
+  organized to make updates/modification simpler (hopefully).

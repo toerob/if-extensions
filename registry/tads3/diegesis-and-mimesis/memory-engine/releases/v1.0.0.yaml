@@ -1,0 +1,15 @@
+schema-version: 2
+maintainer: Diegesis & Mimesis
+date: '2026-02-17'
+dependencies:
+  - id: tads3/diegesis-and-mimesis/output-toggle
+  - id: tads3/diegesis-and-mimesis/syslog
+  - id: tads3/diegesis-and-mimesis/unique-id
+source:
+  url: https://github.com/diegesisandmimesis/memoryEngine.git
+  format: git
+  branch: main
+build:
+  exports:
+  - type: lib
+    path: memoryEngine/memoryEngine

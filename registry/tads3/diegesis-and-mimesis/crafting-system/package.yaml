@@ -1,0 +1,5 @@
+schema-version: 1
+id: crafting-system
+name: craftingSystem
+author: Diegesis & Mimesis
+description: A TADS3 module for implementing crafting systems

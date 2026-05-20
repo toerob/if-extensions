@@ -1,0 +1,6 @@
+schema-version: 1
+id: location-history
+name: locationHistory
+author: Diegesis & Mimesis
+description: A TADS3/adv3 module providing a mechanism for tracking the locations occupied
+  by Actors

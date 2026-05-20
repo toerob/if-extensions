@@ -1,0 +1,11 @@
+schema-version: 2
+maintainer: Diegesis & Mimesis
+date: '2024-12-06'
+source:
+  url: https://github.com/diegesisandmimesis/dynamicVocab.git
+  format: git
+  branch: main
+build:
+  exports:
+  - type: lib
+    path: dynamicVocab/dynamicVocab

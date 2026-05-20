@@ -1,0 +1,5 @@
+schema-version: 1
+id: markov-chain
+name: markovChain
+author: Diegesis & Mimesis
+description: A TADS3/adv3 module for implementing discrete Markov chains

@@ -1,0 +1,6 @@
+schema-version: 1
+id: msg-queue
+name: msgQueue
+author: Diegesis & Mimesis
+description: A TADS3 module that implements a simple message queue with explicit message
+  priorities.

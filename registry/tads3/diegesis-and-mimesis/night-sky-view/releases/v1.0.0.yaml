@@ -1,0 +1,13 @@
+schema-version: 2
+maintainer: Diegesis & Mimesis
+date: '2024-03-20'
+dependencies:
+  - id: tads3/diegesis-and-mimesis/night-sky
+source:
+  url: https://github.com/diegesisandmimesis/nightSkyView.git
+  format: git
+  branch: main
+build:
+  exports:
+  - type: lib
+    path: nightSkyView/nightSkyView

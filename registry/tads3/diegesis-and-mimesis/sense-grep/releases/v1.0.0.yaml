@@ -1,0 +1,11 @@
+schema-version: 2
+maintainer: Diegesis & Mimesis
+date: '2023-10-11'
+source:
+  url: https://github.com/diegesisandmimesis/senseGrep.git
+  format: git
+  branch: main
+build:
+  exports:
+  - type: lib
+    path: senseGrep/senseGrep

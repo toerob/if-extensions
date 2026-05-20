@@ -1,0 +1,11 @@
+schema-version: 2
+maintainer: Diegesis & Mimesis
+date: '2025-06-11'
+source:
+  url: https://github.com/diegesisandmimesis/debugToolKit.git
+  format: git
+  branch: main
+build:
+  exports:
+  - type: lib
+    path: debugToolKit/debugToolKit

@@ -1,0 +1,17 @@
+schema-version: 2
+maintainer: Diegesis & Mimesis
+date: '2024-02-23'
+dependencies:
+  - id: tads3/diegesis-and-mimesis/before-after
+  - id: tads3/diegesis-and-mimesis/linter
+  - id: tads3/diegesis-and-mimesis/sense-grep
+  - id: tads3/diegesis-and-mimesis/syslog
+  - id: tads3/diegesis-and-mimesis/timestamp
+source:
+  url: https://github.com/diegesisandmimesis/ruleEngine.git
+  format: git
+  branch: main
+build:
+  exports:
+  - type: lib
+    path: ruleEngine/ruleEngine

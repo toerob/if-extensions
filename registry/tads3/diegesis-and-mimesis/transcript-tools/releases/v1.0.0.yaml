@@ -1,0 +1,15 @@
+schema-version: 2
+maintainer: Diegesis & Mimesis
+date: '2025-10-16'
+dependencies:
+  - id: tads3/diegesis-and-mimesis/buffered-output-filter
+  - id: tads3/diegesis-and-mimesis/debug-tool-kit
+  - id: tads3/diegesis-and-mimesis/syslog
+source:
+  url: https://github.com/diegesisandmimesis/transcriptTools.git
+  format: git
+  branch: main
+build:
+  exports:
+  - type: lib
+    path: transcriptTools/transcriptTools

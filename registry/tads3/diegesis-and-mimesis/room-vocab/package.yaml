@@ -1,0 +1,5 @@
+schema-version: 1
+id: room-vocab
+name: roomVocab
+author: Diegesis & Mimesis
+description: A simple TADS3/adv3 that makes it easier to refer to rooms in actions.

@@ -1,0 +1,5 @@
+schema-version: 1
+id: resolver-pre-condition
+name: resolverPreCondition
+author: Diegesis & Mimesis
+description: A TADS3/adv3 module for adding preconditions to the action resolver phase

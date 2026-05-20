@@ -1,0 +1,6 @@
+schema-version: 1
+id: more-failure-reports
+name: moreFailureReports
+author: Diegesis & Mimesis
+description: Patches for places in adv3 where actions fail without the failure being flagged
+  in the transcript.

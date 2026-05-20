@@ -1,0 +1,5 @@
+schema-version: 1
+id: is-type
+name: isType
+author: Diegesis & Mimesis
+description: A TADS3 header providing macros for testing object type and class membership

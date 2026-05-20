@@ -1,0 +1,13 @@
+schema-version: 2
+maintainer: Diegesis & Mimesis
+date: '2025-02-19'
+dependencies:
+  - id: tads3/diegesis-and-mimesis/simple-random-map
+source:
+  url: https://github.com/diegesisandmimesis/worstCase.git
+  format: git
+  branch: main
+build:
+  exports:
+  - type: lib
+    path: worstCase/worstCase

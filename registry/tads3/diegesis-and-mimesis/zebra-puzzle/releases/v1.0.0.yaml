@@ -1,0 +1,11 @@
+schema-version: 2
+maintainer: Diegesis & Mimesis
+date: '2025-11-03'
+source:
+  url: https://github.com/diegesisandmimesis/zebraPuzzle.git
+  format: git
+  branch: main
+build:
+  exports:
+  - type: lib
+    path: zebraPuzzle/zebraPuzzle

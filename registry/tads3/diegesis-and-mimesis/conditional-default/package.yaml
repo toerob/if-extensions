@@ -1,0 +1,5 @@
+schema-version: 1
+id: conditional-default
+name: conditionalDefault
+author: Diegesis & Mimesis
+description: A TADS3/adv3 module implementing dobjFor(Default) with optional fall-through

@@ -1,0 +1,16 @@
+schema-version: 2
+maintainer: Diegesis & Mimesis
+date: '2025-07-02'
+dependencies:
+  - id: tads3/diegesis-and-mimesis/calendar
+  - id: tads3/diegesis-and-mimesis/event-handler
+  - id: tads3/diegesis-and-mimesis/syslog
+  - id: tads3/diegesis-and-mimesis/target-engine
+source:
+  url: https://github.com/diegesisandmimesis/dailySchedule.git
+  format: git
+  branch: main
+build:
+  exports:
+  - type: lib
+    path: dailySchedule/dailySchedule

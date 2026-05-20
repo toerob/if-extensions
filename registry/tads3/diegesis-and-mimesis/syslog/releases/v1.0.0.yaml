@@ -1,0 +1,11 @@
+schema-version: 2
+maintainer: Diegesis & Mimesis
+date: '2024-11-13'
+source:
+  url: https://github.com/diegesisandmimesis/syslog.git
+  format: git
+  branch: main
+build:
+  exports:
+  - type: lib
+    path: syslog/syslog

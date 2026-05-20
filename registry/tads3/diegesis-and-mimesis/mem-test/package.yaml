@@ -1,0 +1,6 @@
+schema-version: 1
+id: mem-test
+name: memTest
+author: Diegesis & Mimesis
+description: A TADS3 module that provides a simple mechanism for doing before and after
+  testing of savefile size.

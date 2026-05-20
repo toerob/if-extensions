@@ -1,0 +1,13 @@
+schema-version: 2
+maintainer: Diegesis & Mimesis
+date: '2025-09-27'
+dependencies:
+  - id: tads3/diegesis-and-mimesis/output-toggle
+source:
+  url: https://github.com/diegesisandmimesis/thirdPersonAction.git
+  format: git
+  branch: main
+build:
+  exports:
+  - type: lib
+    path: thirdPersonAction/thirdPersonAction

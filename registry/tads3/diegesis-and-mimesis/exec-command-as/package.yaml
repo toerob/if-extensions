@@ -1,0 +1,6 @@
+schema-version: 1
+id: exec-command-as
+name: execCommandAs
+author: Diegesis & Mimesis
+description: A TADS3/adv3 module providing an interface for executing command strings as
+  arbitrary actors

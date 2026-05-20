@@ -1,0 +1,5 @@
+schema-version: 1
+id: actor-action-messages
+name: actorActionMessages
+author: Diegesis & Mimesis
+description: A TADS3/adv3 module providing per-actor action message objects

@@ -1,0 +1,5 @@
+schema-version: 1
+id: simple-cipher
+name: simpleCipher
+author: Diegesis & Mimesis
+description: A TADS3/adv3 module providing several simple cipher algorithms.

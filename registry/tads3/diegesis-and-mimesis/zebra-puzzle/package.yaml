@@ -1,0 +1,5 @@
+schema-version: 1
+id: zebra-puzzle
+name: zebraPuzzle
+author: Diegesis & Mimesis
+description: Extension to the AC-3 class in the dataTypes module that handles Zebra Puzzles.

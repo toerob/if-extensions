@@ -1,0 +1,11 @@
+schema-version: 2
+maintainer: Diegesis & Mimesis
+date: '2026-03-13'
+source:
+  url: https://github.com/diegesisandmimesis/isType.git
+  format: git
+  branch: main
+build:
+  exports:
+  - type: lib
+    path: isType/isType

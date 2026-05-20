@@ -1,0 +1,5 @@
+schema-version: 1
+id: report-manager
+name: reportManager
+author: Diegesis & Mimesis
+description: A TADS3/adv3 module for implementing per-object/class report managers.

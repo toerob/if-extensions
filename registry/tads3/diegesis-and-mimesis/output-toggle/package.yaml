@@ -1,0 +1,6 @@
+schema-version: 1
+id: output-toggle
+name: outputToggle
+author: Diegesis & Mimesis
+description: This is a very simple TADS3/adv3 module that provides an output filter that
+  will block all normal output.

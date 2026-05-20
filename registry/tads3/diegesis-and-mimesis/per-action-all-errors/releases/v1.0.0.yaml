@@ -1,0 +1,11 @@
+schema-version: 2
+maintainer: Diegesis & Mimesis
+date: '2024-04-26'
+source:
+  url: https://github.com/diegesisandmimesis/perActionAllErrors.git
+  format: git
+  branch: main
+build:
+  exports:
+  - type: lib
+    path: perActionAllErrors/perActionAllErrors

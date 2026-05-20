@@ -1,0 +1,6 @@
+schema-version: 1
+id: per-action-all-errors
+name: perActionAllErrors
+author: Diegesis & Mimesis
+description: A TADS3/adv3 module allowing per-action failure messages for commands involving
+  "all".

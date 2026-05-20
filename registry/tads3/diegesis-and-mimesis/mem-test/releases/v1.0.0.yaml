@@ -1,0 +1,11 @@
+schema-version: 2
+maintainer: Diegesis & Mimesis
+date: '2025-05-21'
+source:
+  url: https://github.com/diegesisandmimesis/memTest.git
+  format: git
+  branch: main
+build:
+  exports:
+  - type: lib
+    path: memTest/memTest

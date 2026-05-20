@@ -1,0 +1,13 @@
+schema-version: 2
+maintainer: Diegesis & Mimesis
+date: '2024-05-20'
+dependencies:
+  - id: tads3/diegesis-and-mimesis/syslog
+source:
+  url: https://github.com/diegesisandmimesis/playingCards.git
+  format: git
+  branch: main
+build:
+  exports:
+  - type: lib
+    path: playingCards/playingCards

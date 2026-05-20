@@ -1,0 +1,11 @@
+schema-version: 2
+maintainer: Diegesis & Mimesis
+date: '2024-01-19'
+source:
+  url: https://github.com/diegesisandmimesis/moreFailureReports.git
+  format: git
+  branch: main
+build:
+  exports:
+  - type: lib
+    path: moreFailureReports/moreFailureReports

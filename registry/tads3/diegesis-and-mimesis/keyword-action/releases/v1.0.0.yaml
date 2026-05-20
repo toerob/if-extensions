@@ -1,0 +1,11 @@
+schema-version: 2
+maintainer: Diegesis & Mimesis
+date: '2026-02-20'
+source:
+  url: https://github.com/diegesisandmimesis/keywordAction.git
+  format: git
+  branch: main
+build:
+  exports:
+  - type: lib
+    path: keywordAction/keywordAction

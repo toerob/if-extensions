@@ -1,0 +1,13 @@
+schema-version: 2
+maintainer: Diegesis & Mimesis
+date: '2023-08-14'
+dependencies:
+  - id: tads3/diegesis-and-mimesis/modular-execute-command
+source:
+  url: https://github.com/diegesisandmimesis/resolverPreCondition.git
+  format: git
+  branch: main
+build:
+  exports:
+  - type: lib
+    path: resolverPreCondition/resolverPreCondition

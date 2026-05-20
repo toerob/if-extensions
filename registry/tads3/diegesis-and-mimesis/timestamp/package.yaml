@@ -1,0 +1,5 @@
+schema-version: 1
+id: timestamp
+name: timestamp
+author: Diegesis & Mimesis
+description: A TADS3/adv3 module implementing a timestamp mechanism.

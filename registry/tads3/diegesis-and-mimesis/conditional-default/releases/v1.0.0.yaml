@@ -1,0 +1,11 @@
+schema-version: 2
+maintainer: Diegesis & Mimesis
+date: '2024-05-08'
+source:
+  url: https://github.com/diegesisandmimesis/conditionalDefault.git
+  format: git
+  branch: main
+build:
+  exports:
+  - type: lib
+    path: conditionalDefault/conditionalDefault

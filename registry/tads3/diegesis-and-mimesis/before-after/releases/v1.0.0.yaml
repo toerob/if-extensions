@@ -1,0 +1,11 @@
+schema-version: 2
+maintainer: Diegesis & Mimesis
+date: '2023-09-30'
+source:
+  url: https://github.com/diegesisandmimesis/beforeAfter.git
+  format: git
+  branch: main
+build:
+  exports:
+  - type: lib
+    path: beforeAfter/beforeAfter

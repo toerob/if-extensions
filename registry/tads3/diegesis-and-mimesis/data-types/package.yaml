@@ -1,0 +1,5 @@
+schema-version: 1
+id: data-types
+name: dataTypes
+author: Diegesis & Mimesis
+description: A TADS3/adv3 module providing several basic data structures

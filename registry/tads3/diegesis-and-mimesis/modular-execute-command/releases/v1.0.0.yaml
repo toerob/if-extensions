@@ -1,0 +1,11 @@
+schema-version: 2
+maintainer: Diegesis & Mimesis
+date: '2025-09-23'
+source:
+  url: https://github.com/diegesisandmimesis/modularExecuteCommand.git
+  format: git
+  branch: main
+build:
+  exports:
+  - type: lib
+    path: modularExecuteCommand/modularExecuteCommand

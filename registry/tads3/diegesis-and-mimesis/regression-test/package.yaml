@@ -1,0 +1,5 @@
+schema-version: 1
+id: regression-test
+name: regressionTest
+author: Diegesis & Mimesis
+description: A framework for simple modular regression testing.

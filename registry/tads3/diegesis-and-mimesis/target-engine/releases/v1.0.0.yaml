@@ -1,0 +1,17 @@
+schema-version: 2
+maintainer: Diegesis & Mimesis
+date: '2025-09-23'
+dependencies:
+  - id: tads3/diegesis-and-mimesis/bind
+  - id: tads3/diegesis-and-mimesis/exec-command-as
+  - id: tads3/diegesis-and-mimesis/output-toggle
+  - id: tads3/diegesis-and-mimesis/syslog
+  - id: tads3/diegesis-and-mimesis/third-person-action
+source:
+  url: https://github.com/diegesisandmimesis/targetEngine.git
+  format: git
+  branch: main
+build:
+  exports:
+  - type: lib
+    path: targetEngine/targetEngine

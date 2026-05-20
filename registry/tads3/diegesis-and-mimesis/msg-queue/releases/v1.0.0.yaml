@@ -1,0 +1,11 @@
+schema-version: 2
+maintainer: Diegesis & Mimesis
+date: '2023-06-01'
+source:
+  url: https://github.com/diegesisandmimesis/msgQueue.git
+  format: git
+  branch: main
+build:
+  exports:
+  - type: lib
+    path: msgQueue/msgQueue

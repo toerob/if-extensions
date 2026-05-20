@@ -1,0 +1,6 @@
+schema-version: 1
+id: keyword-action
+name: keywordAction
+author: Diegesis & Mimesis
+description: A TADS3 module facilitating the definition of arbitrary keywords to work as
+  actions

@@ -1,0 +1,6 @@
+schema-version: 1
+id: person-scope
+name: personScope
+author: Diegesis & Mimesis
+description: A TADS3/adv3 module for handling failure messages for actions referring to
+  characters not in scope.

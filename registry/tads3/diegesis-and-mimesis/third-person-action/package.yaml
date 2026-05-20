@@ -1,0 +1,6 @@
+schema-version: 1
+id: third-person-action
+name: thirdPersonAction
+author: Diegesis & Mimesis
+description: A TADS3/adv3 module that modifies stock actions whose default behavior only
+  works when the action is taken by the player.

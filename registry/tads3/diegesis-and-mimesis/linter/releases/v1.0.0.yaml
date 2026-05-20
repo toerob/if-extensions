@@ -1,0 +1,11 @@
+schema-version: 2
+maintainer: Diegesis & Mimesis
+date: '2024-08-07'
+source:
+  url: https://github.com/diegesisandmimesis/linter.git
+  format: git
+  branch: main
+build:
+  exports:
+  - type: lib
+    path: linter/linter

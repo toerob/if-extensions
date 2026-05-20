@@ -1,0 +1,5 @@
+schema-version: 1
+id: night-sky
+name: nightSky
+author: Diegesis & Mimesis
+description: A TADS3/adv3 module for computing the constellations visible in the night sky.

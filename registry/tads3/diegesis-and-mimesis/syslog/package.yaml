@@ -1,0 +1,5 @@
+schema-version: 1
+id: syslog
+name: syslog
+author: Diegesis & Mimesis
+description: Simple syslog(3)-ish logging for TADS3 debugging.

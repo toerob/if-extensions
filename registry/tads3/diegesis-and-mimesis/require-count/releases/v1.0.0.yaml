@@ -1,0 +1,11 @@
+schema-version: 2
+maintainer: Diegesis & Mimesis
+date: '2024-07-19'
+source:
+  url: https://github.com/diegesisandmimesis/requireCount.git
+  format: git
+  branch: main
+build:
+  exports:
+  - type: lib
+    path: requireCount/requireCount

@@ -1,0 +1,5 @@
+schema-version: 1
+id: target-engine
+name: targetEngine
+author: Diegesis & Mimesis
+description: A TADS3/adv3 module providing low-level NPC target-seeking behaviors.

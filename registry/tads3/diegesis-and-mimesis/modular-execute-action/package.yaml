@@ -1,0 +1,6 @@
+schema-version: 1
+id: modular-execute-action
+name: modularExecuteAction
+author: Diegesis & Mimesis
+description: This is a replacement for adv3's default executeAction() function, re-organized
+  to make updates and modifications easier.

@@ -1,0 +1,11 @@
+schema-version: 2
+maintainer: Diegesis & Mimesis
+date: '2026-02-03'
+source:
+  url: https://github.com/diegesisandmimesis/adv3Patches.git
+  format: git
+  branch: main
+build:
+  exports:
+  - type: lib
+    path: adv3Patches/adv3Patches

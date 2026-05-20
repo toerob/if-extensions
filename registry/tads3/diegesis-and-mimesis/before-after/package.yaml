@@ -1,0 +1,6 @@
+schema-version: 1
+id: before-after
+name: beforeAfter
+author: Diegesis & Mimesis
+description: A simple TADS3 module providing a mechanism for globally subscribing to
+  beforeAction() and afterAction()

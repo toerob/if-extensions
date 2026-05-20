@@ -1,0 +1,11 @@
+schema-version: 2
+maintainer: Diegesis & Mimesis
+date: '2023-12-13'
+source:
+  url: https://github.com/diegesisandmimesis/roomVocab.git
+  format: git
+  branch: main
+build:
+  exports:
+  - type: lib
+    path: roomVocab/roomVocab

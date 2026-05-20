@@ -1,0 +1,6 @@
+schema-version: 1
+id: file-to-prop
+name: fileToProp
+author: Diegesis & Mimesis
+description: A TADS3 module for loading the contents of a file and assigning it to a
+  property on an object, at preinit

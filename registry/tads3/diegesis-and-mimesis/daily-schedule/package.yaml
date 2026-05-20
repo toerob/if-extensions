@@ -1,0 +1,5 @@
+schema-version: 1
+id: daily-schedule
+name: dailySchedule
+author: Diegesis & Mimesis
+description: An extension to the calendar module for implementing NPC daily schedules

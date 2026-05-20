@@ -1,0 +1,11 @@
+schema-version: 2
+maintainer: Diegesis & Mimesis
+date: '2025-04-25'
+source:
+  url: https://github.com/diegesisandmimesis/yzzyx.git
+  format: git
+  branch: main
+build:
+  exports:
+  - type: lib
+    path: yzzyx/yzzyx

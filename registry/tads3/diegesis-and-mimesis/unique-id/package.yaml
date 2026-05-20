@@ -1,0 +1,5 @@
+schema-version: 1
+id: unique-id
+name: uniqueID
+author: Diegesis & Mimesis
+description: A TADS3/adv3 module for creating and managing unique object IDs.

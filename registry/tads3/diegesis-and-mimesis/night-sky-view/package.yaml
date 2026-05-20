@@ -1,0 +1,5 @@
+schema-version: 1
+id: night-sky-view
+name: nightSkyView
+author: Diegesis & Mimesis
+description: A TADS3/adv3 module adding night sky visibility to outdoor rooms, built on the nightSky module

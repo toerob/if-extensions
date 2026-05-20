@@ -1,0 +1,11 @@
+schema-version: 2
+maintainer: Diegesis & Mimesis
+date: '2024-07-31'
+source:
+  url: https://github.com/diegesisandmimesis/personScope.git
+  format: git
+  branch: main
+build:
+  exports:
+  - type: lib
+    path: personScope/personScope

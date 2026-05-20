@@ -1,0 +1,16 @@
+schema-version: 2
+maintainer: Diegesis & Mimesis
+date: '2024-11-26'
+dependencies:
+  - id: tads3/diegesis-and-mimesis/int-math
+  - id: tads3/diegesis-and-mimesis/linter
+  - id: tads3/diegesis-and-mimesis/not-really-random
+  - id: tads3/diegesis-and-mimesis/simple-graph
+source:
+  url: https://github.com/diegesisandmimesis/markovChain.git
+  format: git
+  branch: main
+build:
+  exports:
+  - type: lib
+    path: markovChain/markovChain

@@ -1,0 +1,14 @@
+schema-version: 2
+maintainer: Diegesis & Mimesis
+date: '2024-03-27'
+dependencies:
+  - id: tads3/diegesis-and-mimesis/rule-engine
+  - id: tads3/diegesis-and-mimesis/simple-graph
+source:
+  url: https://github.com/diegesisandmimesis/stateMachine.git
+  format: git
+  branch: main
+build:
+  exports:
+  - type: lib
+    path: stateMachine/stateMachine

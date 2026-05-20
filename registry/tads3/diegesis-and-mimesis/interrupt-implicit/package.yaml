@@ -1,0 +1,6 @@
+schema-version: 1
+id: interrupt-implicit
+name: interruptImplicit
+author: Diegesis & Mimesis
+description: A very simple TADS3 module providing a mechanism for easily interrupting
+  implicit actions

@@ -1,0 +1,5 @@
+schema-version: 1
+id: bind
+name: bind
+author: Diegesis & Mimesis
+description: A TADS3/adv3 module providing a mechanism to bind a method and context
