@@ -1,0 +1,9 @@
+schema-version: 1
+id: tidsformer
+name: tidsformer
+author: Tomas Öberg
+description: 
+  Addition to Swedish inform. Provides the ability to let the library express itself in the past tense ("You opened the box.") and to switch to first- ("I open the box.") or third-person perspective ("Anna opens the box.").
+  Tillägg till swedish inform. Ger möjlighet att låta biblioteket uttrycka sig i dåtid ("Du öppnade lådan.") samt att byta till första- ("Jag öppnar lådan.") eller tredjepersonsperspektiv ("Anna öppnar lådan."). 
+
+

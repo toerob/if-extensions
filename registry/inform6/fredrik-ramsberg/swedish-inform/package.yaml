@@ -1,0 +1,5 @@
+schema-version: 1
+id: swedish-inform
+name: swedish-inform
+author: Fredrik Ramsberg
+description: Swedish translation of the Inform 6 libraries 

@@ -1,0 +1,6 @@
+schema-version: 1
+date: '2008-08-27'
+source:
+  url: https://www.microheaven.com/svenska/filarkiv/swedish_inform.zip
+  format: zip
+description: Swedish translation of the Inform 6 libraries. Requires at least Inform 6.31 and library 6/11. Version 1.6 of the translation.

@@ -1,0 +1,7 @@
+schema-version: 1
+date: '2008-11-08'
+source:
+  url: https://www.microheaven.com/svenska/tillagg/Tidsformer.zip
+  format: zip
+dependencies:
+  - id: inform6/fredrik-ramsberg/swedish-inform
