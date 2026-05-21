@@ -1,0 +1,6 @@
+schema-version: 1
+maintainer: ZILF Library Extension
+date: '2020-10-19'
+source:
+  url: https://raw.githubusercontent.com/ZIL-Collaborations/Extensions/refs/heads/master/Scoring.zil
+  format: zil

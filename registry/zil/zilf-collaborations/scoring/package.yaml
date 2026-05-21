@@ -1,0 +1,5 @@
+schema-version: 1
+id: scoring
+name: Scoring
+author:  ZILF Library Extension
+description: Score notifications on demand and on update

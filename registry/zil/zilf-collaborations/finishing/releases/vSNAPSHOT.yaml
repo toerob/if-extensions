@@ -1,0 +1,6 @@
+schema-version: 1
+maintainer: ZILF Library Extension
+date: '2020-10-09'
+source:
+  url: https://raw.githubusercontent.com/ZIL-Collaborations/Extensions/refs/heads/master/Finishing.zil
+  format: zil

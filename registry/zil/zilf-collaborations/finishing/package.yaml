@@ -1,0 +1,5 @@
+schema-version: 1
+id: finishing
+name: Finishing
+author:  ZILF Library Extension
+description: Ending the game in a scoring-friendly manner

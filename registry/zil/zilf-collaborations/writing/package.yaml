@@ -1,0 +1,5 @@
+schema-version: 1
+id: writing
+name: Writing
+author:  ZILF Library Extension
+description: supports writing on/in objects
