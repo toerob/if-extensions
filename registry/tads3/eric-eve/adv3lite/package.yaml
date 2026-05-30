@@ -1,0 +1,5 @@
+schema-version: 1
+id: adv3lite
+name: adv3lite
+author: Eric Eve
+description: Adv3Lite is an alternative library for use with with the TADS 3 Interactive Fiction authoring system.

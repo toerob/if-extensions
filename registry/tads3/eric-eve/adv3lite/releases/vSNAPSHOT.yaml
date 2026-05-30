@@ -1,0 +1,10 @@
+schema-version: 1
+date: '''2026-05-30'''
+source:
+  url: https://github.com/EricEve/adv3lite.git
+  format: git
+  branch: master
+build:
+  exports:
+  - type: define
+    value: LANGUAGE=english
