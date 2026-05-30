@@ -1,5 +1,5 @@
 schema-version: 1
-date: '''2026-05-30'''
+date: '2026-05-30'
 source:
   url: https://github.com/EricEve/adv3lite.git
   format: git
