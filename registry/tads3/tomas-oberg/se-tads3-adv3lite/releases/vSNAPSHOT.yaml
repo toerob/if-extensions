@@ -1,0 +1,10 @@
+schema-version: 1
+date: '2026-05-30'
+source:
+  url: git@github.com:toerob/se-tads3-adv3Lite.git
+  format: git
+  branch: main
+build:
+  exports:
+  - type: define
+    value: LANGUAGE=swedish
