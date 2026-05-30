@@ -1,5 +1,5 @@
 schema-version: 1
-date: 2026-05-30
+date: '2026-05-30'
 source:
   url: git@github.com:toerob/se-tads3-adv3Lite.git
   format: git
